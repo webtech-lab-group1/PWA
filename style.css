@@ -7,6 +7,10 @@ body {
   margin: 0;
 }
 
+html, body {
+  height: 100%;
+}
+
 
 /*#############  navbar  ##############*/
 
@@ -20,6 +24,15 @@ nav ul {
   overflow: hidden;
   margin: 0;
   padding: 0;
+}
+
+div.container {
+  display: block;
+  width: 10%;
+}
+
+div#map {
+  height: 100%;
 }
 
 ul.topnav li {

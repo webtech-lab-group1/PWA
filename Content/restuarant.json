@@ -1,0 +1,415 @@
+[
+ {
+   "FIELD1": "Name of Restuarant ",
+   "FIELD2": "Category ",
+   "FIELD3": "Location",
+   "FIELD4": "Longtitude",
+   "FIELD5": "Latitude"
+ },
+ {
+   "FIELD1": "50's Diner",
+   "FIELD2": "American",
+   "FIELD3": "4/F Porta Vaga Mall, Session Road, Baguio City",
+   "FIELD4": "120.59855560000005",
+   "FIELD5": "16.4119417"
+ },
+ {
+   "FIELD1": "Amare La Cucina",
+   "FIELD2": "Italian",
+   "FIELD3": "EGI Albergo Hotel, 1 Villamor Dr, Lualhati, Baguio City",
+   "FIELD4": "120.61740800000007",
+   "FIELD5": "16.413665"
+ },
+ {
+   "FIELD1": "Arca's Yard",
+   "FIELD2": "International",
+   "FIELD3": "777 Tiptop, Ambuklao Rd, Baguio City",
+   "FIELD4": "120.62308400000006",
+   "FIELD5": "16.4289289"
+ },
+ {
+   "FIELD1": "Brrr Grrr",
+   "FIELD2": "American",
+   "FIELD3": "Kiwing na Kahoy Food Kommunity, Ili Likha Artist Village, Baguio City",
+   "FIELD4": "120.59738240000001",
+   "FIELD5": "16.4138488"
+ },
+ {
+   "FIELD1": "Baguio Craft Brewery",
+   "FIELD2": "International",
+   "FIELD3": "Ben Palispis Highway, Baguio City",
+   "FIELD4": "120.58062940000002",
+   "FIELD5": "16.3952485"
+ },
+ {
+   "FIELD1": "Cafe Adriana by Hill Station",
+   "FIELD2": "Spanish",
+   "FIELD3": "Outlook Ridge Residences, V. De los Reyes Street, DMCI, Outlook Drive, Baguio City",
+   "FIELD4": "120.62475960000006",
+   "FIELD5": "16.4128084"
+ },
+ {
+   "FIELD1": "Cafe in the sky",
+   "FIELD2": "Filipino",
+   "FIELD3": "Mt Sto Tomas, Poblacion Kabuyao, Tuba, Baguio City",
+   "FIELD4": "120.56072169999993",
+   "FIELD5": "16.3622564"
+ },
+ {
+   "FIELD1": "Cafe Will",
+   "FIELD2": "International",
+   "FIELD3": "MH Del Pilar Legarda Rd, Baguio City",
+   "FIELD4": "120.59241129999998",
+   "FIELD5": "16.4083373"
+ },
+ {
+   "FIELD1": "Camping Date",
+   "FIELD2": "Korean",
+   "FIELD3": "363 Legarda Road, in front of Prince Plaza Hotel, Baguio",
+   "FIELD4": "120.59137129999999",
+   "FIELD5": "16.4097267"
+ },
+ {
+   "FIELD1": "Central Park Restaurant",
+   "FIELD2": "Chinese",
+   "FIELD3": "136 Carino Street, Baguio, 2600 Benguet",
+   "FIELD4": "120.59120400000006",
+   "FIELD5": "16.411816"
+ },
+ {
+   "FIELD1": "Chil Cheon Gak",
+   "FIELD2": "Korean",
+   "FIELD3": "Bukaneg St, Baguio, 2600 Benguet",
+   "FIELD4": "120.59110140000007",
+   "FIELD5": "16.4102709"
+ },
+ {
+   "FIELD1": "Chef's Home",
+   "FIELD2": "Asian",
+   "FIELD3": "13 Outlook Dr cor Romulo Drive, Baguio City",
+   "FIELD4": "120.58410200000003",
+   "FIELD5": "16.399434"
+ },
+ {
+   "FIELD1": "David's Tea house",
+   "FIELD2": "Chinese",
+   "FIELD3": "3/F SM City Baguio, Baguio City",
+   "FIELD4": "120.59970799999996",
+   "FIELD5": "16.4091379"
+ },
+ {
+   "FIELD1": "Dencio's Bar and Grill",
+   "FIELD2": "Filipino",
+   "FIELD3": "Mile-Hi Center, Camp John Hay, Baguio City, Camp John Hay, Baguio, Benguet",
+   "FIELD4": "120.61660000000006",
+   "FIELD5": "16.401797"
+ },
+ {
+   "FIELD1": "Don Henrico's",
+   "FIELD2": "Italian",
+   "FIELD3": "Lower G/F SM City Baguio, Baguio City",
+   "FIELD4": "120.59939899999995",
+   "FIELD5": "16.409354"
+ },
+ {
+   "FIELD1": "Elements Buffet",
+   "FIELD2": "International",
+   "FIELD3": "Newtown Plaza Hotel, 42 Claro Recto Street, St. Joseph Village, Navy Base, Baguio City",
+   "FIELD4": "120.61219900000003",
+   "FIELD5": "16.4161188"
+ },
+ {
+   "FIELD1": "El Costa Yuri's",
+   "FIELD2": "International",
+   "FIELD3": "10 Marcoville St, Baguio City",
+   "FIELD4": "120.60294539999995",
+   "FIELD5": "16.4062831"
+ },
+ {
+   "FIELD1": "Ebai's Cafe & Pastry",
+   "FIELD2": "International",
+   "FIELD3": "Narda Bldg., 151 Upper Session Rd, Baguio City",
+   "FIELD4": "120.6015476",
+   "FIELD5": "16.4059152"
+ },
+ {
+   "FIELD1": "Foggy Mountain Cookhouse",
+   "FIELD2": "Mediterranean",
+   "FIELD3": "172 St Joseph Street, San Carlos Heights, Baguio City",
+   "FIELD4": "120.56710320000002",
+   "FIELD5": "16.4104011"
+ },
+ {
+   "FIELD1": "Forest House Bistro & Cafe",
+   "FIELD2": "International",
+   "FIELD3": "16 Loakan Rd, Camp John Hay, Baguio City",
+   "FIELD4": "120.60724470000002",
+   "FIELD5": "16.4025562"
+ },
+ {
+   "FIELD1": "Fortune Hongkong Seafood Restaurant",
+   "FIELD2": "Chinese",
+   "FIELD3": "14-16 Otek St, Baguio City",
+   "FIELD4": "120.5920562",
+   "FIELD5": "16.4123453"
+ },
+ {
+   "FIELD1": "Giligan's Island",
+   "FIELD2": "Filipino",
+   "FIELD3": "7 Legarda Rd cor G Del Pilar St, Baguio City",
+   "FIELD4": "120.59094030000006",
+   "FIELD5": "16.4111052"
+ },
+ {
+   "FIELD1": "Good Taste",
+   "FIELD2": "Asian",
+   "FIELD3": "Carino St. cor Otek St, Baguio City",
+   "FIELD4": "120.59197169999993",
+   "FIELD5": "16.4118463"
+ },
+ {
+   "FIELD1": "Gossip Coffee Shop",
+   "FIELD2": "International",
+   "FIELD3": "76 Upper General Luna Road, Baguio City",
+   "FIELD4": "120.6022805",
+   "FIELD5": "16.4120414"
+ },
+ {
+   "FIELD1": "Grumpy Joe",
+   "FIELD2": "International",
+   "FIELD3": "111 Jungle Town, Leonard Wood Road,, Baguio City",
+   "FIELD4": "120.60318840000002",
+   "FIELD5": "16.4098057"
+ },
+ {
+   "FIELD1": "Hill Station",
+   "FIELD2": "International",
+   "FIELD3": "Casa Vallejo, Upper Session Road, Baguio City",
+   "FIELD4": "120.60062119999998",
+   "FIELD5": "16.4095591"
+ },
+ {
+   "FIELD1": "Hotel Veneracion bistro & Cafe",
+   "FIELD2": "International",
+   "FIELD3": "Loakan Road, Baguio City",
+   "FIELD4": "120.59693089999996",
+   "FIELD5": "16.4021743"
+ },
+ {
+   "FIELD1": "Jay-J's Inasal",
+   "FIELD2": "Filipino",
+   "FIELD3": "Mt. Crest Hotel Legarda Rd, Baguio City",
+   "FIELD4": "120.5904812",
+   "FIELD5": "16.4117262"
+ },
+ {
+   "FIELD1": "Kubong sawali",
+   "FIELD2": "Filipino",
+   "FIELD3": "Military Cut-Off Road, Baguio City",
+   "FIELD4": "120.59941720000006",
+   "FIELD5": "16.4030681"
+ },
+ {
+   "FIELD1": "Kung Jeon Restaurant",
+   "FIELD2": "Korean",
+   "FIELD3": "38 South Drive, Baguio City",
+   "FIELD4": "120.61056719999999",
+   "FIELD5": "16.4085557"
+ },
+ {
+   "FIELD1": "La Casa Bianca",
+   "FIELD2": "International",
+   "FIELD3": "#13 Leonard Wood, Baguio City",
+   "FIELD4": "120.60421139999994",
+   "FIELD5": "16.4113069"
+ },
+ {
+   "FIELD1": "Le Chef",
+   "FIELD2": "International",
+   "FIELD3": "The Manor, Camp John Hay, Baguio City",
+   "FIELD4": "120.61762880000003",
+   "FIELD5": "16.4004588"
+ },
+ {
+   "FIELD1": "Lemon and Olives Greek Taverna",
+   "FIELD2": "Mediterranean",
+   "FIELD3": "#26 Outlook Drive, Baguio City",
+   "FIELD4": "120.62315650000005",
+   "FIELD5": "16.4108855"
+ },
+ {
+   "FIELD1": "Max's Restaurant",
+   "FIELD2": "Filipino",
+   "FIELD3": "G/F Porta Vaga Mall, Session Road, Baguio City",
+   "FIELD4": "120.59814460000007",
+   "FIELD5": "16.4123712"
+ },
+ {
+   "FIELD1": "Mr. Ching",
+   "FIELD2": "Chinese",
+   "FIELD3": "Legarda Road, Baguio City",
+   "FIELD4": "120.59191110000006",
+   "FIELD5": "16.4093896"
+ },
+ {
+   "FIELD1": "Nacho King",
+   "FIELD2": "American",
+   "FIELD3": "G/F SM City Baguio, Upper Session Road, Baguio City",
+   "FIELD4": "120.59924130000002",
+   "FIELD5": "16.4088445"
+ },
+ {
+   "FIELD1": "Naruto",
+   "FIELD2": "Japanese",
+   "FIELD3": "UG/F Travelite Express Hotel, infront of Baguio City Hall, Baguio City",
+   "FIELD4": "120.59250150000003",
+   "FIELD5": "16.4135003"
+ },
+ {
+   "FIELD1": "O' Mai Khan",
+   "FIELD2": "Mongolian",
+   "FIELD3": "Upper Session Road, Baguio City",
+   "FIELD4": "120.60118720000003",
+   "FIELD5": "16.4065005"
+ },
+ {
+   "FIELD1": "Oh My Gulay",
+   "FIELD2": "Filipino",
+   "FIELD3": "La Azotea Building, 108 Session Road, Baguio City",
+   "FIELD4": "120.59810670000002",
+   "FIELD5": "16.411751"
+ },
+ {
+   "FIELD1": "Ozark Diner",
+   "FIELD2": "American",
+   "FIELD3": "2 Bear's Trail cor Bareng Drive, Baguio City",
+   "FIELD4": "120.59385599999996",
+   "FIELD5": "16.383273"
+ },
+ {
+   "FIELD1": "Pancake House",
+   "FIELD2": "International",
+   "FIELD3": "Ordonio Dr, Camp John Hay, Baguio, 2600 Benguet",
+   "FIELD4": "120.60911439999995",
+   "FIELD5": "16.3989304"
+ },
+ {
+   "FIELD1": "Patch Cafe",
+   "FIELD2": "International",
+   "FIELD3": "G/F Bloomfield Hotel along Leonard Wood Rd, Baguio City",
+   "FIELD4": "120.60010720000002",
+   "FIELD5": "16.4103738"
+ },
+ {
+   "FIELD1": "Picarre",
+   "FIELD2": "International",
+   "FIELD3": "G/F SM City Baguio, Luneta Hill Drive, Baguio City",
+   "FIELD4": "120.59947729999999",
+   "FIELD5": "16.4094106"
+ },
+ {
+   "FIELD1": "Point and Grill",
+   "FIELD2": "Filipino",
+   "FIELD3": "Session Road, Baguio City",
+   "FIELD4": "120.59795980000001",
+   "FIELD5": "16.4119687"
+ },
+ {
+   "FIELD1": "Q Bar",
+   "FIELD2": "International",
+   "FIELD3": "Leonard Wood Road, Baguio City",
+   "FIELD4": "120.5969758",
+   "FIELD5": "16.4019618"
+ },
+ {
+   "FIELD1": "Rasa Pura",
+   "FIELD2": "Singaporrean",
+   "FIELD3": "42 CM Recto cor Leonard Wood, Baguio City",
+   "FIELD4": "120.61194449999994",
+   "FIELD5": "16.415819"
+ },
+ {
+   "FIELD1": "Red Lion Pub & Inn",
+   "FIELD2": "Filipino",
+   "FIELD3": "35 Leonard Wood Loop, Barangay Manuel Roxas, Baguio, 2600 Benguet",
+   "FIELD4": "120.60756420000007",
+   "FIELD5": "16.4138"
+ },
+ {
+   "FIELD1": "Red Station",
+   "FIELD2": "Korean",
+   "FIELD3": "Legarda Road, Baguio City",
+   "FIELD4": "120.5911423",
+   "FIELD5": "16.4102648"
+ },
+ {
+   "FIELD1": "Rose Bowl",
+   "FIELD2": "Chinese",
+   "FIELD3": "88 Upper Gen. Luna Rd, Baguio City",
+   "FIELD4": "120.60274099999992",
+   "FIELD5": "16.410867"
+ },
+ {
+   "FIELD1": "Seafood Island Restaurant",
+   "FIELD2": "Filipino",
+   "FIELD3": "Baguio Technohub Retail Plaza, Camp John Hay, Baguio City",
+   "FIELD4": "120.60885159999998",
+   "FIELD5": "16.3986476"
+ },
+ {
+   "FIELD1": "Secret Garden",
+   "FIELD2": "Italian",
+   "FIELD3": "34 Paterno Street, South Drive Rd, Baguio City",
+   "FIELD4": "120.61125760000004",
+   "FIELD5": "16.4108154"
+ },
+ {
+   "FIELD1": "Steaks and Toppings",
+   "FIELD2": "International",
+   "FIELD3": "Session Road, Baguio City",
+   "FIELD4": "120.59807180000007",
+   "FIELD5": "16.4122678"
+ },
+ {
+   "FIELD1": "Teriyaki Boy",
+   "FIELD2": "Japanese",
+   "FIELD3": "2/F SM City Baguio, Luneta Hill Drive, Baguio City",
+   "FIELD4": "120.59940200000005",
+   "FIELD5": "16.409341"
+ },
+ {
+   "FIELD1": "The Roadhouse barn",
+   "FIELD2": "American",
+   "FIELD3": "G/F Albergo Hotel Unit 119 #1 Villamor Drive, Lualhati, Baguio City",
+   "FIELD4": "120.61781080000003",
+   "FIELD5": "16.4136987"
+ },
+ {
+   "FIELD1": "The Kitchen",
+   "FIELD2": "Filipino",
+   "FIELD3": "80 Upper Gen. Luna Road, Baguio City",
+   "FIELD4": "120.6026369",
+   "FIELD5": "16.4118626"
+ },
+ {
+   "FIELD1": "Urban Seoul",
+   "FIELD2": "Korean",
+   "FIELD3": "Marcos Hi-way, Baguio City",
+   "FIELD4": "120.5918762",
+   "FIELD5": "16.4009022"
+ },
+ {
+   "FIELD1": "Under the tree book cafe",
+   "FIELD2": "International",
+   "FIELD3": "26 Baden Powell Inn, Governor Pack Rd, Baguio City",
+   "FIELD4": "120.59882949999997",
+   "FIELD5": "16.4105355"
+ },
+ {
+   "FIELD1": "Vizco's Restaurant and Bakeshop",
+   "FIELD2": "International",
+   "FIELD3": "G/F Baguio AyalaLand TechnoHub, Camp John Hay, Baguio City",
+   "FIELD4": "120.60835810000003",
+   "FIELD5": "16.3984469"
+ }
+]

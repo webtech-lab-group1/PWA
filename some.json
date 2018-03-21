@@ -1,0 +1,21 @@
+{
+  {
+    "name":"50's Dinner",
+    "category":"American",
+    "location":"4/F Porta Vaga Mall, Session Road, Baguio City",
+    "longitude":16.4119417,
+    "latitude":120.59855560,
+    "menu": {
+      "item1": {
+        "name":"Chicken Spears",
+        "description":"Spicy loin of chicken deep fried with hot spicy breading nuggets style",
+        "price":100.00
+      },
+      "item2": {
+        "name":"White Chicken",
+        "description":"Pcs of chicken marinated with herbs then steam to perfection. Serve with rice",
+        "price":100.00
+      }
+    }
+  }
+}

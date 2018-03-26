@@ -1044,70 +1044,916 @@
    "category": "Asian",
    "location": "13 Outlook Dr cor Romulo Drive, Baguio City",
    "longitude": "120.58410200000003",
-   "latitude": "16.399434"
+   "latitude": "16.399434",
+  "menu": {
+   "item1": {
+      "name": "Pickles Tester",
+      "description": "peppers, both hot and sweet, come in all shapes and colors",
+      "price": "150.00"
+   },
+   "item2": {
+      "name": "Skinned Oysters w/ CGL",
+      "description": "coated with seasoned flour dipping once in red wine then recoated",
+      "price": "270.00"
+   },
+   "item3": {
+      "name": "Crispy Grouper Skin Salad",
+      "description": "thai Crispy Papaya Salad",
+      "price": "250.00"
+   },
+   "item4": {
+      "name": "Deep Fried Fish Tofu w/ SFS",
+      "description": "Process tofu and salmon until smooth",
+      "price": "250.00"
+   },
+   "item5": {
+      "name": "Trai Crispy Papaya Salad",
+      "description": "Menu of the day",
+      "price": "280.00"
+   },
+   "item6": {
+      "name": "Trai Pan-Grilled Pork Salad",
+      "description": "tender juicy pork paired with the fragrant lemon grass, kaffir lime leaves and other seasonings, make this warm salad a keeper.",
+      "price": "290.00"
+   },
+   "item7": {
+      "name": "Crackling Squid / Prawn",
+      "description": " deep fried crackers made from starch and prawn that serve as flavoring",
+      "price": "90.00"
+   },
+   "item8": {
+      "name": "Grouper Fillet",
+      "description": " drizzle a little olive oil and some fresh lemon juice over the fresh grouper",
+      "price": "400.00"
+   },
+   "item9": {
+      "name": "Cream Dory",
+      "description": "pan-fried fish and a sauce made with Knorr Ginataang Gulay Complete Recipe Mix and cream",
+      "price": "240.00"
+   },
+   "item10": {
+      "name": "Seafood",
+      "description": "Menu of the day",
+      "price": "600.00"
+   },
+   "item11": {
+      "name": "King Prawns",
+      "description": "Menu of the day",
+      "price": "750.00"
+   },
+   "item12": {
+      "name": "Steamed Chicken with Chinese Herbs and Red Apple Soup",
+      "description": "This delicious and healthy Chinese herbal chicken soup not only warms your heart but also heals your body and soul",
+      "price": "300.00"
+   },
+   "item13": {
+      "name": "Boneless Chicken or Dory with 3FS",
+      "description": "Menu of the day",
+      "price": "350.00"
+   },
+   "item14": {
+      "name": "Stir Fried Chicken w/Dried Chili",
+      "description": "the nutty flavour and crunch of toasted (or fried) peanuts or cashew nuts, chunks of juicy, tender chicken with garlic and onion slivers, all tossed",
+      "price": "150.00"
+   },
+   "item15": {
+      "name": "Hookien Noodles",
+      "description": "Menu of the day",
+      "price": "280.00"
+   },
+   "item16": {
+      "name": "Coffeelicious Pork",
+      "description": "rolled in coffee sauce then sprinkled with sesame seeds",
+      "price": "280.00"
+   },
+   "item17": {
+      "name": "Sweet and Sour Pork",
+      "description": "has a tangy flavor that everyone will surely love",
+      "price": "240.00"
+   },
+   "item18": {
+      "name": "Thai Style Omelette",
+      "description": "a common snack to eat on the street or a quick breakfast or lunch",
+      "price": "130.00"
+   },
+   "item19": {
+      "name": "Braised Pork Belly",
+      "description": "has a perfectly balanced sweet and savory flavo",
+      "price": "290.00"
+   },
+   "item20": {
+      "name": "Norwegian Salmon",
+      "description": "delivers a clean taste and texture that comes from a slow, natural growth process and exceptional regulations to ensure safety",
+      "price": "550.00"
+   }
+  }
  },
  {
    "name": "David's Tea house",
    "category": "Chinese",
    "location": "3/F SM City Baguio, Baguio City",
    "longitude": "120.59970799999996",
-   "latitude": "16.4091379"
+   "latitude": "16.4091379",
+  "menu": {
+   "item1": {
+      "name": "Polonchay w/ Seafood Soup",
+      "description": "Crab Legs with Garlic Butter Sauce",
+      "price": "295.00"
+   },
+   "item2": {
+      "name": "Pumpkin w/ Seafood Soup",
+      "description": "all kinds of seafood soups and stews, from all cultures with land near the sea based from pumpkins",
+      "price": "295.00"
+   },
+   "item3": {
+      "name": "Nido w/ Quail Egg Soup",
+      "description": "soup with mock bird's nest and boiled quail eggs",
+      "price": "265.00"
+   },
+   "item4": {
+      "name": "David's Special Noodles/ Hofan",
+      "description": "special homemade noodles by Davids tea house",
+      "price": "205.00"
+   },
+   "item5": {
+      "name": "Beef Brisket Noodles/ Hofan",
+      "description": "used Chinese dry aromatics and beef with marbled fat making a delicious rich beef noodle soup",
+      "price": "190.00"
+   },
+   "item6": {
+      "name": "Meat Ball Noodles/ Hofan",
+      "description": "used Chinese dry aromatics and meat with marbled fat making a delicious rich beef noodle soup",
+      "price": "165.00"
+   },
+   "item7": {
+      "name": "David's Hot Chicken Salad",
+      "description": "added fresh chopped basil, scallions with the green parts, chopped red pepper, dried cranberries and sugar coated walnuts instead of almonds",
+      "price": "360.00"
+   },
+   "item8": {
+      "name": "Honey Glazed Chicken",
+      "description": "super-simple recipe makes a crisp-tender chicken with a perfect, sticky glaze",
+      "price": "320.00"
+   },
+   "item9": {
+      "name": "Fried Breaded Chicken w/ Salted Egg",
+      "description": "a delicious and rich tasting fried chicken in a special creamy sauce that is very popular and trendy  in Singapore",
+      "price": "280.00"
+   },
+   "item10": {
+      "name": "Lemon Chicken",
+      "description": "coated in a butter and herb sauce, then roasted to perfection",
+      "price": "270.00"
+   },
+   "item11": {
+      "name": "Fried Breaded Chicken",
+      "description": "Chicken Dip into beaten eggs and then coat with bread crumbs",
+      "price": "260.00"
+   },
+   "item12": {
+      "name": "Beef Tenderloin w/ Black Pepper",
+      "description": "Sprinkle generously with kosher salt and sugar, which will deepen the savory flavors",
+      "price": "375.00"
+   },
+   "item13": {
+      "name": "Sizzling Beef Tenderloin Chinese Style",
+      "description": "Tender steak cooked in a sweet sauce - tastes just like you get in the local Chinese restaurant.",
+      "price": "375.00"
+   },
+   "item14": {
+      "name": "Beef Brisket in Pot",
+      "description": "a pot roast-style dish where brisket is slowly braised in a rich gravy and more often than not vegetables like onions, carrots, and potatoes",
+      "price": "350.00"
+   },
+   "item15": {
+      "name": "Beef with Ampalaya",
+      "description": "Beef in Oyster Sauce Stir Fry with Ampalaya",
+      "price": "290.00"
+   },
+   "item16": {
+      "name": "David's Braised Pata Tim",
+      "description": "low and slow in a sweet and salty sauce with bok choy and mushrooms",
+      "price": "520.00"
+   },
+   "item17": {
+      "name": "Fried Crispy Pata",
+      "description": "Gently add pork leg and deep-fry, turning as needed, until golden",
+      "price": "520.00"
+   },
+   "item18": {
+      "name": "Spareribs with Special Sauce in Pot",
+      "description": "Succulent pork back ribs cooked in beer and coated with a special davids sauce",
+      "price": "300.00"
+   },
+   "item19": {
+      "name": "Sizzling King Dao Spareribs",
+      "description": " pork back ribs cooked in beer and coated with a special davids sauce",
+      "price": "270.00"
+   },
+   "item20": {
+      "name": "Shanghai Spring Roll",
+      "description": "a dish made-up of ground pork or beef, minced onion, carrots, and spices with the mixture held together by beaten egg.",
+      "price": "250.00"
+   }
+  }
  },
  {
    "name": "Dencio's Bar and Grill",
    "category": "Filipino",
    "location": "Mile-Hi Center, Camp John Hay, Baguio City, Camp John Hay, Baguio, Benguet",
    "longitude": "120.61660000000006",
-   "latitude": "16.401797"
+   "latitude": "16.401797",
+  "menu": {
+   "item1": {
+      "name": "Krunchy Kwek Kwek",
+      "description": "Ang paboritong Pinoy street food. Deep fried breaded quail eggs served with Dencio's special vinegar",
+      "price": "150.00"
+   },
+   "item2": {
+      "name": "Calamares",
+      "description": "Squid rings na marinated at breaded then deep fried to golden perfection. Each servings comes with a special calamares dip",
+      "price": "209.00"
+   },
+   "item3": {
+      "name": "Sizzling Atay at Balunbalunan",
+      "description": "Crunchy and deep fried mix na mas pinasarap na special sauce. Served on a sizzling plate",
+      "price": "150.00"
+   },
+   "item4": {
+      "name": "Dencio's Molo Soup",
+      "description": "Our tasty take on the traditional pork, dumpling soup with spring onions",
+      "price": "215.00"
+   },
+   "item5": {
+      "name": "Macho Sisig Nachos",
+      "description": "Nachos topped with tomato salsa at pina-Astig ng Dencio's Krispy Sisig. Dinagdagan pa ng cheese sauce drizzle for more flavor",
+      "price": "199.00"
+   },
+   "item6": {
+      "name": "Sizzling Chicken Isaw",
+      "description": "Fried chicken isaw with white onions, finger chili, and mayo for that zesty taste. Served on a sizzling plate",
+      "price": "180.00"
+   },
+   "item7": {
+      "name": "Hot and Spicy Tofulutan",
+      "description": "Deep fried golden brown tofu na ginisa sa siling labuyo at red bell pepper. Simahan ng Dencio's vinegar",
+      "price": "150.00"
+   },
+   "item8": {
+      "name": "Gising Gising",
+      "description": "A mix of finely chopped Baguio beans, ground pork at coconut milk na may saktong anghang",
+      "price": "260.00"
+   },
+   "item9": {
+      "name": "Kare-Kareng Gulay",
+      "description": "Sari-saring gulay cooked in rich and flavourful peanut sauce. Served with Dencio's bagoong para kumpleto ang lasap sarap",
+      "price": "185.00"
+   },
+   "item10": {
+      "name": "Ensaladang Mangga",
+      "description": "Chopped green mangoes, tomatoes at white onions served with special bagoong alamang",
+      "price": "145.00"
+   },
+   "item11": {
+      "name": "Tortang Talong with Crabmeat",
+      "description": "Grilled eggplant stuffed with crabmeat sauteed in garlic and onions, coated with battered egg and pan fried until golden brown. Served with catsup",
+      "price": "160.00"
+   },
+   "item12": {
+      "name": "Krispy Hipon",
+      "description": "Battered seasoned shrimps deep fried for that delicious crisp. Served with a special dipping sauce para mas complete and food experience",
+      "price": "165.00"
+   },
+   "item13": {
+      "name": "Kilawin Bisaya",
+      "description": "Tuna cubes with cuts of cucumber peel doused in creamy white sauce. Sinamahan ng spring onions, red bell peppers, at finger chili",
+      "price": "170.00"
+   },
+   "item14": {
+      "name": "Sizzling Gambas",
+      "description": "Peeled shrimps sauteed in butter garlic, finger chili, at seasoning. Served on a sizzling plate",
+      "price": "325.00"
+   },
+   "item15": {
+      "name": "Pusit a la Pobre",
+      "description": "Squid sauteed in garlic seasoning at white gravy. Served on a sizzling plate",
+      "price": "279.00"
+   },
+   "item16": {
+      "name": "Sizzling Tiyan ng Bangus",
+      "description": "Premium bangus belly cooked with carrots, Baguio beans and mushrooms, generously seasoned with gravy. Served on sizzling plate",
+      "price": "319.00"
+   },
+   "item17": {
+      "name": "Kangkong with Bagoong",
+      "description": "Blanched kangkong served with special bagoong alamang",
+      "price": "135.00"
+   },
+   "item18": {
+      "name": "Baked Green Mussels",
+      "description": "Dencio's well-loved baked mussels with grated cheese at paprika topping",
+      "price": "399.00"
+   },
+   "item19": {
+      "name": "Tripe and Tofu Skewers",
+      "description": "Tripe at tofu on sticks made more delectable by our special soy glaze",
+      "price": "195.00"
+   },
+   "item20": {
+      "name": "Krispy Kangkong",
+      "description": "Deep fried coated kangkong with a tasty dip",
+      "price": "155.00"
+   }
+  }
  },
  {
    "name": "Don Henrico's",
    "category": "Italian",
    "location": "Lower G/F SM City Baguio, Baguio City",
    "longitude": "120.59939899999995",
-   "latitude": "16.409354"
+   "latitude": "16.409354",
+  "menu": {
+   "item1": {
+      "name": "Homestyle Onion Rings",
+      "description": "Sweet onion rings, lightly breaded and deep-fried until golden crisp, served with our very own ranch dressing",
+      "price": "180.00"
+   },
+   "item2": {
+      "name": "Petite Mozzarella Sticks",
+      "description": "Deep-fried mozzarella cheese coated in special Italian-seasoned breading served with our marinara sauce",
+      "price": "190.00"
+   },
+   "item3": {
+      "name": "Calamari Friti",
+      "description": "Tender calamari lightly battered and fried to golden finish, served with marinara sauce",
+      "price": "190.00"
+   },
+   "item4": {
+      "name": "Dip & Nachos",
+      "description": "Warm cornmeal nachos served with creamy cheese sauce",
+      "price": "210.00"
+   },
+   "item5": {
+      "name": "Chicken Fingers & Potato Wedges",
+      "description": "Chicken tenderloin deep-fried to golden brown with potato wedges served with honey mustard dressing",
+      "price": "220.00"
+   },
+   "item6": {
+      "name": "Caesar Salad",
+      "description": "Crisp lettuce on Caesar dressing with roasted garlic chips, tomato, olives, freshly grated parmesan cheese, crisp bacon crumbles and croutons",
+      "price": "360.00"
+   },
+   "item7": {
+      "name": "Nachos Salad Ole'",
+      "description": "Taco beef, lettuce, tomatoes, onions, black olives, corn kernels served on a bed of crisp nacho chips with a Mexican-style dressing topped with grated cheddar cheese",
+      "price": "440.00"
+   },
+   "item8": {
+      "name": "Creamy Chicken Chowder",
+      "description": "Chunky chicken and vegetables in a thick and flavorful cream soup topped with garlic croutons",
+      "price": "85.00"
+   },
+   "item9": {
+      "name": "Seafood Tomato Soup",
+      "description": "A tasty fish and shellfish in a rich tomato broth served with roasted French bread",
+      "price": "85.00"
+   },
+   "item10": {
+      "name": "Hot Fish Sticks",
+      "description": "Fish fillet in a spicy marinade, battered, then deep fried served with rice and salad with our ranch dressing",
+      "price": "240.00"
+   },
+   "item11": {
+      "name": "Chicken Parmi",
+      "description": "Lightly-breaded chicken breast covered with marinara sauce topped with melted mozzarella cheese, served with cream pasta, corn and carrots",
+      "price": "280.00"
+   },
+   "item12": {
+      "name": "Oven Fried Chicken",
+      "description": "Non-breaded chicken, oven-fried till golden brown served with rice, gravy sauce, corn & carrots",
+      "price": "280.00"
+   },
+   "item13": {
+      "name": "Don Henrico's Buffalo Wings",
+      "description": "Traditional upstate New York style tender pieces of chicken wings marinated, cooked to perfection and coated with tangy BBQ sauce, served with our creamy ranch dressing sauce",
+      "price": "780.00"
+   },
+   "item14": {
+      "name": "Chicken Ala Buffalo",
+      "description": "Traditional upstate New York style tender pieces of chicken marinated, cooked to perfection and coated in tangy BBQ sauce, served with our creamy ranch dipping sauce",
+      "price": "780.00"
+   },
+   "item15": {
+      "name": "Captain Crunch Fried Chicken",
+      "description": "Tender cuts of chicken marinated in special seasoning and cooked to golden crisp perfection, crisp, tender and juicy inside, served with gravy sauce",
+      "price": "780.00"
+   },
+   "item16": {
+      "name": "Don Henrico's Supreme",
+      "description": "Don Henrico's very own creation, pepperoni, beef, ham, mushroom, pineapple tidbits, onion, bell pepper and black olives",
+      "price": "950.00"
+   },
+   "item17": {
+      "name": "Bacon Cheeseburger",
+      "description": "A great combination of bacon, beef, mushroom, onion, pickles topped with lettuce tossed with mayonnaise and tomato",
+      "price": "890.00"
+   },
+   "item18": {
+      "name": "Four Cheese Pizza",
+      "description": "Mozzarella, gorgonzola, cheddar and parmesan cheese baked with our own bechamels sauce",
+      "price": "860.00"
+   },
+   "item19": {
+      "name": "Beef Calzone",
+      "description": "Filled with pepperoni, beef, onion and bell pepper, plus 100% mozzarella cheese, homemade ricotta cheese and tasty cheese served with red sauce",
+      "price": "320.00"
+   },
+   "item20": {
+      "name": "Cheesy Baked Lasagna",
+      "description": "Lasagna rolls topped with home-made ricotta cheese, mozzarella cheese and sauteed beef chunks baked until cheese is bubbly, topped with red and white sauce sprinkled with parmesan cheese",
+      "price": "320.00"
+   }
+  }
  },
  {
    "name": "Ebai's Cafe & Pastry",
    "category": "International",
    "location": "Narda Bldg., 151 Upper Session Rd, Baguio City",
    "longitude": "120.6015476",
-   "latitude": "16.4059152"
+   "latitude": "16.4059152",
+  "menu": {
+   "item1": {
+      "name": "Filipino Breakfast",
+      "description": "choices of Longganisa, Tocino, Corned Beef or Boneless Daing na Bangus with Fried Egg and Garlic Rice",
+      "price": "118.00"
+   },
+   "item2": {
+      "name": "Continental Breakfast",
+      "description": "Whole Wheat Bread with Butter Jam",
+      "price": "88.00"
+   },
+   "item3": {
+      "name": "Ebai's Caesar",
+      "description": "garlic croutons that top this classic salad are wonderful, as is the anchovy-infused, very creamy dressing",
+      "price": "140.00"
+   },
+   "item4": {
+      "name": "Fresh Garden",
+      "description": "garlic croutons that top this classic salad are wonderful, as is the anchovy-infused, very creamy dressing",
+      "price": "118.00"
+   },
+   "item5": {
+      "name": "Chicharon Bulaklak",
+      "description": "deep-fried ruffled fat is a popular Filipino appetize",
+      "price": "182.00"
+   },
+   "item6": {
+      "name": "Crispy Kangkong",
+      "description": "made with battered water/river spinach leaves fried until light brown and crispy",
+      "price": "108.00"
+   },
+   "item7": {
+      "name": "Kuhol Sa Gata",
+      "description": " a freshwater snail stewed in coconut milk",
+      "price": "98.00"
+   },
+   "item8": {
+      "name": "Vegetable Sticks",
+      "description": "an assortment of tasty sweet potato, squash, carrot, green bean, and taro chips in pop stick form",
+      "price": "65.00"
+   },
+   "item9": {
+      "name": "Sizzliing Button Mushrooms",
+      "description": " A mix of fresh mushrooms gives it a delicious meaty texture and earthy flavor",
+      "price": "208.00"
+   },
+   "item10": {
+      "name": "Blue Marlin",
+      "description": "seasonal",
+      "price": "142.00"
+   },
+   "item11": {
+      "name": "Bacalao",
+      "description": "Spanish-style fish stew from the Basque region of Spain is a traditional peasant dish popular in all Spanish-speaking countries",
+      "price": "142.00"
+   },
+   "item12": {
+      "name": "Salmon Belly",
+      "description": "Sizzling Meal This versatile fish is an easy way to get more heart-healthy Omega-3 fatty acids into your diet",
+      "price": "118.00"
+   },
+   "item13": {
+      "name": "T-Bone Steak",
+      "description": "Sizzling Meal teaks of beef cut from the short loin Both steaks include a \"T-shaped\" bone with meat on each side",
+      "price": "148.00"
+   },
+   "item14": {
+      "name": "Arroz Caldo",
+      "description": "Merienda Specials",
+      "price": "98.00"
+   },
+   "item15": {
+      "name": "BLT",
+      "description": "served with French Fries",
+      "price": "108.00"
+   },
+   "item16": {
+      "name": "Tuna Sandwich",
+      "description": " a popular source of protein",
+      "price": "98.00"
+   },
+   "item17": {
+      "name": "Chicken Sandwich",
+      "description": "served with French Fries",
+      "price": "98.00"
+   },
+   "item18": {
+      "name": "Cheese Burger",
+      "description": "served with French Fries",
+      "price": "118.00"
+   },
+   "item19": {
+      "name": "Toasted Bread",
+      "description": "4pcs toasted bread",
+      "price": "55.00"
+   },
+   "item20": {
+      "name": "Garlic Bread",
+      "description": "4pcs garlic bread",
+      "price": "75.00"
+   }
+  }
  },
  {
    "name": "Foggy Mountain Cookhouse",
    "category": "Mediterranean",
    "location": "172 St Joseph Street, San Carlos Heights, Baguio City",
    "longitude": "120.56710320000002",
-   "latitude": "16.4104011"
+   "latitude": "16.4104011",
+  "menu":{
+   "item1": {
+      "name": "Oven Roasted Whole Chicken",
+      "description": "Butterflied whole chicken infused with fresh Italian herbs. Brick oven roasted for that succulent smoky taste - served with roasted veggies and potatoes.",
+      "price": "1,000.00"
+   },
+   "item2": {
+      "name": "Chicken Parmesan Pie",
+      "description": "Thigh fillet seasoned with parmesan cheese, pan fried, with fresh tomato and basil sauce, layered with mozzarella cheese, topped with herbs and mashed potatoes and parmesan cheese, oven roasted for that crusty luscious pie goodness!",
+      "price": "550.00"
+   },
+   "item3": {
+      "name": "Grilled Chipotle Pork Chop",
+      "description": "One inch thick pork chop marinated in chipotle spices and honey.. Southwestern flavor- a must try!",
+      "price": "550.00"
+   },
+   "item4": {
+      "name": "Porcheta",
+      "description": "Rolled boneless pork belly seasoned with Mediterranean herbs. In red wine reduction sauce and raisins. . My version of Italian roast pork. Crispy skin, juicy meat!",
+      "price": "550.00"
+   },
+   "item5": {
+      "name": "Fish and Squid Pie",
+      "description": "Medley of Giant Norwegian squid cutlets, cod loin or salmon cutlets, in cream and fennel seed sauce, topped with mashed potato, herb, cheese and crumbs. Baked to brown for that crispy crust.",
+      "price": "600.00"
+   },
+   "item6": {
+      "name": "Pan Fried White Fish Fillet",
+      "description": "Pan fried in olive oil. Crispy Crust. Topped with medley of tomatoes, basil and black olives in olive oil. Topped with parmesan cheese.",
+      "price": "450.00"
+   },
+   "item7": {
+      "name": "Smoked Salmon Carpaccio",
+      "description": "Thinly sliced smoked salmon with capers. Served on a bed of mixed greens drizzled with balsamic vinegar reduction, cold pressed extra virgin olive oil and chives. Health food. Cold dish.",
+      "price": "700.00"
+   },
+   "item8": {
+      "name": "Brick Oven Roasted Boneless Leg of Lamb",
+      "description": "Lamb slow roasted on brick oven marinated overnight in Moroccan spices. Served with Middle Eastern veggies. Drizzled with fresh mint and yogurt sauce.",
+      "price": "650.00"
+   },
+   "item9": {
+      "name": "Greek Peasant Lamb Dish",
+      "description": "Lamb shoulder cuts, slow simmered with fresh rosemary and red wine, fall off the bone! Served on top of mashed potato. Melting pot of Greek and Italian dish.",
+      "price": "600.00"
+   },
+   "item10": {
+      "name": "Split Pea Soup",
+      "description": "in ham hock stock with Italian garlic sausage",
+      "price": "175.00"
+   },
+   "item11": {
+      "name": "Penne Pasta with giant squid cutlets",
+      "description": "in cold pressed extra virgin olive oil with parmesan cheese (good for two)",
+      "price": "250.00"
+   },
+   "item12": {
+      "name": "Penne Pasta in egg sauce",
+      "description": "with truffle oil and parmesan cheese (good for two)",
+      "price": "200.00"
+   },
+   "item13": {
+      "name": "Cookhouse Banana Foster",
+      "description": "our take on this classic dessert (good for two)",
+      "price": "200.00"
+   }
+  }
  },
  {
    "name": "Forest House Bistro & Cafe",
    "category": "International",
    "location": "16 Loakan Rd, Camp John Hay, Baguio City",
    "longitude": "120.60724470000002",
-   "latitude": "16.4025562"
+   "latitude": "16.4025562",
+  "menu":{
+   "item1": {
+      "name": "Forest House Home Made Bagnet",
+      "description": "Crispy fried pork belly with papaya chutney and bagnet salsa",
+      "price": "195.00"
+   },
+   "item2": {
+      "name": "Quesadillas",
+      "description": "A choice of special chicken, tuna or sausage with mushroom sauteed in butter with melted cheese filling in tortilla wrapper with red salsa",
+      "price": "280.00"
+   },
+   "item3": {
+      "name": "Assorted Grilled Homemade Sausages",
+      "description": "A combination of Bratwurst, Breakfast, Hungarian and Smoked sausages, sauteed in butter with onion rings",
+      "price": "280.00"
+   },
+   "item4": {
+      "name": "Calamares Fritos",
+      "description": "Deep fried squid rings served with tartar sauce",
+      "price": "190.00"
+   },
+   "item5": {
+      "name": "Chicken Skin Chicharon",
+      "description": "Crispy chicken skin chicharon served with chili garlic vinegar",
+      "price": "160.00"
+   },
+   "item6": {
+      "name": "Forest House Bouillabaisse",
+      "description": "A medley of seafood cream soup, served in a bread bowl",
+      "price": "120.00"
+   },
+   "item7": {
+      "name": "Potato Cheese Chowder",
+      "description": "Creamy potato with melted cheese, served in a bread bowl",
+      "price": "120.00"
+   },
+   "item8": {
+      "name": "Wild Mushroom Cream Soup",
+      "description": "Cream based soup with wild mushroom, served in a bread bowl",
+      "price": "135.00"
+   },
+   "item9": {
+      "name": "3 Dip Forest House Special Salad",
+      "description": "A huge mix of fresh lettuce, strips of cucumber, carrots and turnips with nuts, raisins and cherry tomatoes. Definitely meant to be shared, which you hand wrap and dip in our very own strawberry dressing, blue cheese and honey vinaigrette. Truly a Baguio experience!",
+      "price": "420.00"
+   },
+   "item10": {
+      "name": "Grilled Chicken Caesar's Salad",
+      "description": "Assorted lettuce with grilled chicken, pesto croutons, bacon bits and parmesan cheese in Caesar dressin",
+      "price": "315.00"
+   },
+   "item11": {
+      "name": "Salpicado Australian",
+      "description": "Marinated tenderloin beef cubes sauteed to perfection served with garlic rice",
+      "price": "525.00"
+   },
+   "item12": {
+      "name": "Beef Tenderloin with Sweet peas in Ginger Spice",
+      "description": "Sauteed beef loin with sweet peas, ginger and red wine",
+      "price": "430.00"
+   },
+   "item13": {
+      "name": "Lengua con Setas",
+      "description": "Ox tongue with mushroom sauce and green olive",
+      "price": "355.00"
+   },
+   "item14": {
+      "name": "Korean Beef Ribs",
+      "description": "Tender portions of beef ribs on a delicious Korean sauce",
+      "price": "345.00"
+   },
+   "item15": {
+      "name": "Forest House wine Sauced Chicken",
+      "description": "Grilled Chicken Breast with rich creamy white wine sauce and mushroom",
+      "price": "295.00"
+   },
+   "item16": {
+      "name": "Forest House Lamb",
+      "description": "Grilled lamb marinated in mustard pie with garlic and Japanese soy sauce",
+      "price": "525.00"
+   },
+   "item17": {
+      "name": "Lamb Caldereta",
+      "description": "Mild Spicy lamb sauteed in olive oil and simmered in tomato, cheese, olives and pickle relish",
+      "price": "545.00"
+   },
+   "item18": {
+      "name": "Pork Steak with Mushroom",
+      "description": "Marinated pork steak on the bed of fusilli pasta topped with champignon and shitake sauce",
+      "price": "320.00"
+   },
+   "item19": {
+      "name": "Twin Pork Chops with Apple Sauce",
+      "description": "Grilled pork topped with an extra-ordinary chunky apple sauce",
+      "price": "320.00"
+   },
+   "item20": {
+      "name": "Sesame Crusted Fish Fillet",
+      "description": "Pan seared Creamy Dory fillet crusted with black sesame seeds topped with asian mango salsa",
+      "price": "295.00"
+   }
+  }
  },
  {
    "name": "Giligan's Island",
    "category": "Filipino",
    "location": "7 Legarda Rd cor G Del Pilar St, Baguio City",
    "longitude": "120.59094030000006",
-   "latitude": "16.4111052"
+   "latitude": "16.4111052",
+  "menu":{
+   "item1": {
+      "name": "Gilligan's Grilled Platter",
+      "description": "Grilled bangus belly, grilled pusit, inihaw na baboy, and boneless chicken teriyaki",
+      "price": "685.00"
+   },
+   "item2": {
+      "name": "Giligan's Pica-Pica Platter",
+      "description": "Cheese Sticks, Peanuts, Lumpiang Shanghai and French Fries",
+      "price": "351.00"
+   },
+   "item3": {
+      "name": "Giligan's BBQ Platter",
+      "description": "4 sticks Pork BBQ, 4 sticks Chicken",
+      "price": "232.00"
+   },
+   "item4": {
+      "name": "Sinigang na Inihaw na Baboy",
+      "description": "sour soup made with grilled pork belly and vegetables in tangy tamarind broth.",
+      "price": "198.00"
+   },
+   "item5": {
+      "name": "Boneless Chicken Teriyaki",
+      "description": "mouthwatering sticky, savory and slightly sweet chicken",
+      "price": "166.00"
+   },
+   "item6": {
+      "name": "Sinigang na Salmon Belly sa Miso",
+      "description": "contains fish oil that is said to be good for the heart",
+      "price": "204.00"
+   },
+   "item7": {
+      "name": "Sweet and Spicy Squid",
+      "description": "his sweet and spicy squid has sweetness and tang from ketchup and sugar , and heat from the chili peppers",
+      "price": "188.00"
+   },
+   "item8": {
+      "name": "Mangga Hilaw with Bagoong",
+      "description": "crunch of the unripe mango, the slightly astringent, incredibly sour shock to the tastebuds, soon mitigated by the gentle squish of tiny shrimp shells",
+      "price": "85.00"
+   },
+   "item9": {
+      "name": "Sinigang na Hipon",
+      "description": "a sour soup that uses tamarind as it's base flavor, it can be cooked with fish, meat, shrimp, and vegetables.",
+      "price": "252.00"
+   },
+   "item10": {
+      "name": "Sweet and Sour Pork",
+      "description": "has a tangy flavor that everyone will surely love",
+      "price": "196.00"
+   },
+   "item11": {
+      "name": "Grilled Tuna Belly",
+      "description": "tuna belly marinated then grilled until done",
+      "price": "275.00"
+   },
+   "item12": {
+      "name": "Sizzling Beef in Sinigang Gravy",
+      "description": "beef short ribs, sautéed French beans, sampaloc gravy, garlic confit, cherry tomatoes, and native red onions",
+      "price": "220.00"
+   },
+   "item13": {
+      "name": "Tofu with Eggplant",
+      "description": "Cook garlic, eggplant, and bell pepper in pan until softened, stirring occasionally, 8 to 10 minutes",
+      "price": "118.00"
+   },
+   "item14": {
+      "name": "Canton Guisado",
+      "description": "makes use of sliced pork, sausage, and shrimp",
+      "price": "158.00"
+   },
+   "item15": {
+      "name": "Bihon Guisado",
+      "description": "makes use of sliced pork, sausage, and shrimp",
+      "price": "158.00"
+   },
+   "item16": {
+      "name": "Miki Bihon Guisado",
+      "description": "makes use of sliced pork, sausage, and shrimp",
+      "price": "158.00"
+   },
+   "item17": {
+      "name": "Kare-Kareng Gulay",
+      "description": "a classic and beloved Filipino stew made of meat and vegetables in thick and creamy peanut sauce, traditionally with shrimp paste",
+      "price": "165.00"
+   },
+   "item18": {
+      "name": "Chopsuey",
+      "description": "a dish made-up of meat (chicken or pork) and seafood (shrimp or fish) cooked with different kinds of vegetables",
+      "price": "150.00"
+   },
+   "item19": {
+      "name": "Kare-Kare Beef",
+      "description": "oxtail or beef stew cooked in peanut sauce",
+      "price": "302.00"
+   },
+   "item20": {
+      "name": "Sesame Crusted Fish Fillet",
+      "description": "Pan seared Creamy Dory fillet crusted with black sesame seeds topped with asian mango salsa",
+      "price": "295.00"
+   }
+  }
  },
  {
    "name": "Health 100",
    "category": "Filipino",
    "location": "350 Magsaysay Ave cor Private Rd, Baguio City",
    "longitude": "none",
-   "latitude": "none"
+   "latitude": "none",
+  "menu":{
+   "item1": {
+      "name": "Pancake & Waffles",
+      "description": "served with fresh fruits in season",
+      "price": "115.00"
+   },
+   "item2": {
+      "name": "House Breakfast",
+      "description": "Choice of Veggie Tapa or Veggie Tocino. Served with Coffee",
+      "price": "125.00"
+   },
+   "item3": {
+      "name": "Tofu Scramble",
+      "description": "Scramble Tofu with Green 'n Red Bell Peppers. Served with Coffee",
+      "price": "125.00"
+   },
+   "item4": {
+      "name": "Mushroom Omelet",
+      "description": "Mix of Mushrooms served with rice. Served with Coffee",
+      "price": "125.00"
+   },
+   "item5": {
+      "name": "Gado-Gado",
+      "description": "Mixed of Potatoes, French Beans & Sprouts with Spicy Peanut Dressing",
+      "price": "155.00"
+   },
+   "item6": {
+      "name": "Baguio Garden Salad",
+      "description": "Melange of Lettuce & Vegetables served with Fruit based dressing",
+      "price": "155.00"
+   },
+   "item7": {
+      "name": "Pasta Carbonara",
+      "description": "Spaghetti Noodles tossed in dairy-free sauce of mushrooms and vegetables bits",
+      "price": "155.00"
+   },
+   "item8": {
+      "name": "Pene Bolognese",
+      "description": "Tube pasta tossed in chunky tomato sauce",
+      "price": "145.00"
+   },
+   "item9": {
+      "name": "Pesto & Friends",
+      "description": "Pasta tossed in pesto with griled tofu",
+      "price": "135.00"
+   },
+   "item10": {
+      "name": "Club Sandwich",
+      "description": "Whole wheat slices triple decker style served with sweet potato fries",
+      "price": "125.00"
+   },
+   "item11": {
+      "name": "Vegie Burger",
+      "description": "Vegie pattie in a burger bun with lettuce, cucumber, tomato & cheese",
+      "price": "125.00"
+   },
+   "item12": {
+      "name": "Whole Wheat Mushroom",
+      "description": "Burger grilled mushroom pattie with lettuce",
+      "price": "125.00"
+   }
+  }
  },
  {
    "name": "Jay-J's Inasal",
    "category": "Filipino",
    "location": "Mt. Crest Hotel Legarda Rd, Baguio City",
    "longitude": "120.5904812",
-   "latitude": "16.4117262"
+   "latitude": "16.4117262",
+  "menu":{
+   
+  }
  },
  {
    "name": "Kubong sawali",

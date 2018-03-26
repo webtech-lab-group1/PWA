@@ -113,63 +113,931 @@
    "category": "Italian",
    "location": "EGI Albergo Hotel, 1 Villamor Dr, Lualhati, Baguio City",
    "longitude": "120.61740800000007",
-   "latitude": "16.413665"
+   "latitude": "16.413665",
+  "menu": {
+   "item1": {
+      "name": "Insalata Verde",
+      "description": "Fresh garden greens with vinaigrette dressing and parmigiano reggiano.",
+      "price": "225.00"
+   },
+   "item2": {
+      "name": "Insalata Di Pollo",
+      "description": "Chicken breast and vegetable salad tossed with vinaigrette dressing and parmigiano reggiano.",
+      "price": "255.00"
+   },
+   "item3": {
+      "name": "Insalata Di Gamberoni",
+      "description": "Shrimps and vegetable salad tossed with vinaigrette dressing and parmigiano reggiano.",
+      "price": "315.00"
+   },
+   "item4": {
+      "name": "Mariannes's Special",
+      "description": "Vegetable salad with arugula leaves, caramelized walnut, and sun-dried tomatoes, topped with special dressing.",
+      "price": "335.00"
+   },
+   "item5": {
+      "name": "Beef Carpaccio",
+      "description": "Thinly sliced raw beef tenderloin with extra virgin olive oil, parmigiano reggiano shavings, and salt and pepper.",
+      "price": "295.00"
+   },
+   "item6": {
+      "name": "Orzo",
+      "description": "Rice-shaped pasta with garlic, olive oil, and chili flakes, with freshly grated parmigiano reggiano.",
+      "price": "220.00"
+   },
+   "item7": {
+      "name": "Aglio E Olio",
+      "description": "Garlic, olive oil, and chili flakes, with freshly grated parmigiano reggiano.",
+      "price": "225.00"
+   },
+   "item8": {
+      "name": "Pesto Alla Genovese",
+      "description": "Homemade basil pesto sauce with freshly grated parmigiano reggiano.",
+      "price": "285.00"
+   },
+   "item9": {
+      "name": "Ala Carbonara",
+      "description": "Cream, bacon, and egg, with freshly grated parmigiano reggiano and parsley.",
+      "price": "285.00"
+   },
+   "item10": {
+      "name": "Nutella Pizza",
+      "description": "Pizza with a spread of Nutella chocolate, topped with vanilla ice cream and caramelized walnuts.",
+      "price": "260.00"
+   },
+   "item11": {
+      "name": "Affogato",
+      "description": "An Italian coffee dessert made up of a scoop of vanilla ice cream and a shot of espresso poured over.",
+      "price": "130.00"
+   },
+   "item12": {
+      "name": "Gelato",
+      "description": "Homemade Italian flavored ice cream.",
+      "price": "160.00"
+   },
+   "item13": {
+      "name": "Pizza Con Prosciutto",
+      "description": "Plum tomatoes, mozzarella, prosciutto, arugula, olives, and a dash of oregano.",
+      "price": "540.00"
+   },
+   "item14": {
+      "name": "Foie Gras Pizza",
+      "description": "Mozzarella, basil, white truffle oil, and foie gras (duck liver).",
+      "price": "595.00"
+   },
+   "item15": {
+      "name": "Lamb Pizza",
+      "description": "Plum tomatoes, mozzarella, lemon, special spice, and extra virgin olive oil, topped with alfalfa.",
+      "price": "560.00"
+   },
+   "item16": {
+      "name": "Wagyu Meatball Pizza",
+      "description": "Wagyu meatballs, mozzarella, and crushed tomatoes, with roasted garlic.",
+      "price": "720.00"
+   },
+   "item17": {
+      "name": "Arrabiata Pizza",
+      "description": "Spicy marinara sauce topped with mozzarella, crispy bacon, and onions.",
+      "price": "450.00"
+   },
+   "item18": {
+      "name": "Goat Cheese Pizza",
+      "description": "Goat cheese, mozzarella, and crushed tomatoes, topped with sundried tomato.",
+      "price": "570.00"
+   },
+   "item19": {
+      "name": "Vegetarian Pizza",
+      "description": "Pesto and tomato sauce with zucchini, bell pepper and garlic.",
+      "price": "450.00"
+   },
+   "item20": {
+      "name": "Roasted Garlic Mushroom Pizza",
+      "description": "Fresh button mushroom, roasted garlic, and crushed plum tomatoes, topped with basil and oregano.",
+      "price": "445.00"
+   }
+  }
  },
  {
    "name": "Arca's Yard",
    "category": "International",
    "location": "777 Tiptop, Ambuklao Rd, Baguio City",
    "longitude": "120.62308400000006",
-   "latitude": "16.4289289"
+   "latitude": "16.4289289",
+  "menu": {
+   "item1": {
+      "name": "Benguet Coffee",
+      "description": "Black",
+      "price": "45.00"
+   },
+   "item2": {
+      "name": "Frothy Coffee",
+      "description": "No Description",
+      "price": "50.00"
+   },
+   "item3": {
+      "name": "Tarragon Tea",
+      "description": "Fresh",
+      "price": "50.00"
+   },
+   "item4": {
+      "name": "Arca's Cloud Tea",
+      "description": "with cream & wild honey",
+      "price": "60.00"
+   },
+   "item5": {
+      "name": "Lemon Grass Tea",
+      "description": "lemon tea with honey",
+      "price": "45.00"
+   },
+   "item6": {
+      "name": "Cacao Hot Choco",
+      "description": "arcas cacao",
+      "price": "75.00"
+   },
+   "item7": {
+      "name": "Bottled Water",
+      "description": "mineral water",
+      "price": "25.00"
+   },
+   "item8": {
+      "name": "Cucumber Smoothie",
+      "description": "blend fresh cucumber ",
+      "price": "75.00"
+   },
+   "item9": {
+      "name": "Pine Apple Smoothie",
+      "description": "blend fresh pineapple",
+      "price": "75.00"
+   },
+   "item10": {
+      "name": "Banana Smoothie",
+      "description": "blend fresh banana",
+      "price": "75.00"
+   },
+   "item11": {
+      "name": "Mango Smoothie",
+      "description": "ripe or green mango (Seasonal)",
+      "price": "75.00"
+   },
+   "item12": {
+      "name": "Strawberry Smoothie",
+      "description": "blend fresh strawberries (Seasonal)",
+      "price": "75.00"
+   },
+   "item13": {
+      "name": "Water Melon Smoothie",
+      "description": "fresh watermelon with milk",
+      "price": "75.00"
+   },
+   "item14": {
+      "name": "Arca's Sweet Potato Ala Mode",
+      "description": "Docto Pie or Camote Pie",
+      "price": "95.00"
+   },
+   "item15": {
+      "name": "Bread wuth Special Dip",
+      "description": " bread with homemade arcas special sauce",
+      "price": "75.00"
+   },
+   "item16": {
+      "name": "French Toast",
+      "description": "homemade french toast",
+      "price": "85.00"
+   },
+   "item17": {
+      "name": "Carrot Pie Ala Mode",
+      "description": "carrot pie that makes you want for more",
+      "price": "95.00"
+   },
+   "item18": {
+      "name": "Rhubard Pie",
+      "description": "Seasonal",
+      "price": "95.00"
+   },
+   "item19": {
+      "name": "Yogurt with Wild Honey",
+      "description": "creamy youghart mixed with honey",
+      "price": "85.00"
+   },
+   "item20": {
+      "name": "Softdrinks",
+      "description": "Coke, Royal, Sprite & Orange",
+      "price": "25.00"
+   }
+  }
  },
  {
    "name": "Beggang Resto Grill",
    "category": "Filipino",
    "location": "Skating Rink, Burnham Park, Baguio City",
    "longitude": "none",
-   "latitude": "none"
+   "latitude": "none",
+  "menu": {
+   "item1": {
+      "name": "Tapang Taal",
+      "description": "Served with Garlic rice & egg",
+      "price": "110.00"
+   },
+   "item2": {
+      "name": "Fried Boneless Bangus",
+      "description": "Served with Garlic rice & egg",
+      "price": "120.00"
+   },
+   "item3": {
+      "name": "Ham and Cheese Omellete",
+      "description": "Served with Garlic rice & egg",
+      "price": "120.00"
+   },
+   "item4": {
+      "name": "Vegetarian Omelet",
+      "description": "Served with Garlic rice & egg",
+      "price": "120.00"
+   },
+   "item5": {
+      "name": "Meal A",
+      "description": "Lechon Kawali with Pinakbet & Rice",
+      "price": "165.00"
+   },
+   "item6": {
+      "name": "Meal B",
+      "description": "Mama's Asian Fried Chicken with Pancit Canton & Rice",
+      "price": "165.00"
+   },
+   "item7": {
+      "name": "Meal C",
+      "description": "Fish Fillet in Sweet and Sour Sauce with Rice",
+      "price": "120.00"
+   },
+   "item8": {
+      "name": "Meal D",
+      "description": "Pork BBQ (3 pcs) with Buttered Vegetables and Rice",
+      "price": "120.00"
+   },
+   "item9": {
+      "name": "Meal E",
+      "description": "Grilled Pork Chops with Gravy and Buttered Vegetables",
+      "price": "165.00"
+   },
+   "item10": {
+      "name": "Meal F",
+      "description": "Stuffed Pork Loin with Ham and Cheese, topped with Gravy, Buttered Vegetables and Rice",
+      "price": "199.00"
+   },
+   "item11": {
+      "name": "Meal G",
+      "description": "Pork Spareribs (approx. 450gms) BBQ sauce served with buttered Vegetables and Rice",
+      "price": "220.00"
+   },
+   "item12": {
+      "name": "Set A",
+      "description": "Kare-Kare, Lechon Kawali, Balamban Chicken Tinuno (500gms), Shanghai Lumpia, Plain Rice (5 cups)",
+      "price": "830.00"
+   },
+   "item13": {
+      "name": "Set B",
+      "description": "Pork Sinigang sa Miso, Mixed Seafood in Garlic Butter Sauce, Chicharon Isda, Chicken BBQ (500gms), Plain Rice (5 cups)",
+      "price": "910.00"
+   },
+   "item14": {
+      "name": "Set C",
+      "description": "Beef Pochero, Grilled Liempo (400gms), Balamban Chicken Tinuno (500gms), Fresh Lumpia Salad, Plain Rice (5cups)",
+      "price": "850.00"
+   },
+   "item15": {
+      "name": "Set D",
+      "description": "Nilagang Baka, Mama?s Asian Fried Chicken (500gms), Sizzing Garlic Tuna, Fresh Lumpia Salad, Plain Rice (5 cups)",
+      "price": "840.00"
+   },
+   "item16": {
+      "name": "Set E",
+      "description": "Beef Kaldereta, Chicken BBQ (500gms), Grilled Boneless Bangus, Sizzling Seafood Express, Plain Rice (5 cups)",
+      "price": "930.00"
+   },
+   "item17": {
+      "name": "Set F",
+      "description": "Sinigang na Tuna sa Miso, Chicken BBQ (500gms), Tinunong Tenga ng Baboy (Sisig), Dinuguan, Plain Rice (5cups)",
+      "price": "890.00"
+   },
+   "item18": {
+      "name": "Set G",
+      "description": "Nilagang Balayan, Grilled Tuna Belly (450gms), Chicken Adobo in Tumeric Sauce (Adobong Dilaw), Grilled Liempo, Plain Rice (5 cups)",
+      "price": "1,050.00"
+   },
+   "item19": {
+      "name": "Pinoy Quesadillas (Sharing)",
+      "description": "Made with our very own garlic longganisa, topped with fresh veggies and cheese, sandwiched in grilled tortillas",
+      "price": "235.00"
+   },
+   "item20": {
+      "name": "Mango Shake",
+      "description": "Ripe/Green",
+      "price": "75.00"
+   }
+  }
  },
  {
    "name": "Baguio Craft Brewery",
    "category": "International",
    "location": "Ben Palispis Highway, Baguio City",
    "longitude": "120.58062940000002",
-   "latitude": "16.3952485"
+   "latitude": "16.3952485",
+  "menu": {
+   "item1": {
+      "name": "Fish and Chips",
+      "description": "Beer battered dory fish, deep fried to crisp and served with potato fries. Accompanied with tartar, ketchup and our very own Pinakurat",
+      "price": "320.00"
+   },
+   "item2": {
+      "name": "Yakitori",
+      "description": "Skewer of marinated chicken cubes and vegetables, grilled and glazed with special barbecue sauce",
+      "price": "320.00"
+   },
+   "item3": {
+      "name": "Ribs Platter Family",
+      "description": "Baguio Craft Brewery's grilled fall off-the bone ribs, basted with Zigzagger beer BBQ sauce, accompanied with Cajun spiced shrimp, juicy corn on the cob & crispy fries",
+      "price": "1,149.00"
+   },
+   "item4": {
+      "name": "Stout Isaw",
+      "description": "Our very version of Isaw, marinated with stout beer, grilled and topped with corn salsa",
+      "price": "280.00"
+   },
+   "item5": {
+      "name": "Ribs Platter Solo",
+      "description": "Half pack ribs basted with Zigzagger beer BBQ sauce, served with juicy corn on the cob and crispy fries",
+      "price": "479.00"
+   },
+   "item6": {
+      "name": "Premium Sausage Platter",
+      "description": "A platter of premium sausages (Hungarian, Schublig, Kielbasa), Bruschetta, caramelized onion, cheese and grainy mustard",
+      "price": "550.00"
+   },
+   "item7": {
+      "name": "Stinky Big Dane",
+      "description": "Ground beef patty stuffed with jalapeno and bleu cheese. Served with crispy fries",
+      "price": "400.00"
+   },
+   "item8": {
+      "name": "Pulled Pork Muffins",
+      "description": "Served on a bed of toasted English muffin, topped with diced green apples & sour cream sauce, a side of cabbage & apple slaw, and crispy fries",
+      "price": "290.00"
+   },
+   "item9": {
+      "name": "Chicken Inasal",
+      "description": "Beer marinated chicken thighs, grilled and served with roasted vegetables and rice",
+      "price": "300.00"
+   },
+   "item10": {
+      "name": "Smoked Pork Belly",
+      "description": "Home smoked pork belly, deep fried and glazed with our special barbecue sauce. Served with rice and grilled vegetable",
+      "price": "380.00"
+   },
+   "item11": {
+      "name": "Beef Nachos",
+      "description": "Nacho chips overloaded with beef, cheese and vegetables. Served with our in-house garlic sauce and salsa",
+      "price": "320.00"
+   },
+   "item12": {
+      "name": "Chicken Quesadillas",
+      "description": "Homemade tortillas filled with grilled chicken and fresh vegetables",
+      "price": "250.00"
+   },
+   "item13": {
+      "name": "Buffalo Wings",
+      "description": "Classic chicken wings, deep fried to perfection coated with our special spicy buffalo sauce. Served with housemade bleu cheese dip and vegetable sticks",
+      "price": "350.00"
+   },
+   "item14": {
+      "name": "Salt and Pepper Wings with Chips",
+      "description": "A less spicy alternative to our buffalo wings, chicken wings deep fried, seasoned with sea salt and cracked black pepper.",
+      "price": "350.00"
+   },
+   "item15": {
+      "name": "Fish Tacos",
+      "description": "A trio of soft tortilla with grilled spiced dory fish on a bed of fresh sliced lettuce topped with fresh chopped tomato, onion and cilantro. Best served with our housemade salsa",
+      "price": "350.00"
+   },
+   "item16": {
+      "name": "Pork Canitas",
+      "description": "Spiced pulled pork on a bed of soft tortilla shell topped with fresh vegetables",
+      "price": "320.00"
+   },
+   "item17": {
+      "name": "Crispy Ruffles",
+      "description": "Deep fried pork ruffles, spiced and served with Pinakurat.",
+      "price": "320.00"
+   },
+   "item18": {
+      "name": "Chicken Skin",
+      "description": "Chicken skin marinated with throat-cutter beer deep-fried to crisp and seasoned well. Served with Pinakurat dressing",
+      "price": "300.00"
+   }
+  }
  },
  {
    "name": "Cafe Adriana by Hill Station",
    "category": "Spanish",
    "location": "Outlook Ridge Residences, V. De los Reyes Street, DMCI, Outlook Drive, Baguio City",
    "longitude": "120.62475960000006",
-   "latitude": "16.4128084"
+   "latitude": "16.4128084",
+  "menu":{
+   "item1": {
+      "name": "English Muffin",
+      "description": "Cream cheese & jam",
+      "price": "100.00"
+   },
+   "item2": {
+      "name": "Pinoy Breakfast",
+      "description": "2 eggs, garlic rice, pickled cucumber",
+      "price": "200.00"
+   },
+   "item3": {
+      "name": "Country Breakfast",
+      "description": "2 eggs, country fries, homemade bread, butter, jam",
+      "price": "200.00"
+   },
+   "item4": {
+      "name": "Omelette",
+      "description": "2 eggs, home fries, homemade bread, butter, jam",
+      "price": "200.00"
+   },
+   "item5": {
+      "name": "Tapang Usa",
+      "description": "2 eggs, pickled cucumber, garlic rice",
+      "price": "230.00"
+   },
+   "item6": {
+      "name": "Baboy Damo",
+      "description": "2 eggs, pickled cucumber, garlic rice",
+      "price": "230.00"
+   },
+   "item7": {
+      "name": "Spanish Chorizo",
+      "description": "Scrambled eggs, home fries, bread, butter, jam",
+      "price": "230.00"
+   },
+   "item8": {
+      "name": "Stuffed French Toast",
+      "description": "2 thick slices, caramelized mangoes, whipped cream, maple syrup",
+      "price": "185.00"
+   },
+   "item9": {
+      "name": "Eggs Benedict",
+      "description": "Poached eggs, home-smoked ham, English muffin, side salad, our own olive oil hollandaise",
+      "price": "230.00"
+   },
+   "item10": {
+      "name": "Paella de Legumbres",
+      "description": "Roasted eggplant, zucchini, red & green peppers, green beans, cauliflower, broccoli, mushrooms, squash, peas",
+      "price": "360.00"
+   },
+   "item11": {
+      "name": "Pollo Y Chorizos",
+      "description": "Chicken, a variety of homemade sausages & sweet peppers",
+      "price": "375.00"
+   },
+   "item12": {
+      "name": "Lengua, Setas Y Aceitunas",
+      "description": "Ox tongue, chorizo, mushrooms & olives",
+      "price": "395.00"
+   },
+   "item13": {
+      "name": "Negra",
+      "description": "All seafood & squid ink",
+      "price": "395.00"
+   },
+   "item14": {
+      "name": "Solomillo con Cebollas",
+      "description": "Tenderloin steak, caramelized onions",
+      "price": "395.00"
+   },
+   "item15": {
+      "name": "Bistecca y Carabineros",
+      "description": "Steak and prawn, lemon butter sauce",
+      "price": "395.00"
+   },
+   "item16": {
+      "name": "Saigon Steak Sandwich",
+      "description": "Marinated beef, caramelized onions & herbs, baguette",
+      "price": "195.00"
+   },
+   "item17": {
+      "name": "Salmon Burger",
+      "description": "Dark chocolate bun, lettuce & onion",
+      "price": "220.00"
+   },
+   "item18": {
+      "name": "Reuben",
+      "description": "Fresh corned beef (USDA), homemade sauerkraut, melted cheese",
+      "price": "250.00"
+   },
+   "item19": {
+      "name": "Mussel and Clam Marinera",
+      "description": "Mussel & clams, paprika, lots of garlic, white wine, parsley",
+      "price": "140.00"
+   },
+   "item20": {
+      "name": "Duck & Chicken Liver Pate' on Toast",
+      "description": "Pickled beets, onions, kumquat chutney",
+      "price": "130.00"
+   }
+  }
  },
  {
    "name": "Cafe in the sky",
    "category": "Filipino",
    "location": "Mt Sto Tomas, Poblacion Kabuyao, Tuba, Baguio City",
    "longitude": "120.56072169999993",
-   "latitude": "16.3622564"
+   "latitude": "16.3622564",
+  "menu": {
+    "item1": {
+      "name": "Crispy Sky Rolls",
+      "description": "Starters",
+      "price": "130.00"
+   },
+   "item2": {
+      "name": "Fried Pork with Tofu",
+      "description": "Savory pork stir fried in oyster and soy sauce over warm, silky soft tofu",
+      "price": "130.00"
+   },
+   "item3": {
+      "name": "French Fries",
+      "description": "served with special sauce",
+      "price": "110.00"
+   },
+   "item4": {
+      "name": "Nachos with Cheese",
+      "description": "nachos served with creamy cheese sauce",
+      "price": "110.00"
+   },
+   "item5": {
+      "name": "Nachos with Salsa",
+      "description": "nachos served with spring onion, tomato, capsicum, parsley, olive oil and lime juice. Season with salt and pepper.",
+      "price": "110.00"
+   },
+   "item6": {
+      "name": "Beef with Oyster Sauce",
+      "description": "Stir fried beef with oyster sauce",
+      "price": "160.00"
+   },
+   "item7": {
+      "name": "Fried Chicken Rice",
+      "description": "Chicken with a house speacialty of cafe in the sky",
+      "price": "140.00"
+   },
+   "item8": {
+      "name": "Sky Rice",
+      "description": "homemade authentic rice by sky cafe",
+      "price": "165.00"
+   },
+   "item9": {
+      "name": "Beef with Broccoli or Cauliflower",
+      "description": "Stir fried beef with oyster sauce mixed with fresh cauliflower",
+      "price": "225.00"
+   },
+   "item10": {
+      "name": "Crispy Lechon Kawali",
+      "description": "a popular Filipino dish made with pork belly simmered until tender and then deep-fried until golden and crisp",
+      "price": "250.00"
+   },
+   "item11": {
+      "name": "Fried Lemon Chicken",
+      "description": "chicken pieces coated in batter, then rolled in almond slivers and deep-fried, and served with the lemon-glaze sauce.",
+      "price": "215.00"
+   },
+   "item12": {
+      "name": "Kung Fu Chicken",
+      "description": "House Specialties",
+      "price": "215.00"
+   },
+   "item13": {
+      "name": "Sweet & Sour Boneless Bangus",
+      "description": "Fried Boneless bangus mixed with sweet and sour sauce",
+      "price": "200.00"
+   },
+   "item14": {
+      "name": "Sizzling Chili Hotdogs with Onions",
+      "description": "Stir fried hotdogs with chili sauce topped with onions",
+      "price": "175.00"
+   },
+   "item15": {
+      "name": "Bangus (Milkfish) Sisig",
+      "description": "Hot plates with egg",
+      "price": "210.00"
+   },
+   "item16": {
+      "name": "Pork Sisig",
+      "description": "shredded pork with onions, chili peppers and lemon extract",
+      "price": "210.00"
+   },
+   "item17": {
+      "name": "Sky Burger",
+      "description": "Topped with bacon & deep fried onion rings in BBQ sauce",
+      "price": "255.00"
+   },
+   "item18": {
+      "name": "Ultimate Cheese Burger",
+      "description": "Topped with caramelized onions",
+      "price": "225.00"
+   },
+   "item19": {
+      "name": "Club Sandwich",
+      "description": "sliced cooked poultry, fried bacon, lettuce, tomato, and mayonnaise",
+      "price": "240.00"
+   },
+   "item20": {
+      "name": "Grilled Cheese Sandwich",
+      "description": "Grill until lightly browned and flip over; continue grilling until cheese is melted",
+      "price": "130.00"
+   }
+  }
  },
  {
    "name": "Cafe Will",
    "category": "International",
    "location": "MH Del Pilar Legarda Rd, Baguio City",
    "longitude": "120.59241129999998",
-   "latitude": "16.4083373"
+   "latitude": "16.4083373",
+  "menu":{
+   "item1": {
+      "name": "Grilled Black Jack Ribs",
+      "description": "Big Size beef w/ Black Jack Sauce, Buttered vegetables, Chef?s Saffron Rice or Fried Potato",
+      "price": "400.00"
+   },
+   "item2": {
+      "name": "Texas Pork Ribs",
+      "description": "5pcs Special Pork Ribs, Buttered Vegetables, Chef?s Saffron on Rice of Fried Potato",
+      "price": "350.00"
+   },
+   "item3": {
+      "name": "Grilled Chicken Breast in White Wine Sauce",
+      "description": "Buttered Vegetables, Chef's Saffron Rice of Fried Potato",
+      "price": "320.00"
+   },
+   "item4": {
+      "name": "Grilled Chicken Breast Teriyaki",
+      "description": "Oriental Vegetables, Chef's Saffron Rice",
+      "price": "320.00"
+   },
+   "item5": {
+      "name": "Pork BBQ",
+      "description": "Buttered Vegetables, Chef?s Saffron or Fried Potato",
+      "price": "280.00"
+   },
+   "item6": {
+      "name": "Grilled Chicken Drum Stick",
+      "description": "4pcs Chicken Drum stick, Buttered Vegetables, Chef?s Saffron Rice",
+      "price": "300.00"
+   },
+   "item7": {
+      "name": "Shrimps Tempura",
+      "description": "(good for 3-4 persons), Fried Shrimps & Vegetables",
+      "price": "500.00"
+   },
+   "item8": {
+      "name": "Pork Sisig",
+      "description": "Good for 2-3 persons",
+      "price": "320.00"
+   },
+   "item9": {
+      "name": "Spicy Five Fingers Fried Chicken",
+      "description": "Good for 2-3 persons",
+      "price": "280.00"
+   },
+   "item10": {
+      "name": "Fresh Fruit Medley",
+      "description": "Good for 2-3 persons",
+      "price": "300.00"
+   },
+   "item11": {
+      "name": "Beef Tacos (Mexican Delicacy)",
+      "description": "Good for 2-3 persons",
+      "price": "250.00"
+   },
+   "item12": {
+      "name": "Dakdoritang",
+      "description": "Spicy Chicken Soup",
+      "price": "550.00"
+   },
+   "item13": {
+      "name": "Chef Salad",
+      "description": "Tossed Green Salad w/ Strawberry Sauce or Pineapple Sauce (Good for 2-3 persons)",
+      "price": "300.00"
+   },
+   "item14": {
+      "name": "Cafe Will's Health Salad",
+      "description": "Orange, Grape, Cucumber w. Ginseng honey Sauce. (Good for 2-3 persons)",
+      "price": "450.00"
+   },
+   "item15": {
+      "name": "Beef Steak Tagalog with Onion",
+      "description": "Served with Soup of the Day on individual plate, rice & buttered vegetables. (Good for 1 person).",
+      "price": "280.00"
+   },
+   "item16": {
+      "name": "Kaderetang Baka",
+      "description": "Served with Soup of the Day on individual plate & rice.(Good for 1 person).",
+      "price": "300.00"
+   },
+   "item17": {
+      "name": "Pork Pot-Roast with Bochoy",
+      "description": "Served with Soup of the Day on individual plate & rice .(Good for 1 person).",
+      "price": "250.00"
+   },
+   "item18": {
+      "name": "Fish Fillet with Tartar Dressing",
+      "description": "Served with Soup of the Day on individual plate & rice .(Good for 1 person).",
+      "price": "290.00"
+   },
+   "item19": {
+      "name": "Mixed Seafood Veggie",
+      "description": "Served with Soup of the Day on individual plate & rice .(Good for 1 person).",
+      "price": "280.00"
+   },
+   "item20": {
+      "name": "Pinakbet with Rice",
+      "description": "Served with Soup of the Day on individual plate & rice .(Good for 1 person).",
+      "price": "200.00"
+   }
+  }
  },
  {
    "name": "Camping Date",
    "category": "Korean",
    "location": "363 Legarda Road, in front of Prince Plaza Hotel, Baguio",
    "longitude": "120.59137129999999",
-   "latitude": "16.4097267"
+   "latitude": "16.4097267",
+  "menu": {
+   "item1": {
+      "name": "Cheese Pizza",
+      "description": "Korean Pizza sauce with pure cheese imported from Korea",
+      "price": "860.00"
+   },
+   "item2": {
+      "name": "Hawaiian Pizza",
+      "description": "Ham and pineapple with Korean Pizza sauce and cheese",
+      "price": "880.00"
+   },
+   "item3": {
+      "name": "Potato Bacon Pizza",
+      "description": "Combination of potato and bacon with Korean pizza sauce and cheese",
+      "price": "880.00"
+   },
+   "item4": {
+      "name": "Sweet Potato Pizza",
+      "description": "Korean style Sweet Potato Pizza with beehive Sweet Potato paste",
+      "price": "950.00"
+   },
+   "item5": {
+      "name": "Pepperoni Pizza",
+      "description": "Pepperoni imported from Korea with Korean Pizza sauce and cheese",
+      "price": "890.00"
+   },
+   "item6": {
+      "name": "Spicy Chicken Pizza",
+      "description": "Korean Style Spicy Chicken with Korean Pizza Sauce and cheese",
+      "price": "920.00"
+   },
+   "item7": {
+      "name": "Bulgogi Pizza",
+      "description": "Korean Style Spicy Chicken with Korean Pizza Sauce and cheese",
+      "price": "950.00"
+   },
+   "item8": {
+      "name": "Combination Pizza",
+      "description": "Combination of ham, bulgogi, pepperoni and sweet potato paste",
+      "price": "950.00"
+   },
+   "item9": {
+      "name": "Adidas on fire (DakBal)",
+      "description": "Grilled Menu",
+      "price": "400.00"
+   },
+   "item10": {
+      "name": "Cheesey Adidas on fire",
+      "description": "Grilled Menu",
+      "price": "550.00"
+   },
+   "item11": {
+      "name": "Grilled Spicy BBQ Chicken",
+      "description": "Grilled Menu",
+      "price": "500.00"
+   },
+   "item12": {
+      "name": "Grilled Soy BBQ Chicken",
+      "description": "Grilled Menu",
+      "price": "550.00"
+   }
+  }
  },
  {
    "name": "Classic Savory",
    "category": "Filipino",
    "location": "132 Upper Ground Floor, Sm City Baguio, Luneta Hill Drive,",
    "longitude": "none",
-   "latitude": "none"
+   "latitude": "none",
+  "menu":{
+   "item1": {
+      "name": "Shanghai Rolls",
+      "description": "Served with Classic/Buttered Savory Chicken, Rice and 16oz drink. For dine-in only",
+      "price": "119.00"
+   },
+   "item2": {
+      "name": "Pancit Canton",
+      "description": "Served with Classic/Buttered Savory Chicken, Rice and 16oz drink. For dine-in only",
+      "price": "119.00"
+   },
+   "item3": {
+      "name": "Creamy Fish Fillet",
+      "description": "Served with Classic/Buttered Savory Chicken, Rice and 16oz drink. For dine-in only",
+      "price": "119.00"
+   },
+   "item4": {
+      "name": "Sweet & Sour Pork",
+      "description": "Served with Classic/Buttered Savory Chicken, Rice and 16oz drink. For dine-in only",
+      "price": "119.00"
+   },
+   "item5": {
+      "name": "Chopsuey",
+      "description": "Served with Classic/Buttered Savory Chicken, Rice and 16oz drink. For dine-in only",
+      "price": "119.00"
+   },
+   "item6": {
+      "name": "Four Season String Beans",
+      "description": "Served with Classic/Buttered Savory Chicken, Rice and 16oz drink. For dine-in only",
+      "price": "119.00"
+   },
+   "item7": {
+      "name": "E-Meal 1",
+      "description": "Savory Chicken, Shanghai Rolls, Plain Rice, 16 oz drinks",
+      "price": "119.00"
+   },
+   "item8": {
+      "name": "E-Meal 2",
+      "description": "Savory Chicken, Pancit Canton, Plain Rice, 16 oz. drinks",
+      "price": "119.00"
+   },
+   "item9": {
+      "name": "E-Meal 3",
+      "description": "Savory Chicken, Creamy Fish Fillet, Plain Rice, 16 oz. drinks",
+      "price": "119.00"
+   },
+   "item10": {
+      "name": "E-Meal 4",
+      "description": "Savory Chicken, Sweet & Sour Pork, Plain Rice, 16 oz. drinks",
+      "price": "119.00"
+   },
+   "item11": {
+      "name": "E-Meal 5",
+      "description": "Savory Chicken, Chopsuey, Plain Rice, 16 oz. drinks",
+      "price": "119.00"
+   },
+   "item12": {
+      "name": "E-Meal 6",
+      "description": "Savory Chicken, Four Season String Beans, Plain Rice, 16 oz. drinks",
+      "price": "119.00"
+   },
+   "item13": {
+      "name": "Combo A",
+      "description": "Good for 2 persons. 1/2 Chicken, Rice, Savory Shanghai Rolls, Pancit Canton",
+      "price": "335.00"
+   },
+   "item14": {
+      "name": "Combo B1",
+      "description": "Good for 1 person. 1/4 Chicken, Salt & Pepper Spareribs, Rice, Special Turon, Drinks",
+      "price": "215.00"
+   },
+   "item15": {
+      "name": "Combo B2",
+      "description": "Good for 1 person. 1/4 Chicken, Sweet and Sour Pork, Rice, Special Turon, Drinks",
+      "price": "215.00"
+   },
+   "item16": {
+      "name": "Combo B3",
+      "description": "Good for 1 person. 1/4 Chicken, Creamy Fish Fillet, Rice, Special Turon, Drinks",
+      "price": "215.00"
+   },
+   "item17": {
+      "name": "Combo B4",
+      "description": "Good for 1 person. 1/4 Chicken, Salt & Pepper Squid, Rice, Special Turon, Drinks",
+      "price": "215.00"
+   },
+   "item18": {
+      "name": "Combo C1",
+      "description": "Good for 2 persons. 1/2 Chicken, Pancit Canton, Salt & Pepper Spareribs, Rice, Special Turon, Drinks",
+      "price": "415.00"
+   },
+   "item19": {
+      "name": "Combo C2",
+      "description": "Good for 2 persons. 1/2 Chicken, Pancit Canton, Sweet & Sour Pork, Rice, Special Turon, Drinks",
+      "price": "415.00"
+   },
+   "item20": {
+      "name": "Combo C3",
+      "description": "1/2 Chicken, Pancit Canton, Creamy Fish Fillet, Rice, Special Turon, Drinks",
+      "price": "415.00"
+   }
+  }
  },
  {
    "name": "Chef's Home",

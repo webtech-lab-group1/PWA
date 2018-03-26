@@ -1,0 +1,107 @@
+{
+   "Lemon and Olives Greek Taverna": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "Saganaki",
+      "FIELD3": "A delectable serving of imported pan-fried Greek cheese fresh lemon. The signature appetizer of lemon and olives",
+      "FIELD4": "160.00"
+   },
+   "item2": {
+      "FIELD2": "Traditional Greek Dips served with Homemade Pita Hummus",
+      "FIELD3": "A thick dip made from chickpeas, olive oil, lemon, garlic and tahini",
+      "FIELD4": "130.00"
+   },
+   "item3": {
+      "FIELD2": "Tzatziki",
+      "FIELD3": "Creamy yet tangy Greek yogurt dip made with olive oil, garlic, and cucumbers",
+      "FIELD4": "120.00"
+   },
+   "item4": {
+      "FIELD2": "Kolokithokeftedes",
+      "FIELD3": "Crispy zucchini fritters served with creamy tzatziki sauce. A quirky way to kindle your appetite!",
+      "FIELD4": "150.00"
+   },
+   "item5": {
+      "FIELD2": "Spicy Soutzouki Sausage",
+      "FIELD3": "Sausage made of beef that is guaranteed to tickle your taste buds with its exotic array of spices!",
+      "FIELD4": "180.00"
+   },
+   "item6": {
+      "FIELD2": "Poikilia",
+      "FIELD3": "The Parthenon of Greek appetizers! This is a plate of assorted appetizers such as a Greek village sausage, spicy soutzouki sausage, saganaki cheese, tzatziki dip and pita bread",
+      "FIELD4": "320.00"
+   },
+   "item7": {
+      "FIELD2": "Grilled Octopus",
+      "FIELD3": "Handpicked fresh octopus grilled the right way; the Greek way",
+      "FIELD4": "230.00"
+   },
+   "item8": {
+      "FIELD2": "Kontosouvli",
+      "FIELD3": "Savoury pork slow, roasted over charcoal until devilishly tender. Marinated with Chef Takis' secret recipe",
+      "FIELD4": "210.00"
+   },
+   "item9": {
+      "FIELD2": " Lamb Gyros",
+      "FIELD3": "A pocket of flavor in a pita bread. Juicy slices of meat tucked away in a freshly baked pita filled with vegetables and Greek fries, doused with a generous serving of garlic, chili or tzatziki sauce",
+      "FIELD4": "140.00"
+   },
+   "item10": {
+      "FIELD2": "Lamb Souvlaki Plate",
+      "FIELD3": "Experience the taste of Greek street food! Souvlaki is a plate of specially seasoned grilled meat drizzled with Chef Takis' secret Greek sauce, served with pita bread and fries on the side and accompanied with garlic, chili and tzatziki dips",
+      "FIELD4": "320.00"
+   },
+   "item11": {
+      "FIELD2": "Lemon and Olive's Special Lamb Rack",
+      "FIELD3": "Our signature lamb dish infused with select Greek herbs to bring out the fresh taste of the Mediterranean. Served with Greek salad on the side",
+      "FIELD4": "590.00"
+   },
+   "item12": {
+      "FIELD2": "Porterhouse Grilled Steak",
+      "FIELD3": "A slab of steak done the Greek Way, masterfully grilled to perfection. Served with vegetables and a choice of either fries, plain rice, lemon pilaf or pita",
+      "FIELD4": "380.00"
+   },
+   "item13": {
+      "FIELD2": "Grilled Calamari",
+      "FIELD3": "With vegetables and a choice of fries, pita, lemon pilaf rice or plain rice",
+      "FIELD4": "290.00"
+   },
+   "item14": {
+      "FIELD2": "Pastitsio",
+      "FIELD3": "A plate of authentic Greek pasta. Bechamel sauce baked over ground beef and pasta",
+      "FIELD4": "210.00"
+   },
+   "item15": {
+      "FIELD2": "Moussaka",
+      "FIELD3": "Structured layers of potato, eggplant and ground beef, topped with lots of bechamel sauce",
+      "FIELD4": "230.00"
+   },
+   "item16": {
+      "FIELD2": "Stuffed Tomatoes and Peppers",
+      "FIELD3": "Tomatoes and peppers filled to the bursting point with specially seasoned ground beef, rice and tomato sauce. Bite into a tasty surprise. Served with potato wedges",
+      "FIELD4": "205.00"
+   },
+   "item17": {
+      "FIELD2": "Greek Style Spaghetti",
+      "FIELD3": "Spaghetti with a uniquely Mediterranean mindset. Golden melted mozzarella cheese over beef sirloin and spaghetti pasta, dashed with red sauce",
+      "FIELD4": "260.00"
+   },
+   "item18": {
+      "FIELD2": "Lamb Giouvetsi",
+      "FIELD3": "A more special version of the heirloom recipe. Leg of lamb carefully roasted and served over special orzo pasta swimming in tomato sauce. Served with a side of roast potato and Greek salad",
+      "FIELD4": "4,180.00"
+   },
+   "item19": {
+      "FIELD2": "Soutzoukakia",
+      "FIELD3": "Taste the flavor of Athens with these uniquely-Greek meat balls! Each meatball is baked to perfection and seasoned with thick Mediterranean species. The meatballs are then bathed with tomato sauce that adds a nice zesty kick to the dish. Served with either rice, pasta or Greek French fries",
+      "FIELD4": "1,950.00"
+   },
+   "item20": {
+      "FIELD2": "Briam",
+      "FIELD3": "A medley of roasted vegetables - eggplant, zucchini, potato, tomato and peppers - in olive oil seasoned with aromatic herbs. This is perfect on it own or accompanying your grilled lamb.",
+      "FIELD4": "210.00"
+   }
+}

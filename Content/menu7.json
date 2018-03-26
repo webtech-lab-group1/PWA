@@ -1,0 +1,107 @@
+{
+   "Cafe in the sky": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "Crispy Sky Rolls",
+      "FIELD3": "Starters",
+      "FIELD4": "130.00"
+   },
+   "item2": {
+      "FIELD2": "Fried Pork with Tofu",
+      "FIELD3": "Savory pork stir fried in oyster and soy sauce over warm, silky soft tofu",
+      "FIELD4": "130.00"
+   },
+   "item3": {
+      "FIELD2": "French Fries",
+      "FIELD3": "served with special sauce",
+      "FIELD4": "110.00"
+   },
+   "item4": {
+      "FIELD2": "Nachos with Cheese",
+      "FIELD3": "nachos served with creamy cheese sauce",
+      "FIELD4": "110.00"
+   },
+   "item5": {
+      "FIELD2": "Nachos with Salsa",
+      "FIELD3": "nachos served with spring onion, tomato, capsicum, parsley, olive oil and lime juice. Season with salt and pepper.",
+      "FIELD4": "110.00"
+   },
+   "item6": {
+      "FIELD2": "Beef with Oyster Sauce",
+      "FIELD3": "Stir fried beef with oyster sauce",
+      "FIELD4": "160.00"
+   },
+   "item7": {
+      "FIELD2": "Fried Chicken Rice",
+      "FIELD3": "Chicken with a house speacialty of cafe in the sky",
+      "FIELD4": "140.00"
+   },
+   "item8": {
+      "FIELD2": "Sky Rice",
+      "FIELD3": "homemade authentic rice by sky cafe",
+      "FIELD4": "165.00"
+   },
+   "item9": {
+      "FIELD2": "Beef with Broccoli or Cauliflower",
+      "FIELD3": "Stir fried beef with oyster sauce mixed with fresh cauliflower",
+      "FIELD4": "225.00"
+   },
+   "item10": {
+      "FIELD2": "Crispy Lechon Kawali",
+      "FIELD3": "a popular Filipino dish made with pork belly simmered until tender and then deep-fried until golden and crisp",
+      "FIELD4": "250.00"
+   },
+   "item11": {
+      "FIELD2": "Fried Lemon Chicken",
+      "FIELD3": "chicken pieces coated in batter, then rolled in almond slivers and deep-fried, and served with the lemon-glaze sauce.",
+      "FIELD4": "215.00"
+   },
+   "item12": {
+      "FIELD2": "Kung Fu Chicken",
+      "FIELD3": "House Specialties",
+      "FIELD4": "215.00"
+   },
+   "item13": {
+      "FIELD2": "Sweet & Sour Boneless Bangus",
+      "FIELD3": "Fried Boneless bangus mixed with sweet and sour sauce",
+      "FIELD4": "200.00"
+   },
+   "item14": {
+      "FIELD2": "Sizzling Chili Hotdogs with Onions",
+      "FIELD3": "Stir fried hotdogs with chili sauce topped with onions",
+      "FIELD4": "175.00"
+   },
+   "item15": {
+      "FIELD2": "Bangus (Milkfish) Sisig",
+      "FIELD3": "Hot plates with egg",
+      "FIELD4": "210.00"
+   },
+   "item16": {
+      "FIELD2": "Pork Sisig",
+      "FIELD3": "shredded pork with onions, chili peppers and lemon extract",
+      "FIELD4": "210.00"
+   },
+   "item17": {
+      "FIELD2": "Sky Burger",
+      "FIELD3": "Topped with bacon & deep fried onion rings in BBQ sauce",
+      "FIELD4": "255.00"
+   },
+   "item18": {
+      "FIELD2": "Ultimate Cheese Burger",
+      "FIELD3": "Topped with caramelized onions",
+      "FIELD4": "225.00"
+   },
+   "item19": {
+      "FIELD2": "Club Sandwich",
+      "FIELD3": "sliced cooked poultry, fried bacon, lettuce, tomato, and mayonnaise",
+      "FIELD4": "240.00"
+   },
+   "item20": {
+      "FIELD2": "Grilled Cheese Sandwich",
+      "FIELD3": "Grill until lightly browned and flip over; continue grilling until cheese is melted",
+      "FIELD4": "130.00"
+   }
+}

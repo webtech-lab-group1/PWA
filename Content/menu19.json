@@ -1,0 +1,67 @@
+{
+   "Health 100": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "Pancake & Waffles",
+      "FIELD3": "served with fresh fruits in season",
+      "FIELD4": "115.00"
+   },
+   "item2": {
+      "FIELD2": "House Breakfast",
+      "FIELD3": "Choice of Veggie Tapa or Veggie Tocino. Served with Coffee",
+      "FIELD4": "125.00"
+   },
+   "item3": {
+      "FIELD2": "Tofu Scramble",
+      "FIELD3": "Scramble Tofu with Green 'n Red Bell Peppers. Served with Coffee",
+      "FIELD4": "125.00"
+   },
+   "item4": {
+      "FIELD2": "Mushroom Omelet",
+      "FIELD3": "Mix of Mushrooms served with rice. Served with Coffee",
+      "FIELD4": "125.00"
+   },
+   "item5": {
+      "FIELD2": "Gado-Gado",
+      "FIELD3": "Mixed of Potatoes, French Beans & Sprouts with Spicy Peanut Dressing",
+      "FIELD4": "155.00"
+   },
+   "item6": {
+      "FIELD2": "Baguio Garden Salad",
+      "FIELD3": "Melange of Lettuce & Vegetables served with Fruit based dressing",
+      "FIELD4": "155.00"
+   },
+   "item7": {
+      "FIELD2": "Pasta Carbonara",
+      "FIELD3": "Spaghetti Noodles tossed in dairy-free sauce of mushrooms and vegetables bits",
+      "FIELD4": "155.00"
+   },
+   "item8": {
+      "FIELD2": "Pene Bolognese",
+      "FIELD3": "Tube pasta tossed in chunky tomato sauce",
+      "FIELD4": "145.00"
+   },
+   "item9": {
+      "FIELD2": "Pesto & Friends",
+      "FIELD3": "Pasta tossed in pesto with griled tofu",
+      "FIELD4": "135.00"
+   },
+   "item10": {
+      "FIELD2": "Club Sandwich",
+      "FIELD3": "Whole wheat slices triple decker style served with sweet potato fries",
+      "FIELD4": "125.00"
+   },
+   "item11": {
+      "FIELD2": "Vegie Burger",
+      "FIELD3": "Vegie pattie in a burger bun with lettuce, cucumber, tomato & cheese",
+      "FIELD4": "125.00"
+   },
+   "item12": {
+      "FIELD2": "Whole Wheat Mushroom",
+      "FIELD3": "Burger grilled mushroom pattie with lettuce",
+      "FIELD4": "125.00"
+   }
+}

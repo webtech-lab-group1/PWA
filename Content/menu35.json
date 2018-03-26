@@ -1,0 +1,107 @@
+{
+   "Sage Restaurant": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "Classic Chicken-Pork Adobo",
+      "FIELD3": "Chicken and Pork combination marinated in garlic soy and vinegar over hot steamed rice. Simply a classic",
+      "FIELD4": "120.00"
+   },
+   "item2": {
+      "FIELD2": "Homemade Beef Tapa",
+      "FIELD3": "A hearty Dish of succulent tender cubes topped with fried garlic bits and served with scrambled eggs and garlic fried rice",
+      "FIELD4": "150.00"
+   },
+   "item3": {
+      "FIELD2": "Bangus Ala Pobre",
+      "FIELD3": "Fried boneless bangus served with red eggs with tomatoes and garlic fried rice",
+      "FIELD4": "130.00"
+   },
+   "item4": {
+      "FIELD2": "Daing na Espada",
+      "FIELD3": "Deep fried espada until golden crisp. Served with tomato omelet and fried rice. Another Filipino favorite to start the day right",
+      "FIELD4": "130.00"
+   },
+   "item5": {
+      "FIELD2": "Baguio 'Shortganic'",
+      "FIELD3": "Our local bestseller served with sunnyside style eggs and garlic fried rice",
+      "FIELD4": "130.00"
+   },
+   "item6": {
+      "FIELD2": "Honey-Garlic Chicken Tocino",
+      "FIELD3": "Sweet and tender chicken strips served with steaming white rice and scrambled eggs. Surely would satisfy everyone's grumbling tummy",
+      "FIELD4": "130.00"
+   },
+   "item7": {
+      "FIELD2": "Sesame Chicken Fingers",
+      "FIELD3": "Battered chicken strips served with a honey mustard Dip",
+      "FIELD4": "140.00"
+   },
+   "item8": {
+      "FIELD2": "Sisig Shots",
+      "FIELD3": "Sisig Served uniquely ours.",
+      "FIELD4": "120.00"
+   },
+   "item9": {
+      "FIELD2": "Sweet Chili Wings",
+      "FIELD3": "Deep fried chicken wings coated with sweet and spicy sauce served with garlic mayo dip",
+      "FIELD4": "150.00"
+   },
+   "item10": {
+      "FIELD2": "Gambas Y Champion",
+      "FIELD3": "Button mushrooms and shrimps sauteed in butter and garlic served with toasted baguettes",
+      "FIELD4": "220.00"
+   },
+   "item11": {
+      "FIELD2": "Sausage Mix",
+      "FIELD3": "2 Sausages bratwurst and Hungarian served with baguettes slices. Sweet potato chips and dips.",
+      "FIELD4": "180.00"
+   },
+   "item12": {
+      "FIELD2": "Sage House Salad",
+      "FIELD3": "A summer salad served with house blend strawberry vinaigrette, a flavor busting extravagance of lettuce, strawberries, kiwi, mangoes and peanut brittle.",
+      "FIELD4": "180.00"
+   },
+   "item13": {
+      "FIELD2": "Mango Kani Salad",
+      "FIELD3": "Japanese inspired salad with mangoes crambstick flakes and cucumber cubes on a bed of greens sprinkles with ?nori? flakes",
+      "FIELD4": "160.00"
+   },
+   "item14": {
+      "FIELD2": "Waldorf Salad",
+      "FIELD3": "A wonderful combination of diced apples and grapes with chicken cubes in a healthy yogurt dressing over lettuce sprinkles with sweetened fill nuts",
+      "FIELD4": "80.00"
+   },
+   "item15": {
+      "FIELD2": "Shrimp Pomelo with Sesame Dressing",
+      "FIELD3": "A Thai classic with a mixture of pomelo and prawns over lettuce drizzled with our honey-sesame dressing",
+      "FIELD4": "180.00"
+   },
+   "item16": {
+      "FIELD2": "Russian Salad",
+      "FIELD3": "Old fashioned potato salad with sugar beef cubes, raisin, pineapple and bacon bits in a mayonnaise dressing",
+      "FIELD4": "160.00"
+   },
+   "item17": {
+      "FIELD2": "Creamy Bulalo Steak",
+      "FIELD3": "Our best seller mouthwatering beef shanks with mushroom gravy served with mashed potaties and buttered vegetables",
+      "FIELD4": "280.00"
+   },
+   "item18": {
+      "FIELD2": "Irish Porkchops",
+      "FIELD3": "Grilled tender porkchop served with buttered marble potatoes and apple chutney together with a cup of steamed rice",
+      "FIELD4": "220.00"
+   },
+   "item19": {
+      "FIELD2": "Salmon Picatta",
+      "FIELD3": "Pan grilled salmon sauce with a capers and lemon and sauce served with steamed rice",
+      "FIELD4": "220.00"
+   },
+   "item20": {
+      "FIELD2": "Chicken Chimichangas",
+      "FIELD3": "A combination of shredded chicken and potatoes wrapped in flour tortillas fried to a crisp served with salsa and ranch dressing",
+      "FIELD4": "130.00"
+   }
+}

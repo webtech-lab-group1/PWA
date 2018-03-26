@@ -1,0 +1,67 @@
+{
+   "Camping Date": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "Cheese Pizza",
+      "FIELD3": "Korean Pizza sauce with pure cheese imported from Korea",
+      "FIELD4": "860.00"
+   },
+   "item2": {
+      "FIELD2": "Hawaiian Pizza",
+      "FIELD3": "Ham and pineapple with Korean Pizza sauce and cheese",
+      "FIELD4": "880.00"
+   },
+   "item3": {
+      "FIELD2": "Potato Bacon Pizza",
+      "FIELD3": "Combination of potato and bacon with Korean pizza sauce and cheese",
+      "FIELD4": "880.00"
+   },
+   "item4": {
+      "FIELD2": "Sweet Potato Pizza",
+      "FIELD3": "Korean style Sweet Potato Pizza with beehive Sweet Potato paste",
+      "FIELD4": "950.00"
+   },
+   "item5": {
+      "FIELD2": "Pepperoni Pizza",
+      "FIELD3": "Pepperoni imported from Korea with Korean Pizza sauce and cheese",
+      "FIELD4": "890.00"
+   },
+   "item6": {
+      "FIELD2": "Spicy Chicken Pizza",
+      "FIELD3": "Korean Style Spicy Chicken with Korean Pizza Sauce and cheese",
+      "FIELD4": "920.00"
+   },
+   "item7": {
+      "FIELD2": "Bulgogi Pizza",
+      "FIELD3": "Korean Style Spicy Chicken with Korean Pizza Sauce and cheese",
+      "FIELD4": "950.00"
+   },
+   "item8": {
+      "FIELD2": "Combination Pizza",
+      "FIELD3": "Combination of ham, bulgogi, pepperoni and sweet potato paste",
+      "FIELD4": "950.00"
+   },
+   "item9": {
+      "FIELD2": "Adidas on fire (DakBal)",
+      "FIELD3": "Grilled Menu",
+      "FIELD4": "400.00"
+   },
+   "item10": {
+      "FIELD2": "Cheesey Adidas on fire",
+      "FIELD3": "Grilled Menu",
+      "FIELD4": "550.00"
+   },
+   "item11": {
+      "FIELD2": "Grilled Spicy BBQ Chicken",
+      "FIELD3": "Grilled Menu",
+      "FIELD4": "500.00"
+   },
+   "item12": {
+      "FIELD2": "Grilled Soy BBQ Chicken",
+      "FIELD3": "Grilled Menu",
+      "FIELD4": "550.00"
+   }
+}

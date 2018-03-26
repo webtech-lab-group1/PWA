@@ -1,0 +1,107 @@
+{
+   "Kubong sawali": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "Boneless Dilis at Bakang Maanghang",
+      "FIELD3": "fresh dilis with spicy beef",
+      "FIELD4": "125.00"
+   },
+   "item2": {
+      "FIELD2": "Mixed Adobo",
+      "FIELD3": "a version of this classic Filipino stew combining chicken pieces and pork cubes",
+      "FIELD4": "95.00"
+   },
+   "item3": {
+      "FIELD2": "Inihaw na Manok",
+      "FIELD3": "ombined sweet-savory flavors are immersed in the succulent chicken pieces so these get devoured soon as it gets off the grill",
+      "FIELD4": "95.00"
+   },
+   "item4": {
+      "FIELD2": "Sizzling Pinalutong na Bangus",
+      "FIELD3": "Sisig made with flaked milkfish, chopped onions, and chili peppers drizzled with fresh citrus juice",
+      "FIELD4": "125.00"
+   },
+   "item5": {
+      "FIELD2": "Sizzling Chicken sa Bawang",
+      "FIELD3": "Sisig made with flaked chicken, chopped onions, and chili peppers drizzled with fresh citrus juice",
+      "FIELD4": "130.00"
+   },
+   "item6": {
+      "FIELD2": "Sizzling Pork sa Labuyo",
+      "FIELD3": "Sisig made with flaked pork, chopped onions, and chili peppers drizzled with fresh citrus juice",
+      "FIELD4": "130.00"
+   },
+   "item7": {
+      "FIELD2": "Sizzling Beed Tadyang",
+      "FIELD3": "Sisig made with flaked tadyang, chopped onions, and chili peppers drizzled with fresh citrus juice",
+      "FIELD4": "135.00"
+   },
+   "item8": {
+      "FIELD2": "Chopsuey Rice",
+      "FIELD3": "Aromatic Chopsuey Rice with fresh greens topped with roasted sesame seeds.",
+      "FIELD4": "130.00"
+   },
+   "item9": {
+      "FIELD2": "Pork Chop Rice",
+      "FIELD3": "pork chops with salt and arrange them on top of the rice",
+      "FIELD4": "135.00"
+   },
+   "item10": {
+      "FIELD2": "Blue Marlin Steak Rice",
+      "FIELD3": "The pairing of the onions, garlic, tomatoes and fresh basil put it over the top of the blue marlin",
+      "FIELD4": "140.00"
+   },
+   "item11": {
+      "FIELD2": "Kubong Sawali Rice",
+      "FIELD3": "specialty homemade rice of kubong sawali",
+      "FIELD4": "140.00"
+   },
+   "item12": {
+      "FIELD2": "Dinakdakan",
+      "FIELD3": "Ilocano dish made of grilled and boiled pork parts-it works as a tasty appetizer",
+      "FIELD4": "160.00"
+   },
+   "item13": {
+      "FIELD2": "Hot & Crispy Dinuguan",
+      "FIELD3": "his classic dinuguan dish is both innovative and daring",
+      "FIELD4": "180.00"
+   },
+   "item14": {
+      "FIELD2": "Lechon Kawali",
+      "FIELD3": "a popular Filipino dish made with pork belly simmered until tender and then deep-fried until golden and crisp",
+      "FIELD4": "195.00"
+   },
+   "item15": {
+      "FIELD2": "Binagoongan",
+      "FIELD3": " pork being sauteed in tomato and stewed in shrimp paste",
+      "FIELD4": "205.00"
+   },
+   "item16": {
+      "FIELD2": "Bagnet with KBL",
+      "FIELD3": "side dish of sliced tomatoes, fish sauce and sliced onions appears often at an Ilocano meal, and it is eaten along with bagnet",
+      "FIELD4": "205.00"
+   },
+   "item17": {
+      "FIELD2": "Crispy Pata",
+      "FIELD3": "made whole pork leg boiled until tender and then deep-fried until golden and crisp",
+      "FIELD4": "370.00"
+   },
+   "item18": {
+      "FIELD2": "Kalderetang Kambing",
+      "FIELD3": "a thick and hearty stew made with goat meat, potatoes and carrots braised in a tomato and liver sauce",
+      "FIELD4": "200.00"
+   },
+   "item19": {
+      "FIELD2": "Spicy Adobong Kambing",
+      "FIELD3": "a thick and hearty stew made with goat meat, potatoes and carrots braised in a tomato and liver sauce and chili sauce",
+      "FIELD4": "205.00"
+   },
+   "item20": {
+      "FIELD2": "Binusog na Pusit",
+      "FIELD3": " Stuffed Squid with tomatoes, onions, bell peppers served with its specail sauce",
+      "FIELD4": "195.00"
+   }
+}

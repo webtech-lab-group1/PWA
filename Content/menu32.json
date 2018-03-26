@@ -1,0 +1,107 @@
+{
+   "Route 55 by Hernan's Kitchen": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "Route 55 Tapa",
+      "FIELD3": "Pinoy style steak served with 2 eggs and garlic rice",
+      "FIELD4": "195.00"
+   },
+   "item2": {
+      "FIELD2": "Spanish Omelet",
+      "FIELD3": "Sauteed fresh Baguio vegetables folded between 2 eggs. Served with toasted bread and butter",
+      "FIELD4": "135.00"
+   },
+   "item3": {
+      "FIELD2": "Hungarian Sausage",
+      "FIELD3": "Grilled sausage served with 2 eggs, toasted bread and butter or rice",
+      "FIELD4": "165.00"
+   },
+   "item4": {
+      "FIELD2": "Fluffy Pancake Tower",
+      "FIELD3": "Homemade pancakes with crispy bacon slices, maple syrup and strawberry butter",
+      "FIELD4": "155.00"
+   },
+   "item5": {
+      "FIELD2": "Chili Con Carne",
+      "FIELD3": "A Mexican stew of ground meat, chilies and chili beans",
+      "FIELD4": "75.00"
+   },
+   "item6": {
+      "FIELD2": "Route 55 Burger",
+      "FIELD3": "Our classic half pound burger with caramelized onions, veggies and garlic cream cheese",
+      "FIELD4": "185.00"
+   },
+   "item7": {
+      "FIELD2": "Herman's Crispy Chicken Burger",
+      "FIELD3": "Crunchy chicken patty with coleslaw and teriyaki sauce",
+      "FIELD4": "175.00"
+   },
+   "item8": {
+      "FIELD2": "Pulled Pork Sub",
+      "FIELD3": "A must try! Slowly cooked pork in our homemade BBQ sauce in a baguette.",
+      "FIELD4": "205.00"
+   },
+   "item9": {
+      "FIELD2": "Cornflake Crusted Dory Fillet Sub",
+      "FIELD3": "Crunchy and healthy dory fillet with garlic parmesan dressing and coleslaw in a baguette",
+      "FIELD4": "205.00"
+   },
+   "item10": {
+      "FIELD2": "Roast Beef Sub",
+      "FIELD3": "Tender beef, mushroom gravy and cheese in a baguette",
+      "FIELD4": "215.00"
+   },
+   "item11": {
+      "FIELD2": "Bacon and Mushroom Melt",
+      "FIELD3": "A blend of 3 cheeses topped with mushrooms and crispy bacon bits",
+      "FIELD4": "185.00"
+   },
+   "item12": {
+      "FIELD2": "Spinach and Shitaake Ravioli",
+      "FIELD3": "A fusion of flavors blended with cheese wrapped with homemade pasta",
+      "FIELD4": "185.00"
+   },
+   "item13": {
+      "FIELD2": "Mexican Salad",
+      "FIELD3": "Chilies, chili con carne, cheese, veggies,s salsa and more layered on top of crunchy corn nachos",
+      "FIELD4": "205.00"
+   },
+   "item14": {
+      "FIELD2": "Mexican Cajun Wings",
+      "FIELD3": "Smoked and deep-fried wings with traditional Mexican Cajun spices",
+      "FIELD4": "215.00"
+   },
+   "item15": {
+      "FIELD2": "Route 55 Classic",
+      "FIELD3": "The all original salami and mushroom pizza",
+      "FIELD4": "225.00"
+   },
+   "item16": {
+      "FIELD2": "Grilled Cajun Chicken Pizza",
+      "FIELD3": "A Mexican BBQ sauce based pizza topped with Cajun spiced chicken and cheese",
+      "FIELD4": "215.00"
+   },
+   "item17": {
+      "FIELD2": "Garlic and Cheese Pizza",
+      "FIELD3": "Roasted garlic and mozzarella cheese",
+      "FIELD4": "195.00"
+   },
+   "item18": {
+      "FIELD2": "Pulled Pork Pizza",
+      "FIELD3": "Shredded pork BBQ on a pizza with onions and bell peppers and cheese",
+      "FIELD4": "225.00"
+   },
+   "item19": {
+      "FIELD2": "Panacotta Shots",
+      "FIELD3": "A medley of Herman's 3 best panacotta flavors",
+      "FIELD4": "125.00"
+   },
+   "item20": {
+      "FIELD2": "Tropical Fruit Terrine",
+      "FIELD3": "Tropical fruits in season in gelatin layered with crispy honey wantons",
+      "FIELD4": "135.00"
+   }
+}

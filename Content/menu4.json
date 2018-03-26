@@ -1,0 +1,107 @@
+{
+   "Beggang Resto Grill": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "Tapang Taal",
+      "FIELD3": "Served with Garlic rice & egg",
+      "FIELD4": "110.00"
+   },
+   "item2": {
+      "FIELD2": "Fried Boneless Bangus",
+      "FIELD3": "Served with Garlic rice & egg",
+      "FIELD4": "120.00"
+   },
+   "item3": {
+      "FIELD2": "Ham and Cheese Omellete",
+      "FIELD3": "Served with Garlic rice & egg",
+      "FIELD4": "120.00"
+   },
+   "item4": {
+      "FIELD2": "Vegetarian Omelet",
+      "FIELD3": "Served with Garlic rice & egg",
+      "FIELD4": "120.00"
+   },
+   "item5": {
+      "FIELD2": "Meal A",
+      "FIELD3": "Lechon Kawali with Pinakbet & Rice",
+      "FIELD4": "165.00"
+   },
+   "item6": {
+      "FIELD2": "Meal B",
+      "FIELD3": "Mama's Asian Fried Chicken with Pancit Canton & Rice",
+      "FIELD4": "165.00"
+   },
+   "item7": {
+      "FIELD2": "Meal C",
+      "FIELD3": "Fish Fillet in Sweet and Sour Sauce with Rice",
+      "FIELD4": "120.00"
+   },
+   "item8": {
+      "FIELD2": "Meal D",
+      "FIELD3": "Pork BBQ (3 pcs) with Buttered Vegetables and Rice",
+      "FIELD4": "120.00"
+   },
+   "item9": {
+      "FIELD2": "Meal E",
+      "FIELD3": "Grilled Pork Chops with Gravy and Buttered Vegetables",
+      "FIELD4": "165.00"
+   },
+   "item10": {
+      "FIELD2": "Meal F",
+      "FIELD3": "Stuffed Pork Loin with Ham and Cheese, topped with Gravy, Buttered Vegetables and Rice",
+      "FIELD4": "199.00"
+   },
+   "item11": {
+      "FIELD2": "Meal G",
+      "FIELD3": "Pork Spareribs (approx. 450gms) BBQ sauce served with buttered Vegetables and Rice",
+      "FIELD4": "220.00"
+   },
+   "item12": {
+      "FIELD2": "Set A",
+      "FIELD3": "Kare-Kare, Lechon Kawali, Balamban Chicken Tinuno (500gms), Shanghai Lumpia, Plain Rice (5 cups)",
+      "FIELD4": "830.00"
+   },
+   "item13": {
+      "FIELD2": "Set B",
+      "FIELD3": "Pork Sinigang sa Miso, Mixed Seafood in Garlic Butter Sauce, Chicharon Isda, Chicken BBQ (500gms), Plain Rice (5 cups)",
+      "FIELD4": "910.00"
+   },
+   "item14": {
+      "FIELD2": "Set C",
+      "FIELD3": "Beef Pochero, Grilled Liempo (400gms), Balamban Chicken Tinuno (500gms), Fresh Lumpia Salad, Plain Rice (5cups)",
+      "FIELD4": "850.00"
+   },
+   "item15": {
+      "FIELD2": "Set D",
+      "FIELD3": "Nilagang Baka, Mama?s Asian Fried Chicken (500gms), Sizzing Garlic Tuna, Fresh Lumpia Salad, Plain Rice (5 cups)",
+      "FIELD4": "840.00"
+   },
+   "item16": {
+      "FIELD2": "Set E",
+      "FIELD3": "Beef Kaldereta, Chicken BBQ (500gms), Grilled Boneless Bangus, Sizzling Seafood Express, Plain Rice (5 cups)",
+      "FIELD4": "930.00"
+   },
+   "item17": {
+      "FIELD2": "Set F",
+      "FIELD3": "Sinigang na Tuna sa Miso, Chicken BBQ (500gms), Tinunong Tenga ng Baboy (Sisig), Dinuguan, Plain Rice (5cups)",
+      "FIELD4": "890.00"
+   },
+   "item18": {
+      "FIELD2": "Set G",
+      "FIELD3": "Nilagang Balayan, Grilled Tuna Belly (450gms), Chicken Adobo in Tumeric Sauce (Adobong Dilaw), Grilled Liempo, Plain Rice (5 cups)",
+      "FIELD4": "1,050.00"
+   },
+   "item19": {
+      "FIELD2": "Pinoy Quesadillas (Sharing)",
+      "FIELD3": "Made with our very own garlic longganisa, topped with fresh veggies and cheese, sandwiched in grilled tortillas",
+      "FIELD4": "235.00"
+   },
+   "item20": {
+      "FIELD2": "Mango Shake",
+      "FIELD3": "Ripe/Green",
+      "FIELD4": "75.00"
+   }
+}

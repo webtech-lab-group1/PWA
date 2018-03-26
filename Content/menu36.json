@@ -1,0 +1,107 @@
+{
+   "Shakey's": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "Calamari Crrrunch",
+      "FIELD3": "Our seasoned and battered squid rings deep fried to golden crispy, crunchy perfection. Served with sweet chili sauce and garlic ranch dip",
+      "FIELD4": "319.00"
+   },
+   "item2": {
+      "FIELD2": "Wings 'N' Rings",
+      "FIELD3": "A pairing of spicy buffalo wings and crispy calamari. Served with skinny fries, sweet chili sauce and garlic ranch dip",
+      "FIELD4": "401.00"
+   },
+   "item3": {
+      "FIELD2": "Captain's Choice",
+      "FIELD3": "A sumptuous dish of crispy fish fillet and crunchy calamari cooked with our special breading and deep fried to golden perfection. Served with skinny fries, sweet chili sauce and garlic ranch dip",
+      "FIELD4": "421.00"
+   },
+   "item4": {
+      "FIELD2": "Hickory BBQ Onion Rings",
+      "FIELD3": "Fresh onion rings cooked in a seasoned beer batter with sweet hickory bbq spice and fried until perfectly crispy. Served with mayo for dipping",
+      "FIELD4": "99.00"
+   },
+   "item5": {
+      "FIELD2": "Mozzarella Cheese Sticks",
+      "FIELD3": "Golden fried, stretchy, cheesy and melty mozzarella. Served with classic marinara sauce for dipping",
+      "FIELD4": "185.00"
+   },
+   "item6": {
+      "FIELD2": "Mojos 'n' Dip",
+      "FIELD3": "Shakey's very own deep fried potato slices breaded with unique seasoning and spices. Choose your yummy dip",
+      "FIELD4": "135.00"
+   },
+   "item7": {
+      "FIELD2": "Mojos Supreme",
+      "FIELD3": "Big bucket of goodness of potato slices. Enjoy it even more with 3 exciting dips",
+      "FIELD4": "375.00"
+   },
+   "item8": {
+      "FIELD2": "Chef's Choice Salad",
+      "FIELD3": "Ham, grated cheddar cheese, crunchy croutons and hard boiled egg on a heap of fresh lettuce. Served with your choice of either thousand island or ranch dressing",
+      "FIELD4": "282.00"
+   },
+   "item9": {
+      "FIELD2": "Caesar Salad",
+      "FIELD3": "A true classic. Fresh crisp lettuce loaded with crispy premium bacon bits, parmesan cheese and crunchy croutons. Tossed with Caesar dressing",
+      "FIELD4": "282.00"
+   },
+   "item10": {
+      "FIELD2": "Angus Steakhouse",
+      "FIELD3": "Premium pizza made from specially blended Angus beef with roasted onions and sliced mushrooms topped with our crunchy potato strings",
+      "FIELD4": "668.00"
+   },
+   "item11": {
+      "FIELD2": "Belly Buster",
+      "FIELD3": "Count them: beef, Italian sausage, pepperoni, ham, salami, cheddar cheese, salami bits, mushrooms, red and green bell pepper, onions and black olives",
+      "FIELD4": "668.00"
+   },
+   "item12": {
+      "FIELD2": "Shakey's Special",
+      "FIELD3": "A special pizza loaded with beef, Italian sausage, pepperoni, salami, mushrooms, green bell pepper and onions",
+      "FIELD4": "636.00"
+   },
+   "item13": {
+      "FIELD2": "Grand Slam!",
+      "FIELD3": "It's divided into our 4 most popular flavors so everyone's sure to find their favorite. Served with a pitcher of House blend iced tea or softdrink",
+      "FIELD4": "905.00"
+   },
+   "item14": {
+      "FIELD2": "Family Deal 1",
+      "FIELD3": "Good for 3 to 4 persons. Spaghetti Platter or Solo Pack Chicken 'n' Mojos with 3 pieces of Shakey's flavorful chicken. Any large Thin Crust Pizza and one 1.5L Coke",
+      "FIELD4": "990.00"
+   },
+   "item15": {
+      "FIELD2": "Family Meal Deal 2",
+      "FIELD3": "Good for 5 to 6 persons. Spaghetti Platter, Any large Thin Crust Pizza, Buddy Pack Chicken n' Mojos with 5 pieces of Shakey's flavorful chicken and one 1.5L Coke",
+      "FIELD4": "1,431.00"
+   },
+   "item16": {
+      "FIELD2": "Family Meal Deal 3",
+      "FIELD3": "Good for 6 to 8 persons. Spaghetti Platter, Any large Thin Crust Pizza, Family pack Chicken 'n' Mojos with 7 pieces of Shakey's flavorful chicken and two 1.5L Coke",
+      "FIELD4": "1,872.00"
+   },
+   "item17": {
+      "FIELD2": "Monster Meal Deal",
+      "FIELD3": "Good for 10 to 12 persons. 2 Large crisp brick-oven pizza: Manager's Choice and Pepperoni Thin Crust Pizza, 2 Platters of rich and flavorful pasta: Classic Spaghetti and Carbonara Supreme, Awesome Twosome 12pieces Chicken 'n' Mojos Party Pack and three 1.5L Coke",
+      "FIELD4": "2,864.00"
+   },
+   "item18": {
+      "FIELD2": "Super Shake",
+      "FIELD3": "We make good old-fashioned milkshakes - Super! Made with premium ice cream and fresh milk. Strawberry, Chocolate, Vanilla, Merry Mango or Coffee Chip",
+      "FIELD4": "179.00"
+   },
+   "item19": {
+      "FIELD2": "Fun Mixes",
+      "FIELD3": "Lemon Cucumber Cooler, Blue Lemon Slush",
+      "FIELD4": "179.00"
+   },
+   "item20": {
+      "FIELD2": "Yoghurt Bliss",
+      "FIELD3": "Blueberry yoghurt, strawberry yoghurt",
+      "FIELD4": "179.00"
+   }
+}

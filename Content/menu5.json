@@ -1,0 +1,97 @@
+{
+   "Baguio Craft Brewery": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "Fish and Chips",
+      "FIELD3": "Beer battered dory fish, deep fried to crisp and served with potato fries. Accompanied with tartar, ketchup and our very own Pinakurat",
+      "FIELD4": "320.00"
+   },
+   "item2": {
+      "FIELD2": "Yakitori",
+      "FIELD3": "Skewer of marinated chicken cubes and vegetables, grilled and glazed with special barbecue sauce",
+      "FIELD4": "320.00"
+   },
+   "item3": {
+      "FIELD2": "Ribs Platter Family",
+      "FIELD3": "Baguio Craft Brewery's grilled fall off-the bone ribs, basted with Zigzagger beer BBQ sauce, accompanied with Cajun spiced shrimp, juicy corn on the cob & crispy fries",
+      "FIELD4": "1,149.00"
+   },
+   "item4": {
+      "FIELD2": "Stout Isaw",
+      "FIELD3": "Our very version of Isaw, marinated with stout beer, grilled and topped with corn salsa",
+      "FIELD4": "280.00"
+   },
+   "item5": {
+      "FIELD2": "Ribs Platter Solo",
+      "FIELD3": "Half pack ribs basted with Zigzagger beer BBQ sauce, served with juicy corn on the cob and crispy fries",
+      "FIELD4": "479.00"
+   },
+   "item6": {
+      "FIELD2": "Premium Sausage Platter",
+      "FIELD3": "A platter of premium sausages (Hungarian, Schublig, Kielbasa), Bruschetta, caramelized onion, cheese and grainy mustard",
+      "FIELD4": "550.00"
+   },
+   "item7": {
+      "FIELD2": "Stinky Big Dane",
+      "FIELD3": "Ground beef patty stuffed with jalapeno and bleu cheese. Served with crispy fries",
+      "FIELD4": "400.00"
+   },
+   "item8": {
+      "FIELD2": "Pulled Pork Muffins",
+      "FIELD3": "Served on a bed of toasted English muffin, topped with diced green apples & sour cream sauce, a side of cabbage & apple slaw, and crispy fries",
+      "FIELD4": "290.00"
+   },
+   "item9": {
+      "FIELD2": "Chicken Inasal",
+      "FIELD3": "Beer marinated chicken thighs, grilled and served with roasted vegetables and rice",
+      "FIELD4": "300.00"
+   },
+   "item10": {
+      "FIELD2": "Smoked Pork Belly",
+      "FIELD3": "Home smoked pork belly, deep fried and glazed with our special barbecue sauce. Served with rice and grilled vegetable",
+      "FIELD4": "380.00"
+   },
+   "item11": {
+      "FIELD2": "Beef Nachos",
+      "FIELD3": "Nacho chips overloaded with beef, cheese and vegetables. Served with our in-house garlic sauce and salsa",
+      "FIELD4": "320.00"
+   },
+   "item12": {
+      "FIELD2": "Chicken Quesadillas",
+      "FIELD3": "Homemade tortillas filled with grilled chicken and fresh vegetables",
+      "FIELD4": "250.00"
+   },
+   "item13": {
+      "FIELD2": "Buffalo Wings",
+      "FIELD3": "Classic chicken wings, deep fried to perfection coated with our special spicy buffalo sauce. Served with housemade bleu cheese dip and vegetable sticks",
+      "FIELD4": "350.00"
+   },
+   "item14": {
+      "FIELD2": "Salt and Pepper Wings with Chips",
+      "FIELD3": "A less spicy alternative to our buffalo wings, chicken wings deep fried, seasoned with sea salt and cracked black pepper.",
+      "FIELD4": "350.00"
+   },
+   "item15": {
+      "FIELD2": "Fish Tacos",
+      "FIELD3": "A trio of soft tortilla with grilled spiced dory fish on a bed of fresh sliced lettuce topped with fresh chopped tomato, onion and cilantro. Best served with our housemade salsa",
+      "FIELD4": "350.00"
+   },
+   "item16": {
+      "FIELD2": "Pork Canitas",
+      "FIELD3": "Spiced pulled pork on a bed of soft tortilla shell topped with fresh vegetables",
+      "FIELD4": "320.00"
+   },
+   "item17": {
+      "FIELD2": "Crispy Ruffles",
+      "FIELD3": "Deep fried pork ruffles, spiced and served with Pinakurat.",
+      "FIELD4": "320.00"
+   },
+   "item18": {
+      "FIELD2": "Chicken Skin",
+      "FIELD3": "Chicken skin marinated with throat-cutter beer deep-fried to crisp and seasoned well. Served with Pinakurat dressing",
+      "FIELD4": "300.00"
+   }
+}

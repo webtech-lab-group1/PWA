@@ -1,0 +1,72 @@
+{
+   "Foggy Mountain Cookhouse": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "Oven Roasted Whole Chicken",
+      "FIELD3": "Butterflied whole chicken infused with fresh Italian herbs. Brick oven roasted for that succulent smoky taste - served with roasted veggies and potatoes.",
+      "FIELD4": "1,000.00"
+   },
+   "item2": {
+      "FIELD2": "Chicken Parmesan Pie",
+      "FIELD3": "Thigh fillet seasoned with parmesan cheese, pan fried, with fresh tomato and basil sauce, layered with mozzarella cheese, topped with herbs and mashed potatoes and parmesan cheese, oven roasted for that crusty luscious pie goodness!",
+      "FIELD4": "550.00"
+   },
+   "item3": {
+      "FIELD2": "Grilled Chipotle Pork Chop",
+      "FIELD3": "One inch thick pork chop marinated in chipotle spices and honey.. Southwestern flavor- a must try!",
+      "FIELD4": "550.00"
+   },
+   "item4": {
+      "FIELD2": "Porcheta",
+      "FIELD3": "Rolled boneless pork belly seasoned with Mediterranean herbs. In red wine reduction sauce and raisins. . My version of Italian roast pork. Crispy skin, juicy meat!",
+      "FIELD4": "550.00"
+   },
+   "item5": {
+      "FIELD2": "Fish and Squid Pie",
+      "FIELD3": "Medley of Giant Norwegian squid cutlets, cod loin or salmon cutlets, in cream and fennel seed sauce, topped with mashed potato, herb, cheese and crumbs. Baked to brown for that crispy crust.",
+      "FIELD4": "600.00"
+   },
+   "item6": {
+      "FIELD2": "Pan Fried White Fish Fillet",
+      "FIELD3": "Pan fried in olive oil. Crispy Crust. Topped with medley of tomatoes, basil and black olives in olive oil. Topped with parmesan cheese.",
+      "FIELD4": "450.00"
+   },
+   "item7": {
+      "FIELD2": "Smoked Salmon Carpaccio",
+      "FIELD3": "Thinly sliced smoked salmon with capers. Served on a bed of mixed greens drizzled with balsamic vinegar reduction, cold pressed extra virgin olive oil and chives. Health food. Cold dish.",
+      "FIELD4": "700.00"
+   },
+   "item8": {
+      "FIELD2": "Brick Oven Roasted Boneless Leg of Lamb",
+      "FIELD3": "Lamb slow roasted on brick oven marinated overnight in Moroccan spices. Served with Middle Eastern veggies. Drizzled with fresh mint and yogurt sauce.",
+      "FIELD4": "650.00"
+   },
+   "item9": {
+      "FIELD2": "Greek Peasant Lamb Dish",
+      "FIELD3": "Lamb shoulder cuts, slow simmered with fresh rosemary and red wine, fall off the bone! Served on top of mashed potato. Melting pot of Greek and Italian dish.",
+      "FIELD4": "600.00"
+   },
+   "item10": {
+      "FIELD2": "Split Pea Soup",
+      "FIELD3": "in ham hock stock with Italian garlic sausage",
+      "FIELD4": "175.00"
+   },
+   "item11": {
+      "FIELD2": "Penne Pasta with giant squid cutlets",
+      "FIELD3": "in cold pressed extra virgin olive oil with parmesan cheese (good for two)",
+      "FIELD4": "250.00"
+   },
+   "item12": {
+      "FIELD2": "Penne Pasta in egg sauce",
+      "FIELD3": "with truffle oil and parmesan cheese (good for two)",
+      "FIELD4": "200.00"
+   },
+   "item13": {
+      "FIELD2": "Cookhouse Banana Foster",
+      "FIELD3": "our take on this classic dessert (good for two)",
+      "FIELD4": "200.00"
+   }
+}

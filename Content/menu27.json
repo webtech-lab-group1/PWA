@@ -1,0 +1,107 @@
+{
+   "Oh My Gulay": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "Bulaklak Tempura",
+      "FIELD3": "Tempura kalabasa blossoms with your choice of tempura sauce or chef's mayo",
+      "FIELD4": "70.00"
+   },
+   "item2": {
+      "FIELD2": "OMG Salad",
+      "FIELD3": "Our trademark salad of assorted greens, served with our blend of herb honey mustard dressing",
+      "FIELD4": "120.00"
+   },
+   "item3": {
+      "FIELD2": "Waldorfesto",
+      "FIELD3": "Tossed salad of apples, celery, potatoes, egg slices and nuts, with garlic mayo pesto",
+      "FIELD4": "140.00"
+   },
+   "item4": {
+      "FIELD2": "Cesar Asar",
+      "FIELD3": "Our version of Caesar salad minus the anchovies and bacon, enriched with our basil cheese croutons",
+      "FIELD4": "120.00"
+   },
+   "item5": {
+      "FIELD2": "KKK Sliders",
+      "FIELD3": "Crispy tofu rolls on a bed of mixed greens tossed with honey mustard and Asian dressing",
+      "FIELD4": "140.00"
+   },
+   "item6": {
+      "FIELD2": "Talong Parmigiana",
+      "FIELD3": "Breaded eggplant over whole wheat bread, topped with our special red sauce, pesto and cheese",
+      "FIELD4": "135.00"
+   },
+   "item7": {
+      "FIELD2": "OMG Club Sandwich",
+      "FIELD3": "Double-decker sandwich of plum tomatoes, cucumber and fried egg with mixed greens",
+      "FIELD4": "130.00"
+   },
+   "item8": {
+      "FIELD2": "Anak Ng Putanesca",
+      "FIELD3": "Our version of putanesca, enriched with a hint of cayenne pepper",
+      "FIELD4": "130.00"
+   },
+   "item9": {
+      "FIELD2": "Kabute",
+      "FIELD3": "Oyster, shiitake, button mushrooms with bechamel sauce, and cheddar cheese",
+      "FIELD4": "130.00"
+   },
+   "item10": {
+      "FIELD2": "Pasta Mestizo",
+      "FIELD3": "Combination of bechamel mushroom and pomodoro sauce",
+      "FIELD4": "130.00"
+   },
+   "item11": {
+      "FIELD2": "Chow-Chow",
+      "FIELD3": "Egg noodles with fresh vegetables sauteed in garlic and flavored with soy hoisin",
+      "FIELD4": "135.00"
+   },
+   "item12": {
+      "FIELD2": "Oh My Gulay Rice",
+      "FIELD3": "Native brown rice with ten vegetables in season mixed with our Mongolian sauce, topped with steamed tofu and omelet",
+      "FIELD4": "140.00"
+   },
+   "item13": {
+      "FIELD2": "Mushroom Onion Crepe",
+      "FIELD3": "Three kinds of mushroom, caramelized onions and cheddar, topped with garlic sour cream and yoghurt sauce",
+      "FIELD4": "130.00"
+   },
+   "item14": {
+      "FIELD2": "Pestong Kamatis",
+      "FIELD3": "Pesto and fresh tomatoes",
+      "FIELD4": "130.00"
+   },
+   "item15": {
+      "FIELD2": "Sibuyas Kabute Omelet",
+      "FIELD3": "Sauteed mushrooms with caramelized onions and eggs, served with basil cheese toast",
+      "FIELD4": "110.00"
+   },
+   "item16": {
+      "FIELD2": "Sili Omelet",
+      "FIELD3": "Sauteed red and green peppers, chili fingers, garlic, onions and eggs, with cheese basil toast",
+      "FIELD4": "110.00"
+   },
+   "item17": {
+      "FIELD2": "Mansanas",
+      "FIELD3": "Crepe stuffed with caramelized apples",
+      "FIELD4": "40.00"
+   },
+   "item18": {
+      "FIELD2": "Super Sosy",
+      "FIELD3": "Crepe stuffed with peaches",
+      "FIELD4": "40.00"
+   },
+   "item19": {
+      "FIELD2": "Dayap Iced Tea",
+      "FIELD3": "Lime-infused brewed iced tea",
+      "FIELD4": "75.00"
+   },
+   "item20": {
+      "FIELD2": "Mangga Fresh",
+      "FIELD3": "Mango puree with brewed tea, served ice cold",
+      "FIELD4": "75.00"
+   }
+}

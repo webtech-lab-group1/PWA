@@ -1,0 +1,107 @@
+{
+   "Don Henrico's": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "Homestyle Onion Rings",
+      "FIELD3": "Sweet onion rings, lightly breaded and deep-fried until golden crisp, served with our very own ranch dressing",
+      "FIELD4": "180.00"
+   },
+   "item2": {
+      "FIELD2": "Petite Mozzarella Sticks",
+      "FIELD3": "Deep-fried mozzarella cheese coated in special Italian-seasoned breading served with our marinara sauce",
+      "FIELD4": "190.00"
+   },
+   "item3": {
+      "FIELD2": "Calamari Friti",
+      "FIELD3": "Tender calamari lightly battered and fried to golden finish, served with marinara sauce",
+      "FIELD4": "190.00"
+   },
+   "item4": {
+      "FIELD2": "Dip & Nachos",
+      "FIELD3": "Warm cornmeal nachos served with creamy cheese sauce",
+      "FIELD4": "210.00"
+   },
+   "item5": {
+      "FIELD2": "Chicken Fingers & Potato Wedges",
+      "FIELD3": "Chicken tenderloin deep-fried to golden brown with potato wedges served with honey mustard dressing",
+      "FIELD4": "220.00"
+   },
+   "item6": {
+      "FIELD2": "Caesar Salad",
+      "FIELD3": "Crisp lettuce on Caesar dressing with roasted garlic chips, tomato, olives, freshly grated parmesan cheese, crisp bacon crumbles and croutons",
+      "FIELD4": "360.00"
+   },
+   "item7": {
+      "FIELD2": "Nachos Salad Ole'",
+      "FIELD3": "Taco beef, lettuce, tomatoes, onions, black olives, corn kernels served on a bed of crisp nacho chips with a Mexican-style dressing topped with grated cheddar cheese",
+      "FIELD4": "440.00"
+   },
+   "item8": {
+      "FIELD2": "Creamy Chicken Chowder",
+      "FIELD3": "Chunky chicken and vegetables in a thick and flavorful cream soup topped with garlic croutons",
+      "FIELD4": "85.00"
+   },
+   "item9": {
+      "FIELD2": "Seafood Tomato Soup",
+      "FIELD3": "A tasty fish and shellfish in a rich tomato broth served with roasted French bread",
+      "FIELD4": "85.00"
+   },
+   "item10": {
+      "FIELD2": "Hot Fish Sticks",
+      "FIELD3": "Fish fillet in a spicy marinade, battered, then deep fried served with rice and salad with our ranch dressing",
+      "FIELD4": "240.00"
+   },
+   "item11": {
+      "FIELD2": "Chicken Parmi",
+      "FIELD3": "Lightly-breaded chicken breast covered with marinara sauce topped with melted mozzarella cheese, served with cream pasta, corn and carrots",
+      "FIELD4": "280.00"
+   },
+   "item12": {
+      "FIELD2": "Oven Fried Chicken",
+      "FIELD3": "Non-breaded chicken, oven-fried till golden brown served with rice, gravy sauce, corn & carrots",
+      "FIELD4": "280.00"
+   },
+   "item13": {
+      "FIELD2": "Don Henrico's Buffalo Wings",
+      "FIELD3": "Traditional upstate New York style tender pieces of chicken wings marinated, cooked to perfection and coated with tangy BBQ sauce, served with our creamy ranch dressing sauce",
+      "FIELD4": "780.00"
+   },
+   "item14": {
+      "FIELD2": "Chicken Ala Buffalo",
+      "FIELD3": "Traditional upstate New York style tender pieces of chicken marinated, cooked to perfection and coated in tangy BBQ sauce, served with our creamy ranch dipping sauce",
+      "FIELD4": "780.00"
+   },
+   "item15": {
+      "FIELD2": "Captain Crunch Fried Chicken",
+      "FIELD3": "Tender cuts of chicken marinated in special seasoning and cooked to golden crisp perfection, crisp, tender and juicy inside, served with gravy sauce",
+      "FIELD4": "780.00"
+   },
+   "item16": {
+      "FIELD2": "Don Henrico's Supreme",
+      "FIELD3": "Don Henrico's very own creation, pepperoni, beef, ham, mushroom, pineapple tidbits, onion, bell pepper and black olives",
+      "FIELD4": "950.00"
+   },
+   "item17": {
+      "FIELD2": "Bacon Cheeseburger",
+      "FIELD3": "A great combination of bacon, beef, mushroom, onion, pickles topped with lettuce tossed with mayonnaise and tomato",
+      "FIELD4": "890.00"
+   },
+   "item18": {
+      "FIELD2": "Four Cheese Pizza",
+      "FIELD3": "Mozzarella, gorgonzola, cheddar and parmesan cheese baked with our own bechamels sauce",
+      "FIELD4": "860.00"
+   },
+   "item19": {
+      "FIELD2": "Beef Calzone",
+      "FIELD3": "Filled with pepperoni, beef, onion and bell pepper, plus 100% mozzarella cheese, homemade ricotta cheese and tasty cheese served with red sauce",
+      "FIELD4": "320.00"
+   },
+   "item20": {
+      "FIELD2": "Cheesy Baked Lasagna",
+      "FIELD3": "Lasagna rolls topped with home-made ricotta cheese, mozzarella cheese and sauteed beef chunks baked until cheese is bubbly, topped with red and white sauce sprinkled with parmesan cheese",
+      "FIELD4": "320.00"
+   }
+}

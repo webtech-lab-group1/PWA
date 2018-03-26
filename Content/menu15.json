@@ -1,0 +1,107 @@
+{
+   "Ebai's Cafe & Pastry": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "Filipino Breakfast",
+      "FIELD3": "choices of Longganisa, Tocino, Corned Beef or Boneless Daing na Bangus with Fried Egg and Garlic Rice",
+      "FIELD4": "118.00"
+   },
+   "item2": {
+      "FIELD2": "Continental Breakfast",
+      "FIELD3": "Whole Wheat Bread with Butter Jam",
+      "FIELD4": "88.00"
+   },
+   "item3": {
+      "FIELD2": "Ebai's Caesar",
+      "FIELD3": "garlic croutons that top this classic salad are wonderful, as is the anchovy-infused, very creamy dressing",
+      "FIELD4": "140.00"
+   },
+   "item4": {
+      "FIELD2": "Fresh Garden",
+      "FIELD3": "garlic croutons that top this classic salad are wonderful, as is the anchovy-infused, very creamy dressing",
+      "FIELD4": "118.00"
+   },
+   "item5": {
+      "FIELD2": "Chicharon Bulaklak",
+      "FIELD3": "deep-fried ruffled fat is a popular Filipino appetize",
+      "FIELD4": "182.00"
+   },
+   "item6": {
+      "FIELD2": "Crispy Kangkong",
+      "FIELD3": "made with battered water/river spinach leaves fried until light brown and crispy",
+      "FIELD4": "108.00"
+   },
+   "item7": {
+      "FIELD2": "Kuhol Sa Gata",
+      "FIELD3": " a freshwater snail stewed in coconut milk",
+      "FIELD4": "98.00"
+   },
+   "item8": {
+      "FIELD2": "Vegetable Sticks",
+      "FIELD3": "an assortment of tasty sweet potato, squash, carrot, green bean, and taro chips in pop stick form",
+      "FIELD4": "65.00"
+   },
+   "item9": {
+      "FIELD2": "Sizzliing Button Mushrooms",
+      "FIELD3": " A mix of fresh mushrooms gives it a delicious meaty texture and earthy flavor",
+      "FIELD4": "208.00"
+   },
+   "item10": {
+      "FIELD2": "Blue Marlin",
+      "FIELD3": "seasonal",
+      "FIELD4": "142.00"
+   },
+   "item11": {
+      "FIELD2": "Bacalao",
+      "FIELD3": "Spanish-style fish stew from the Basque region of Spain is a traditional peasant dish popular in all Spanish-speaking countries",
+      "FIELD4": "142.00"
+   },
+   "item12": {
+      "FIELD2": "Salmon Belly",
+      "FIELD3": "Sizzling Meal This versatile fish is an easy way to get more heart-healthy Omega-3 fatty acids into your diet",
+      "FIELD4": "118.00"
+   },
+   "item13": {
+      "FIELD2": "T-Bone Steak",
+      "FIELD3": "Sizzling Meal teaks of beef cut from the short loin Both steaks include a \"T-shaped\" bone with meat on each side",
+      "FIELD4": "148.00"
+   },
+   "item14": {
+      "FIELD2": "Arroz Caldo",
+      "FIELD3": "Merienda Specials",
+      "FIELD4": "98.00"
+   },
+   "item15": {
+      "FIELD2": "BLT",
+      "FIELD3": "served with French Fries",
+      "FIELD4": "108.00"
+   },
+   "item16": {
+      "FIELD2": "Tuna Sandwich",
+      "FIELD3": " a popular source of protein",
+      "FIELD4": "98.00"
+   },
+   "item17": {
+      "FIELD2": "Chicken Sandwich",
+      "FIELD3": "served with French Fries",
+      "FIELD4": "98.00"
+   },
+   "item18": {
+      "FIELD2": "Cheese Burger",
+      "FIELD3": "served with French Fries",
+      "FIELD4": "118.00"
+   },
+   "item19": {
+      "FIELD2": "Toasted Bread",
+      "FIELD3": "4pcs toasted bread",
+      "FIELD4": "55.00"
+   },
+   "item20": {
+      "FIELD2": "Garlic Bread",
+      "FIELD3": "4pcs garlic bread",
+      "FIELD4": "75.00"
+   }
+}

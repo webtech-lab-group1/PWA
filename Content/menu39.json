@@ -1,0 +1,107 @@
+{
+   "The Kitchen": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "Solomon's Bistek Supreme",
+      "FIELD3": "Slow cooked beef loin in soy-time marinade served with caramelized onions, garlic fried rice and quail sunny side up",
+      "FIELD4": "168.00"
+   },
+   "item2": {
+      "FIELD2": "The Kitchen's Homemade Meatloaf",
+      "FIELD3": "Finest meat blended with herbs and spices you'll love every bite of ill. Served with choice of toasted bread or garlic fried rice, egg sunny side up, tomato slice and pickled cucumber",
+      "FIELD4": "168.00"
+   },
+   "item3": {
+      "FIELD2": "Amang's Garlic Longganisa",
+      "FIELD3": "An Ilocano's pride from Pangasinan perfect with vegetable omelette, fried rice and pickled cucumber",
+      "FIELD4": "158.00"
+   },
+   "item4": {
+      "FIELD2": "Crispy Daing na Pingka",
+      "FIELD3": "Tomato omelet, adobo rice and Ensaladang Mangga on the side",
+      "FIELD4": "148.00"
+   },
+   "item5": {
+      "FIELD2": "Bonuan Boneless Bangus",
+      "FIELD3": "Paired with vegetable omelette, binagoongang rice and pickled papaya on the side",
+      "FIELD4": "148.00"
+   },
+   "item6": {
+      "FIELD2": "Duck Flavored Arroz Caldo",
+      "FIELD3": "Rice porridge simmered with aromatic duck stock, topped with sliced duck breast, garlic chips and century egg",
+      "FIELD4": "98.00"
+   },
+   "item7": {
+      "FIELD2": "Jenny's Superb Sisig Bangus",
+      "FIELD3": "The belly part of bangus sizzle and burst with flavors from chef's signature marinade",
+      "FIELD4": "138.00"
+   },
+   "item8": {
+      "FIELD2": "Vietnamese Salad Rolls",
+      "FIELD3": "Fresh vegetables, flavored glass noodles rolled on rice paper served with a choice of shrimp or crabmeat filling in Hoisin-Tamarind sauce",
+      "FIELD4": "138.00"
+   },
+   "item9": {
+      "FIELD2": "Hoi Sin Chicken Taro in Molo Cups",
+      "FIELD3": "With Pineapple-Chili dipping sauce",
+      "FIELD4": "128.00"
+   },
+   "item10": {
+      "FIELD2": "Chef's Salad",
+      "FIELD3": "Baguio's finest greens and vegetables, crispy vegetable chips, egg and honey glazed nuts topped with cold meat cuts with choice of strawberry-time or pepper cream dressing",
+      "FIELD4": "178.00"
+   },
+   "item11": {
+      "FIELD2": "Ensalada ni Caesar",
+      "FIELD3": "Our own version if Caesar salad mode of duck egg mayo topped with herbed croutons, Native longganisa bits and parmesan cheese",
+      "FIELD4": "158.00"
+   },
+   "item12": {
+      "FIELD2": "Crispy Pata",
+      "FIELD3": "Classic main dish prepared the Kitchen's way. Our own version of the Filipino favorite pork recipe",
+      "FIELD4": "488.00"
+   },
+   "item13": {
+      "FIELD2": "Roasted Pork Ribs with Homemade Barbecue Sauce",
+      "FIELD3": "Prime cut of pork ribs simmered with aromatics and rubbed with the finest herbs and spices, surely a dish fit for your cravings",
+      "FIELD4": "278.00"
+   },
+   "item14": {
+      "FIELD2": "Chicken Tenders",
+      "FIELD3": "Crispy strips of chicken fillet in herbed batter with our signature mix of honey mustard for the sauce",
+      "FIELD4": "228.00"
+   },
+   "item15": {
+      "FIELD2": "Thai Chicken Curry",
+      "FIELD3": "Cooked in the style of the Kitchen, our chicken curry is flavored with a variety of spices that makes this comfort food worth indulging for",
+      "FIELD4": "228.00"
+   },
+   "item16": {
+      "FIELD2": "Chapchae",
+      "FIELD3": "Stir-fried glass noodles with julienned carrots, bell pepper and marinated chicken, fish cake, seasoned with oyster sauce and sesame oil",
+      "FIELD4": "228.00"
+   },
+   "item17": {
+      "FIELD2": "The Kitchen's Burger",
+      "FIELD3": "Our finest beef-mushroom patty over melted cheese, pineapple ring, roasted vegetables and fresh lettuce with thousand island spread",
+      "FIELD4": "168.00"
+   },
+   "item18": {
+      "FIELD2": "Top Down Ham N' Cheese Chicken Sandwich",
+      "FIELD3": "Cordon Bleu-style chicken and fresh lettuce in wheat bread served with potato chips on the side",
+      "FIELD4": "168.00"
+   },
+   "item19": {
+      "FIELD2": "Creamy Bacon and Mushroom Linguine",
+      "FIELD3": "Creamy and indulgent comfort food at its very best",
+      "FIELD4": "228.00"
+   },
+   "item20": {
+      "FIELD2": "Andrej's Meatballs Spaghetti",
+      "FIELD3": "A critic's choice with beef Bolognese meatballs topped with grated parmesan cheese, served with pan roasted garlic buttered pan de sal",
+      "FIELD4": "238.00"
+   }
+}

@@ -1,0 +1,107 @@
+{
+   "Max's Restaurant": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "Adobo Flakes Meal Sunny Side Up",
+      "FIELD3": "Chicken Pork Adobo Flakes with scrambled eggs & garlic rice",
+      "FIELD4": "180.00"
+   },
+   "item2": {
+      "FIELD2": "Adobo Flakes Meal Scrambled",
+      "FIELD3": "Chicken Pork Adobo Flakes with scrambled eggs & garlic rice",
+      "FIELD4": "180.00"
+   },
+   "item3": {
+      "FIELD2": "Ckn Longanisa Meal Scrambled",
+      "FIELD3": " simple lean pork skinless Longganisa For a hearty breakfast, serve with egg and rice",
+      "FIELD4": "179.00"
+   },
+   "item4": {
+      "FIELD2": "Tapa Meal Scrambled",
+      "FIELD3": "ender slices of beef marinated in vinegar and garlic and then fried",
+      "FIELD4": "239.00"
+   },
+   "item5": {
+      "FIELD2": "Omelet Cheesy Corned Beef Garlic Rice",
+      "FIELD3": "offers a combo of creamy omelet stuffed with corned beef and melted cheese and garnished with spring onion confetti",
+      "FIELD4": "179.00"
+   },
+   "item6": {
+      "FIELD2": "SOD Chicken Velveteen",
+      "FIELD3": "chicken stays creamy-white rather than getting browned as in most stir-fries",
+      "FIELD4": "60.00"
+   },
+   "item7": {
+      "FIELD2": "SOD Creamy Tinola",
+      "FIELD3": "rich and creamy taste of gata and the spicy, pungent flavour of ginger will blend perfectly well in this Tinola sa Gata recipe.",
+      "FIELD4": "60.00"
+   },
+   "item8": {
+      "FIELD2": "Chicken Burger w/ Cheese",
+      "FIELD3": " From tasty toppings like coleslaw and spicy mango salsa, to patties stuffed with bacon and cheese",
+      "FIELD4": "105.00"
+   },
+   "item9": {
+      "FIELD2": "Clubhouse",
+      "FIELD3": " sliced cooked poultry, fried bacon, lettuce, tomato, and mayonnaise. It is often cut into quarters or halves and held together by cocktail sticks",
+      "FIELD4": "165.00"
+   },
+   "item10": {
+      "FIELD2": "Classic Chicken Burger (Double Patty)",
+      "FIELD3": "With Kamote chips",
+      "FIELD4": "155.00"
+   },
+   "item11": {
+      "FIELD2": "Chicken Salad",
+      "FIELD3": "A winning combination of fresh salad and a hefty sandwich of shredded chicken, fresh lettuce and mayonnaise. Good for one person.",
+      "FIELD4": "105.00"
+   },
+   "item12": {
+      "FIELD2": "Pancit Bihon Regular",
+      "FIELD3": "quick-cooked noodle dish that is one of the quintessential meals of Filipino cuisine",
+      "FIELD4": "200.00"
+   },
+   "item13": {
+      "FIELD2": "Chicken Pancit Bihon Regular",
+      "FIELD3": "quick-cooked noodle dish that is one of the quintessential meals of Filipino cuisine",
+      "FIELD4": "200.00"
+   },
+   "item14": {
+      "FIELD2": "Pancit Luglug Ala Carte",
+      "FIELD3": "quick-cooked noodle dish that is one of the quintessential meals of Filipino cuisine",
+      "FIELD4": "220.00"
+   },
+   "item15": {
+      "FIELD2": "Lumpia Shanghai",
+      "FIELD3": "dish made-up of ground pork or beef, minced onion, carrots, and spices with the mixture held together by beaten egg",
+      "FIELD4": "185.00"
+   },
+   "item16": {
+      "FIELD2": "Special Oriental Lumpia",
+      "FIELD3": "dish made-up of ground pork or beef, minced onion, carrots, and spices with the mixture held together by beaten egg",
+      "FIELD4": "75.00"
+   },
+   "item17": {
+      "FIELD2": "Halo Halo Regular",
+      "FIELD3": "Perfect for cooling down, our Halo-halo Regular is a delightful mix of Filipino sweets and rice crispies.",
+      "FIELD4": "99.00"
+   },
+   "item18": {
+      "FIELD2": "Giant Halo Halo",
+      "FIELD3": "Prepare to meet the largest halo-halo you will ever eat! A super-sized version of the well-loved Max's Halo-halo this enormous dessert serves 5-8 persons.",
+      "FIELD4": "469.00"
+   },
+   "item19": {
+      "FIELD2": "Ube Creme Decadence",
+      "FIELD3": "One of the more popular Italian desserts",
+      "FIELD4": "80.00"
+   },
+   "item20": {
+      "FIELD2": "Mango Cream Dessert",
+      "FIELD3": "Layers of cream, crumbled graham crackers and diced fresh mangoes, sprinkled with chopped caramel biscotti as garnish.",
+      "FIELD4": "80.00"
+   }
+}

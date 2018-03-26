@@ -1,0 +1,107 @@
+{
+   "Rufo's Famous Tapa": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "Longaniza",
+      "FIELD3": "Sweet, juicy and with a distinctly garlicky flavor, this is the Pinoy version of the pork sausage done the Rufo's way. Served with fried egg",
+      "FIELD4": "99.00"
+   },
+   "item2": {
+      "FIELD2": "Tocino",
+      "FIELD3": "Chunky tender morsels of Pampanga pork, marinated in pineapple sauce for a delectably sweet & juicy experience. Served with fried egg",
+      "FIELD4": "116.00"
+   },
+   "item3": {
+      "FIELD2": "Corned Beef a la Rufo's",
+      "FIELD3": "A generous serving of juicy corned beef, sauteed in onions, fried and served with farm-fresh scrambled egg",
+      "FIELD4": "79.00"
+   },
+   "item4": {
+      "FIELD2": "Rufo's Famous Tapa",
+      "FIELD3": "The best seller since 1984! Mouth-watering, tender Batangas beef, marinated and served in Rufo's rich, sweet \"Famous Sauce\" with a side order of fried egg. The sauce is really a dish on its own! \"Sauce Pa Lang Ulam Na!\"",
+      "FIELD4": "119.00"
+   },
+   "item5": {
+      "FIELD2": "Boneless Bangus",
+      "FIELD3": "Fresh from Dagupan, this milkfish is submerged in a unique combination of flavors & spices before deep-fried to a crispy golden perfection",
+      "FIELD4": "132.00"
+   },
+   "item6": {
+      "FIELD2": "Liempo",
+      "FIELD3": "Choice-cut pork, pre-grilled and flavored with Rufo's special home-made Liempo marinade. Served hot with a side order of sweet Liempo sauce",
+      "FIELD4": "159.00"
+   },
+   "item7": {
+      "FIELD2": "Sizzling T-Bone Steak",
+      "FIELD3": "A hearty cut of T-Bone from the choiciest Batangas beef, marinated in its succulent juices with soy sauce, garlic & butter, served piping-hot and sprinkled with bits of garlic on a sizzling plate",
+      "FIELD4": "189.00"
+   },
+   "item8": {
+      "FIELD2": "Lumpiang Shanghai",
+      "FIELD3": "Delicious pork spring rolls fried crispy golden-brown, served with a rich sweet and sour sauce",
+      "FIELD4": "58.00"
+   },
+   "item9": {
+      "FIELD2": "Pork Chops",
+      "FIELD3": "Prime cut pork, seasoned with Rufo's special sauce, carefully fried to a golden brown, while locking in its natural flavors",
+      "FIELD4": "139.00"
+   },
+   "item10": {
+      "FIELD2": "Pinoy Beer Steak",
+      "FIELD3": "Filipino-style beef steak submerged in the flavors of soy, lemon, shallots with a tinge of freshly ground pepper",
+      "FIELD4": "112.00"
+   },
+   "item11": {
+      "FIELD2": "Pork Humba",
+      "FIELD3": "Tender pork shank and cutlets, slowly braised in spiced soy-pineapple juice and topped off with a sprinkle of banana blossoms",
+      "FIELD4": "106.00"
+   },
+   "item12": {
+      "FIELD2": "Beef Tapa Sandwich",
+      "FIELD3": "Our iconic Rufo's Famous Tapa now in a sesame seed bun! Tender, juicy Batangas beef topped with farm fresh egg, and Baguio lettuce. More famous than any American roast beef sandwich!",
+      "FIELD4": "72.00"
+   },
+   "item13": {
+      "FIELD2": "Rufo Burger",
+      "FIELD3": "Juicy home-made beef pattie, served with tomato, Baguio lettuce, and lathered with our sweet Asian-inspired Famous Sauce. A perfect dish for people on the go!",
+      "FIELD4": "55.00"
+   },
+   "item14": {
+      "FIELD2": "Sizzling Crispy Chicken",
+      "FIELD3": "Southern Fried Chicken cooked to a Pinoy-style juicy-crispiness, sizzling in home-made gravy and buttered vegetables",
+      "FIELD4": "112.00"
+   },
+   "item15": {
+      "FIELD2": "Tokwa't Baboy",
+      "FIELD3": "Generous chunks of Tofu deep-fried with delicious pork slices, and bathed in Rufo's sweet, sour and spicy Tokwa Dressing",
+      "FIELD4": "99.00"
+   },
+   "item16": {
+      "FIELD2": "Sizzling Sisig",
+      "FIELD3": "The Philippines' favorite \"pulutan\" contains the perfect blend of flavors and spices topped with farm fresh egg and served crackling in its own juices on a sizzling plate",
+      "FIELD4": "149.00"
+   },
+   "item17": {
+      "FIELD2": "Sizzling Chicken Sisig",
+      "FIELD3": "Finely chopped cubes of fresh, juicy chicken flavored with special spices, onions, and seasonings is the healthier version of our \"Pinoy Pulutan\". Served scorching hot on a sizzling plate with farm-fresh egg on top",
+      "FIELD4": "149.00"
+   },
+   "item18": {
+      "FIELD2": "Black Sambo",
+      "FIELD3": "A sumptuous gelatin fusion of native chocolate milk and cream",
+      "FIELD4": "43.00"
+   },
+   "item19": {
+      "FIELD2": "Creamy Fruit Fiesta",
+      "FIELD3": "Creamy fruit cocktail with crushed honey graham crackers",
+      "FIELD4": "43.00"
+   },
+   "item20": {
+      "FIELD2": "Oriental Cream Soup",
+      "FIELD3": "Rich cream and egg soup with a mix of garlic, spring onions and authentic Asian seasonings",
+      "FIELD4": "39.00"
+   }
+}

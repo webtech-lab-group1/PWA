@@ -1,0 +1,107 @@
+{
+   "Giligan's Island": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "Gilligan's Grilled Platter",
+      "FIELD3": "Grilled bangus belly, grilled pusit, inihaw na baboy, and boneless chicken teriyaki",
+      "FIELD4": "685.00"
+   },
+   "item2": {
+      "FIELD2": "Giligan's Pica-Pica Platter",
+      "FIELD3": "Cheese Sticks, Peanuts, Lumpiang Shanghai and French Fries",
+      "FIELD4": "351.00"
+   },
+   "item3": {
+      "FIELD2": "Giligan's BBQ Platter",
+      "FIELD3": "4 sticks Pork BBQ, 4 sticks Chicken",
+      "FIELD4": "232.00"
+   },
+   "item4": {
+      "FIELD2": "Sinigang na Inihaw na Baboy",
+      "FIELD3": "sour soup made with grilled pork belly and vegetables in tangy tamarind broth.",
+      "FIELD4": "198.00"
+   },
+   "item5": {
+      "FIELD2": "Boneless Chicken Teriyaki",
+      "FIELD3": "mouthwatering sticky, savory and slightly sweet chicken",
+      "FIELD4": "166.00"
+   },
+   "item6": {
+      "FIELD2": "Sinigang na Salmon Belly sa Miso",
+      "FIELD3": "contains fish oil that is said to be good for the heart",
+      "FIELD4": "204.00"
+   },
+   "item7": {
+      "FIELD2": "Sweet and Spicy Squid",
+      "FIELD3": "his sweet and spicy squid has sweetness and tang from ketchup and sugar , and heat from the chili peppers",
+      "FIELD4": "188.00"
+   },
+   "item8": {
+      "FIELD2": "Mangga Hilaw with Bagoong",
+      "FIELD3": "crunch of the unripe mango, the slightly astringent, incredibly sour shock to the tastebuds, soon mitigated by the gentle squish of tiny shrimp shells",
+      "FIELD4": "85.00"
+   },
+   "item9": {
+      "FIELD2": "Sinigang na Hipon",
+      "FIELD3": "a sour soup that uses tamarind as it's base flavor, it can be cooked with fish, meat, shrimp, and vegetables.",
+      "FIELD4": "252.00"
+   },
+   "item10": {
+      "FIELD2": "Sweet and Sour Pork",
+      "FIELD3": "has a tangy flavor that everyone will surely love",
+      "FIELD4": "196.00"
+   },
+   "item11": {
+      "FIELD2": "Grilled Tuna Belly",
+      "FIELD3": "tuna belly marinated then grilled until done",
+      "FIELD4": "275.00"
+   },
+   "item12": {
+      "FIELD2": "Sizzling Beef in Sinigang Gravy",
+      "FIELD3": "beef short ribs, sautéed French beans, sampaloc gravy, garlic confit, cherry tomatoes, and native red onions",
+      "FIELD4": "220.00"
+   },
+   "item13": {
+      "FIELD2": "Tofu with Eggplant",
+      "FIELD3": "Cook garlic, eggplant, and bell pepper in pan until softened, stirring occasionally, 8 to 10 minutes",
+      "FIELD4": "118.00"
+   },
+   "item14": {
+      "FIELD2": "Canton Guisado",
+      "FIELD3": "makes use of sliced pork, sausage, and shrimp",
+      "FIELD4": "158.00"
+   },
+   "item15": {
+      "FIELD2": "Bihon Guisado",
+      "FIELD3": "makes use of sliced pork, sausage, and shrimp",
+      "FIELD4": "158.00"
+   },
+   "item16": {
+      "FIELD2": "Miki Bihon Guisado",
+      "FIELD3": "makes use of sliced pork, sausage, and shrimp",
+      "FIELD4": "158.00"
+   },
+   "item17": {
+      "FIELD2": "Kare-Kareng Gulay",
+      "FIELD3": "a classic and beloved Filipino stew made of meat and vegetables in thick and creamy peanut sauce, traditionally with shrimp paste",
+      "FIELD4": "165.00"
+   },
+   "item18": {
+      "FIELD2": "Chopsuey",
+      "FIELD3": "a dish made-up of meat (chicken or pork) and seafood (shrimp or fish) cooked with different kinds of vegetables",
+      "FIELD4": "150.00"
+   },
+   "item19": {
+      "FIELD2": "Kare-Kare Beef",
+      "FIELD3": "oxtail or beef stew cooked in peanut sauce",
+      "FIELD4": "302.00"
+   },
+   "item20": {
+      "FIELD2": "Sesame Crusted Fish Fillet",
+      "FIELD3": "Pan seared Creamy Dory fillet crusted with black sesame seeds topped with asian mango salsa",
+      "FIELD4": "295.00"
+   }
+}

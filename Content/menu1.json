@@ -1,0 +1,107 @@
+{
+   "50's Diner": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "Chicken Spears",
+      "FIELD3": "Spicy loin of chicken deep fried with hot spicy breading nuggets style",
+      "FIELD4": "100.00"
+   },
+   "item2": {
+      "FIELD2": "White Chicken",
+      "FIELD3": "Pcs of chicken marinated with herbs then steam to perfection. Serve with rice",
+      "FIELD4": "100.00"
+   },
+   "item3": {
+      "FIELD2": "You and I",
+      "FIELD3": "Deep fried breaded ground beef and ground Chicken, top with tartar and mayo sauce ala Croquet",
+      "FIELD4": "100.00"
+   },
+   "item4": {
+      "FIELD2": "Butterfly Shrimp",
+      "FIELD3": "Battered shrimp then deep fried until golden brown. Serve with potato chips",
+      "FIELD4": "170.00"
+   },
+   "item5": {
+      "FIELD2": "Pasta and Garlic Shrimp",
+      "FIELD3": "Garlic shrimp on the bed of pasta ala 50's diner. Serve with bread",
+      "FIELD4": "135.00"
+   },
+   "item6": {
+      "FIELD2": "Mix Grill",
+      "FIELD3": "Worldwide favorite, composition of minute steak, pork chop hotdog and chicken. All grilled to perfection, served w/ fries and sauteed vegetable",
+      "FIELD4": "195.00"
+   },
+   "item7": {
+      "FIELD2": "She",
+      "FIELD3": "Her legs, her chop, her breaded fish, her minute steak, her hotdog, her fries and vegetable. Most especially her dessert",
+      "FIELD4": "185.00"
+   },
+   "item8": {
+      "FIELD2": "Guys On The Hood",
+      "FIELD3": "A combination of pork chop, slice pizza, chicken, spaghetti and garlic bread, serve w/ fries and vegetable",
+      "FIELD4": "135.00"
+   },
+   "item9": {
+      "FIELD2": "S/S",
+      "FIELD3": "Steak and shrimp the cruisers favorites, served w/ fries and vegetables",
+      "FIELD4": "140.00"
+   },
+   "item10": {
+      "FIELD2": "Cordon Bleu",
+      "FIELD3": "Breaded pork loin stuffed w/ ham and cheese, fried and crispy served w/ fries or rice",
+      "FIELD4": "135.00"
+   },
+   "item11": {
+      "FIELD2": "Chicken Cordon Bleu",
+      "FIELD3": "Chicken stuffed w/ ham and cheese fried till golden brown. Served w/ fries or rice",
+      "FIELD4": "135.00"
+   },
+   "item12": {
+      "FIELD2": "Chop and Chop",
+      "FIELD3": "pcs of deep fried chicken until golden brown served w/ fries or rice",
+      "FIELD4": "140.00"
+   },
+   "item13": {
+      "FIELD2": "Schnitzel",
+      "FIELD3": "One of the Europeans favorites breaded pork tenderloin dish, served w/ vegetable and rice",
+      "FIELD4": "130.00"
+   },
+   "item14": {
+      "FIELD2": "G 50's Beef Stew",
+      "FIELD3": "We claimed that the best way to cooked beef is to stew it on its own juice",
+      "FIELD4": "120.00"
+   },
+   "item15": {
+      "FIELD2": "Grilled Squid",
+      "FIELD3": "Squid stuffed w/ carrots, beans and chops onions, then grilled. Served w/ fries or rice",
+      "FIELD4": "140.00"
+   },
+   "item16": {
+      "FIELD2": "Fish and Chips",
+      "FIELD3": "The traditional, English slice fish fillet, deep fried in batter served w/ fries",
+      "FIELD4": "135.00"
+   },
+   "item17": {
+      "FIELD2": "Tanguigui Steak",
+      "FIELD3": "50's diner catch of the day grilled to perfection, served with rice or fries",
+      "FIELD4": "155.00"
+   },
+   "item18": {
+      "FIELD2": "Chili Con Carne",
+      "FIELD3": "The winner and big time traditional and classical cooking of carne served w/ toast bread",
+      "FIELD4": "115.00"
+   },
+   "item19": {
+      "FIELD2": "Golden Brown Fish Fillet",
+      "FIELD3": "Diners catch of the day. And deep fried until golden brown, served w/ rice",
+      "FIELD4": "130.00"
+   },
+   "item20": {
+      "FIELD2": "Gangsta Gangsta",
+      "FIELD3": "Scarface warriors favorite, grilled porkchop, fried chicken, veg in oyster sauce, chicken roll, rice and egg",
+      "FIELD4": "140.00"
+   }
+}

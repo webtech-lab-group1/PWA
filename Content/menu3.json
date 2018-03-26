@@ -1,0 +1,107 @@
+{
+   "Arca's Yard": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "Benguet Coffee",
+      "FIELD3": "Black",
+      "FIELD4": "45.00"
+   },
+   "item2": {
+      "FIELD2": "Frothy Coffee",
+      "FIELD3": "No Description",
+      "FIELD4": "50.00"
+   },
+   "item3": {
+      "FIELD2": "Tarragon Tea",
+      "FIELD3": "Fresh",
+      "FIELD4": "50.00"
+   },
+   "item4": {
+      "FIELD2": "Arca's Cloud Tea",
+      "FIELD3": "with cream & wild honey",
+      "FIELD4": "60.00"
+   },
+   "item5": {
+      "FIELD2": "Lemon Grass Tea",
+      "FIELD3": "lemon tea with honey",
+      "FIELD4": "45.00"
+   },
+   "item6": {
+      "FIELD2": "Cacao Hot Choco",
+      "FIELD3": "arcas cacao",
+      "FIELD4": "75.00"
+   },
+   "item7": {
+      "FIELD2": "Bottled Water",
+      "FIELD3": "mineral water",
+      "FIELD4": "25.00"
+   },
+   "item8": {
+      "FIELD2": "Cucumber Smoothie",
+      "FIELD3": "blend fresh cucumber ",
+      "FIELD4": "75.00"
+   },
+   "item9": {
+      "FIELD2": "Pine Apple Smoothie",
+      "FIELD3": "blend fresh pineapple",
+      "FIELD4": "75.00"
+   },
+   "item10": {
+      "FIELD2": "Banana Smoothie",
+      "FIELD3": "blend fresh banana",
+      "FIELD4": "75.00"
+   },
+   "item11": {
+      "FIELD2": "Mango Smoothie",
+      "FIELD3": "ripe or green mango (Seasonal)",
+      "FIELD4": "75.00"
+   },
+   "item12": {
+      "FIELD2": "Strawberry Smoothie",
+      "FIELD3": "blend fresh strawberries (Seasonal)",
+      "FIELD4": "75.00"
+   },
+   "item13": {
+      "FIELD2": "Water Melon Smoothie",
+      "FIELD3": "fresh watermelon with milk",
+      "FIELD4": "75.00"
+   },
+   "item14": {
+      "FIELD2": "Arca's Sweet Potato Ala Mode",
+      "FIELD3": "Docto Pie or Camote Pie",
+      "FIELD4": "95.00"
+   },
+   "item15": {
+      "FIELD2": "Bread wuth Special Dip",
+      "FIELD3": " bread with homemade arcas special sauce",
+      "FIELD4": "75.00"
+   },
+   "item16": {
+      "FIELD2": "French Toast",
+      "FIELD3": "homemade french toast",
+      "FIELD4": "85.00"
+   },
+   "item17": {
+      "FIELD2": "Carrot Pie Ala Mode",
+      "FIELD3": "carrot pie that makes you want for more",
+      "FIELD4": "95.00"
+   },
+   "item18": {
+      "FIELD2": "Rhubard Pie",
+      "FIELD3": "Seasonal",
+      "FIELD4": "95.00"
+   },
+   "item19": {
+      "FIELD2": "Yogurt with Wild Honey",
+      "FIELD3": "creamy youghart mixed with honey",
+      "FIELD4": "85.00"
+   },
+   "item20": {
+      "FIELD2": "Softdrinks",
+      "FIELD3": "Coke, Royal, Sprite & Orange",
+      "FIELD4": "25.00"
+   }
+}

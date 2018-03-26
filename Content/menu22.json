@@ -1,0 +1,47 @@
+{
+   "Little John's": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "Baby Back Ribs",
+      "FIELD3": "TexMex Style Pork Ribs",
+      "FIELD4": "155.00"
+   },
+   "item2": {
+      "FIELD2": "Shrimp Curry",
+      "FIELD3": "medium spice shrimps w/ garlic rice",
+      "FIELD4": "165.00"
+   },
+   "item3": {
+      "FIELD2": "Chicken Tikka",
+      "FIELD3": "yogurt marinated chicken pan fried",
+      "FIELD4": "145.00"
+   },
+   "item4": {
+      "FIELD2": "Beef Kebab",
+      "FIELD3": "Mediterranean flavored beef tenderloin w/ vegetable skewers",
+      "FIELD4": "155.00"
+   },
+   "item5": {
+      "FIELD2": "Fish N Chips",
+      "FIELD3": "deep fried fish fingers w/ potato wedges",
+      "FIELD4": "140.00"
+   },
+   "item6": {
+      "FIELD2": "Fish Steak",
+      "FIELD3": "Pan fried fish w/ lemon pepper seasoning",
+      "FIELD4": "145.00"
+   },
+   "item7": {
+      "FIELD2": "Choco",
+      "FIELD3": "fruits in season to be dipped in sweet dark chocolate",
+      "FIELD4": "175.00"
+   },
+   "item8": {
+      "FIELD2": "Cheese Pita",
+      "FIELD3": "bread to be dipped in a combination of gruyere and other Swiss Cheese flavored w/ white wine & kirsch",
+      "FIELD4": "250.00"
+   }
+}

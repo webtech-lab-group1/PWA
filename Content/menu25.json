@@ -1,0 +1,107 @@
+{
+   "Mini Shabu-Shabu": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "Agedashi Tofu",
+      "FIELD3": "Deep-fried firm tofu with Japanese corn, starch, radish, fish flakes, chili powder and light soy sauce",
+      "FIELD4": "175.00"
+   },
+   "item2": {
+      "FIELD2": "Geso Butter Yaki",
+      "FIELD3": "Stir-fried cuttlefish head in butter and Japanese seasoning",
+      "FIELD4": "200.00"
+   },
+   "item3": {
+      "FIELD2": "Atsuage Tofu",
+      "FIELD3": "Deep-fried hard tofu, fish flakes, ginger and special sauce",
+      "FIELD4": "175.00"
+   },
+   "item4": {
+      "FIELD2": "Miso Soup",
+      "FIELD3": "Japanese miso soup with firm tofu, wakame and onion leeks",
+      "FIELD4": "65.00"
+   },
+   "item5": {
+      "FIELD2": "Tonjiro",
+      "FIELD3": "Sliced pork belly, konnyaku, white onion, onion leeks, Japanese miso paste",
+      "FIELD4": "100.00"
+   },
+   "item6": {
+      "FIELD2": "Yaki Soba",
+      "FIELD3": "Stir-fried egg noodles with Asian vegetables and Japanese seasonings",
+      "FIELD4": "330.00"
+   },
+   "item7": {
+      "FIELD2": "Yaki Udon",
+      "FIELD3": "Stir-fried egg noodles with seafood, Asian vegetables and Japanese seasonings",
+      "FIELD4": "300.00"
+   },
+   "item8": {
+      "FIELD2": "Wafu Salad",
+      "FIELD3": "Mixed green with tomato, Japanese cucumber and carrots in Japanese dressing",
+      "FIELD4": "195.00"
+   },
+   "item9": {
+      "FIELD2": "Seafood Salad",
+      "FIELD3": "Mixed greens with assorted seafood in Japanese dressing",
+      "FIELD4": "330.00"
+   },
+   "item10": {
+      "FIELD2": "Kakiage Mixed Tempura",
+      "FIELD3": "Deep-fried buttered mixed vegetables with light soy sauce",
+      "FIELD4": "200.00"
+   },
+   "item11": {
+      "FIELD2": "Ika (Squid) Tempura",
+      "FIELD3": "Deep-fried buttered cuttlefish with light soy sauce",
+      "FIELD4": "245.00"
+   },
+   "item12": {
+      "FIELD2": "Mixed Tempura",
+      "FIELD3": "Deep-fried buttered mixed seafood and vegetables with light soy sauce",
+      "FIELD4": "475.00"
+   },
+   "item13": {
+      "FIELD2": "Ebi Tempura",
+      "FIELD3": "Deep-fried buttered tiger prawns with light soy sauce",
+      "FIELD4": "540.00"
+   },
+   "item14": {
+      "FIELD2": "Ika Teppan",
+      "FIELD3": "Cuttlefish cooked on flat steel grill with Japanese seasonings and teppanyaki sauce",
+      "FIELD4": "200.00"
+   },
+   "item15": {
+      "FIELD2": "Ebi Teppan",
+      "FIELD3": "Tiger prawns cooked on flat steel grill with Japanese seasoning and teppanyaki sauce",
+      "FIELD4": "540.00"
+   },
+   "item16": {
+      "FIELD2": "Sakana Moriawase Teppan",
+      "FIELD3": "Mixed Seafoods cooked on flat steel grill with Japanese seasonings and teppanyaki sauce",
+      "FIELD4": "540.00"
+   },
+   "item17": {
+      "FIELD2": "Gyu Teppan",
+      "FIELD3": "Selected beef cooked on flat steel grill with Japanese seasonings and teppanyaki sauce",
+      "FIELD4": "400.00"
+   },
+   "item18": {
+      "FIELD2": "Dynamite Maki",
+      "FIELD3": "Spicy tuna salad rolled in nori with sushi rice",
+      "FIELD4": "160.00"
+   },
+   "item19": {
+      "FIELD2": "Mexican Maki",
+      "FIELD3": "Chopped tuna in spicy Japanese dressing rolled in nori with sushi rice",
+      "FIELD4": "150.00"
+   },
+   "item20": {
+      "FIELD2": "Philadelphia Maki",
+      "FIELD3": "Salmon, cheese, mango rolled in nori with sushi rice and ebiko",
+      "FIELD4": "175.00"
+   }
+}

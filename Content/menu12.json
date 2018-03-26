@@ -1,0 +1,107 @@
+{
+   "David's Tea house": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "Polonchay w/ Seafood Soup",
+      "FIELD3": "Crab Legs with Garlic Butter Sauce",
+      "FIELD4": "295.00"
+   },
+   "item2": {
+      "FIELD2": "Pumpkin w/ Seafood Soup",
+      "FIELD3": "all kinds of seafood soups and stews, from all cultures with land near the sea based from pumpkins",
+      "FIELD4": "295.00"
+   },
+   "item3": {
+      "FIELD2": "Nido w/ Quail Egg Soup",
+      "FIELD3": "soup with mock bird's nest and boiled quail eggs",
+      "FIELD4": "265.00"
+   },
+   "item4": {
+      "FIELD2": "David's Special Noodles/ Hofan",
+      "FIELD3": "special homemade noodles by Davids tea house",
+      "FIELD4": "205.00"
+   },
+   "item5": {
+      "FIELD2": "Beef Brisket Noodles/ Hofan",
+      "FIELD3": "used Chinese dry aromatics and beef with marbled fat making a delicious rich beef noodle soup",
+      "FIELD4": "190.00"
+   },
+   "item6": {
+      "FIELD2": "Meat Ball Noodles/ Hofan",
+      "FIELD3": "used Chinese dry aromatics and meat with marbled fat making a delicious rich beef noodle soup",
+      "FIELD4": "165.00"
+   },
+   "item7": {
+      "FIELD2": "David's Hot Chicken Salad",
+      "FIELD3": "added fresh chopped basil, scallions with the green parts, chopped red pepper, dried cranberries and sugar coated walnuts instead of almonds",
+      "FIELD4": "360.00"
+   },
+   "item8": {
+      "FIELD2": "Honey Glazed Chicken",
+      "FIELD3": "super-simple recipe makes a crisp-tender chicken with a perfect, sticky glaze",
+      "FIELD4": "320.00"
+   },
+   "item9": {
+      "FIELD2": "Fried Breaded Chicken w/ Salted Egg",
+      "FIELD3": "a delicious and rich tasting fried chicken in a special creamy sauce that is very popular and trendy  in Singapore",
+      "FIELD4": "280.00"
+   },
+   "item10": {
+      "FIELD2": "Lemon Chicken",
+      "FIELD3": "coated in a butter and herb sauce, then roasted to perfection",
+      "FIELD4": "270.00"
+   },
+   "item11": {
+      "FIELD2": "Fried Breaded Chicken",
+      "FIELD3": "Chicken Dip into beaten eggs and then coat with bread crumbs",
+      "FIELD4": "260.00"
+   },
+   "item12": {
+      "FIELD2": "Beef Tenderloin w/ Black Pepper",
+      "FIELD3": "Sprinkle generously with kosher salt and sugar, which will deepen the savory flavors",
+      "FIELD4": "375.00"
+   },
+   "item13": {
+      "FIELD2": "Sizzling Beef Tenderloin Chinese Style",
+      "FIELD3": "Tender steak cooked in a sweet sauce - tastes just like you get in the local Chinese restaurant.",
+      "FIELD4": "375.00"
+   },
+   "item14": {
+      "FIELD2": "Beef Brisket in Pot",
+      "FIELD3": "a pot roast-style dish where brisket is slowly braised in a rich gravy and more often than not vegetables like onions, carrots, and potatoes",
+      "FIELD4": "350.00"
+   },
+   "item15": {
+      "FIELD2": "Beef with Ampalaya",
+      "FIELD3": "Beef in Oyster Sauce Stir Fry with Ampalaya",
+      "FIELD4": "290.00"
+   },
+   "item16": {
+      "FIELD2": "David's Braised Pata Tim",
+      "FIELD3": "low and slow in a sweet and salty sauce with bok choy and mushrooms",
+      "FIELD4": "520.00"
+   },
+   "item17": {
+      "FIELD2": "Fried Crispy Pata",
+      "FIELD3": "Gently add pork leg and deep-fry, turning as needed, until golden",
+      "FIELD4": "520.00"
+   },
+   "item18": {
+      "FIELD2": "Spareribs with Special Sauce in Pot",
+      "FIELD3": "Succulent pork back ribs cooked in beer and coated with a special davids sauce",
+      "FIELD4": "300.00"
+   },
+   "item19": {
+      "FIELD2": "Sizzling King Dao Spareribs",
+      "FIELD3": " pork back ribs cooked in beer and coated with a special davids sauce",
+      "FIELD4": "270.00"
+   },
+   "item20": {
+      "FIELD2": "Shanghai Spring Roll",
+      "FIELD3": "a dish made-up of ground pork or beef, minced onion, carrots, and spices with the mixture held together by beaten egg.",
+      "FIELD4": "250.00"
+   }
+}

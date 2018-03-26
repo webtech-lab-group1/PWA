@@ -4,7 +4,109 @@
    "category": "American",
    "location": "4/F Porta Vaga Mall, Session Road, Baguio City",
    "longitude": "120.59855560000005",
-   "latitude": "16.4119417"
+   "latitude": "16.4119417",
+   "menu": {
+   	"item1": {
+      "name": "Chicken Spears",
+      "description": "Spicy loin of chicken deep fried with hot spicy breading nuggets style",
+      "price": "100.00"
+    },
+    "item2": {
+      "name": "White Chicken",
+      "description": "Pcs of chicken marinated with herbs then steam to perfection. Serve with rice",
+      "price": "100.00"
+    },
+    "item3": {
+      "name": "You and I",
+      "description": "Deep fried breaded ground beef and ground Chicken, top with tartar and mayo sauce ala Croquet",
+      "price": "100.00"
+    },
+    "item4": {
+      "name": "Butterfly Shrimp",
+      "description": "Battered shrimp then deep fried until golden brown. Serve with potato chips",
+      "price": "170.00"
+    },
+    "item5": {
+      "name": "Pasta and Garlic Shrimp",
+      "description": "Garlic shrimp on the bed of pasta ala 50's diner. Serve with bread",
+      "price": "135.00"
+    },
+    "item6": {
+      "name": "Mix Grill",
+      "description": "Worldwide favorite, composition of minute steak, pork chop hotdog and chicken. All grilled to perfection, served w/ fries and sauteed vegetable",
+      "price": "195.00"
+    },
+    "item7": {
+      "name": "She",
+      "description": "Her legs, her chop, her breaded fish, her minute steak, her hotdog, her fries and vegetable. Most especially her dessert",
+      "price": "185.00"
+   },
+   "item8": {
+      "name": "Guys On The Hood",
+      "description": "A combination of pork chop, slice pizza, chicken, spaghetti and garlic bread, serve w/ fries and vegetable",
+      "price": "135.00"
+    },
+    "item9": {
+      "name": "S/S",
+      "description": "Steak and shrimp the cruisers favorites, served w/ fries and vegetables",
+      "price": "140.00"
+    },
+    "item10": {
+      "name": "Cordon Bleu",
+      "description": "Breaded pork loin stuffed w/ ham and cheese, fried and crispy served w/ fries or rice",
+      "price": "135.00"
+    },
+    "item11": {
+      "name": "Chicken Cordon Bleu",
+      "description": "Chicken stuffed w/ ham and cheese fried till golden brown. Served w/ fries or rice",
+      "price": "135.00"
+    },
+    "item12": {
+      "name": "Chop and Chop",
+      "description": "pcs of deep fried chicken until golden brown served w/ fries or rice",
+      "price": "140.00"
+    },
+    "item13": {
+      "name": "Schnitzel",
+      "description": "One of the Europeans favorites breaded pork tenderloin dish, served w/ vegetable and rice",
+      "price": "130.00"
+    },
+    "item14": {
+      "name": "G 50's Beef Stew",
+      "description": "We claimed that the best way to cooked beef is to stew it on its own juice",
+      "price": "120.00"
+    },
+    "item15": {
+      "name": "Grilled Squid",
+      "description": "Squid stuffed w/ carrots, beans and chops onions, then grilled. Served w/ fries or rice",
+      "price": "140.00"
+    },
+    "item16": {
+      "name": "Fish and Chips",
+      "description": "The traditional, English slice fish fillet, deep fried in batter served w/ fries",
+      "price": "135.00"
+    },
+    "item17": {
+      "name": "Tanguigui Steak",
+      "description": "50's diner catch of the day grilled to perfection, served with rice or fries",
+      "price": "155.00"
+    },
+    "item18": {
+      "name": "Chili Con Carne",
+      "description": "The winner and big time traditional and classical cooking of carne served w/ toast bread",
+      "price": "115.00"
+    },
+    "item19": {
+      "name": "Golden Brown Fish Fillet",
+      "description": "Diners catch of the day. And deep fried until golden brown, served w/ rice",
+      "price": "130.00"
+    },
+    "item20": {
+      "name": "Gangsta Gangsta",
+      "description": "Scarface warriors favorite, grilled porkchop, fried chicken, veg in oyster sauce, chicken roll, rice and egg",
+      "price": "140.00"
+    }
+   }
  },
  {
    "name": "Amare La Cucina",

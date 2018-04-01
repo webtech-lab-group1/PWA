@@ -1,0 +1,82 @@
+{
+   "O' Mai Khan": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "Mongolian Hot Pot",
+      "FIELD3": "A Chinese favorite also known as the \"Steamboat\". A healthy soup based meal that you can cook right before your very eyes",
+      "FIELD4": "160.00"
+   },
+   "item2": {
+      "FIELD2": "Mongolian Barbeque",
+      "FIELD3": "Smorgasboard-experiment making over a thousand concoctions with our eighteen sauces",
+      "FIELD4": "210.00"
+   },
+   "item3": {
+      "FIELD2": "BeefBurger",
+      "FIELD3": "Super delicious pure beef burger served with our unique style of french fries",
+      "FIELD4": "125.00"
+   },
+   "item4": {
+      "FIELD2": "Cheeseburger",
+      "FIELD3": "Thick sliced cheese added into your super delicious beef burger",
+      "FIELD4": "140.00"
+   },
+   "item5": {
+      "FIELD2": "Chunky Chicken",
+      "FIELD3": "Chunky chicken cubes tastefully blended with special sauce. Served with our own special french fries",
+      "FIELD4": "125.00"
+   },
+   "item6": {
+      "FIELD2": "Flying Saucer (Adobo or Cheese)",
+      "FIELD3": "The closest UFO experience that your palate will ever get, served with potato salad",
+      "FIELD4": "110.00"
+   },
+   "item7": {
+      "FIELD2": "German Hotdog Platter",
+      "FIELD3": "An original prepared for hotdog lovers, topped with relish and grated cheese. Served with potato salad",
+      "FIELD4": "130.00"
+   },
+   "item8": {
+      "FIELD2": "Chilidog Platter",
+      "FIELD3": "Spicy red kidney beans bursting with flavor on a juicy hotdog sandwich with fries on the side",
+      "FIELD4": "130.00"
+   },
+   "item9": {
+      "FIELD2": "Tuna Platter",
+      "FIELD3": "Tuna with a bread bun and potato salad on the side. Your choice of spicy or ordinary tuna",
+      "FIELD4": "120.00"
+   },
+   "item10": {
+      "FIELD2": "Paoburger",
+      "FIELD3": "The vegetarian burger. Not all Mongolian warriors were carnivores",
+      "FIELD4": "125.00"
+   },
+   "item11": {
+      "FIELD2": "Dinuguan (with puto)",
+      "FIELD3": "Downright delicious. A classic even Mongolians cannot deny",
+      "FIELD4": "100.00"
+   },
+   "item12": {
+      "FIELD2": "Ag Pasta Khan",
+      "FIELD3": "penne pasta with a flavoursome sauce of freshly chopped tomatoes. Topped with grilled chicken",
+      "FIELD4": "120.00"
+   },
+   "item13": {
+      "FIELD2": "Spaghetti",
+      "FIELD3": "The meat sauce pasta we can't do without. Served with bread",
+      "FIELD4": "105.00"
+   },
+   "item14": {
+      "FIELD2": "Sotanghon Guisado",
+      "FIELD3": "A light \"after battle\" dish for the triumphant warrior",
+      "FIELD4": "95.00"
+   },
+   "item15": {
+      "FIELD2": "Palabok",
+      "FIELD3": "Perfect for merienda. Noodles with all the trimmings you need to survive the rest of the afternoon",
+      "FIELD4": "110.00"
+   }
+}

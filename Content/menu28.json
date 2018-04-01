@@ -1,0 +1,107 @@
+{
+   "Ozark Diner": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "French Toast",
+      "FIELD3": "French Toast with your choice of meat",
+      "FIELD4": "180.00"
+   },
+   "item2": {
+      "FIELD2": "Ozark Benedict",
+      "FIELD3": "French Toast, American Bacon, poached eggs, and hollandaise sauce",
+      "FIELD4": "200.00"
+   },
+   "item3": {
+      "FIELD2": "Big American Breakfast",
+      "FIELD3": "3 eggs (any style), your choice of meat, biscuits",
+      "FIELD4": "180.00"
+   },
+   "item4": {
+      "FIELD2": "Hamburger",
+      "FIELD3": "All beef patty, cheddar cheese, mayo, house-made spicy pickle, lettuce, tomato and purple onion served on a toasted house made sesame bun",
+      "FIELD4": "150.00"
+   },
+   "item5": {
+      "FIELD2": "Meatloaf Sandwich",
+      "FIELD3": "The Ozark meatloaf on our toasted sandwich bread with mayo, onion and house-made spicy pickles",
+      "FIELD4": "160.00"
+   },
+   "item6": {
+      "FIELD2": "Grilled Cheese Sandwich",
+      "FIELD3": "The Ozark sandwich bread, buttered and toasted with a modern combination of cheeses",
+      "FIELD4": "140.00"
+   },
+   "item7": {
+      "FIELD2": "Pulled Pork Sandwich",
+      "FIELD3": "Smoked pork shoulder with a spicy BBQ sauce and served on the Ozark sesame bun",
+      "FIELD4": "150.00"
+   },
+   "item8": {
+      "FIELD2": "Chicken Salad Sandwich",
+      "FIELD3": "Creamy house-made chicken salad served on our own toasted sandwich bread",
+      "FIELD4": "160.00"
+   },
+   "item9": {
+      "FIELD2": "Nashville Hot Fried Chicken",
+      "FIELD3": "Spicy fried chicken with two biscuits and a choice of sides",
+      "FIELD4": "180.00"
+   },
+   "item10": {
+      "FIELD2": "Ozark Meatloaf",
+      "FIELD3": "A meaty slab of pork and beef with a glazed crust plus choice of two sides",
+      "FIELD4": "140.00"
+   },
+   "item11": {
+      "FIELD2": "Chicken Hot Pie",
+      "FIELD3": "A hot bowl of Chicken Stew with carrot, potato and green beans, topped with a buttery biscuit crust",
+      "FIELD4": "120.00"
+   },
+   "item12": {
+      "FIELD2": "Large Salad",
+      "FIELD3": "Lettuce, Tomato, Onion, a big scoop of Chicken Salad and served with a side of our house made Hundred Island Dressing and buttery croutons",
+      "FIELD4": "160.00"
+   },
+   "item13": {
+      "FIELD2": "French Fries",
+      "FIELD3": "A generous portion of hand-cut house made fries",
+      "FIELD4": "40.00"
+   },
+   "item14": {
+      "FIELD2": "Pancakes",
+      "FIELD3": "Stack of pancakes with your choice of meat",
+      "FIELD4": "140.00"
+   },
+   "item15": {
+      "FIELD2": "Hoppin' John",
+      "FIELD3": "Black Eyed Peas, slowly cooked with smoked ham",
+      "FIELD4": "40.00"
+   },
+   "item16": {
+      "FIELD2": "Mashed Potato & Gravy",
+      "FIELD3": "Fluffy and buttery potato with a whole gravy",
+      "FIELD4": "40.00"
+   },
+   "item17": {
+      "FIELD2": "Pork Chop",
+      "FIELD3": "A thick cut grilled pork chop with a choice of two sides",
+      "FIELD4": "200.00"
+   },
+   "item18": {
+      "FIELD2": "Green Beans",
+      "FIELD3": "sauteed with onions",
+      "FIELD4": "40.00"
+   },
+   "item19": {
+      "FIELD2": "Mac and Cheese",
+      "FIELD3": "Gooey cheese and pasta with a crunchy toast",
+      "FIELD4": "40.00"
+   },
+   "item20": {
+      "FIELD2": "Cabbage",
+      "FIELD3": "Sauteed with bacon fat and vinegar",
+      "FIELD4": "40.00"
+   }
+}

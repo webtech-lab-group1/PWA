@@ -1,0 +1,107 @@
+{
+   "Cafe Adriana by Hill Station": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "English Muffin",
+      "FIELD3": "Cream cheese & jam",
+      "FIELD4": "100.00"
+   },
+   "item2": {
+      "FIELD2": "Pinoy Breakfast",
+      "FIELD3": "2 eggs, garlic rice, pickled cucumber",
+      "FIELD4": "200.00"
+   },
+   "item3": {
+      "FIELD2": "Country Breakfast",
+      "FIELD3": "2 eggs, country fries, homemade bread, butter, jam",
+      "FIELD4": "200.00"
+   },
+   "item4": {
+      "FIELD2": "Omelette",
+      "FIELD3": "2 eggs, home fries, homemade bread, butter, jam",
+      "FIELD4": "200.00"
+   },
+   "item5": {
+      "FIELD2": "Tapang Usa",
+      "FIELD3": "2 eggs, pickled cucumber, garlic rice",
+      "FIELD4": "230.00"
+   },
+   "item6": {
+      "FIELD2": "Baboy Damo",
+      "FIELD3": "2 eggs, pickled cucumber, garlic rice",
+      "FIELD4": "230.00"
+   },
+   "item7": {
+      "FIELD2": "Spanish Chorizo",
+      "FIELD3": "Scrambled eggs, home fries, bread, butter, jam",
+      "FIELD4": "230.00"
+   },
+   "item8": {
+      "FIELD2": "Stuffed French Toast",
+      "FIELD3": "2 thick slices, caramelized mangoes, whipped cream, maple syrup",
+      "FIELD4": "185.00"
+   },
+   "item9": {
+      "FIELD2": "Eggs Benedict",
+      "FIELD3": "Poached eggs, home-smoked ham, English muffin, side salad, our own olive oil hollandaise",
+      "FIELD4": "230.00"
+   },
+   "item10": {
+      "FIELD2": "Paella de Legumbres",
+      "FIELD3": "Roasted eggplant, zucchini, red & green peppers, green beans, cauliflower, broccoli, mushrooms, squash, peas",
+      "FIELD4": "360.00"
+   },
+   "item11": {
+      "FIELD2": "Pollo Y Chorizos",
+      "FIELD3": "Chicken, a variety of homemade sausages & sweet peppers",
+      "FIELD4": "375.00"
+   },
+   "item12": {
+      "FIELD2": "Lengua, Setas Y Aceitunas",
+      "FIELD3": "Ox tongue, chorizo, mushrooms & olives",
+      "FIELD4": "395.00"
+   },
+   "item13": {
+      "FIELD2": "Negra",
+      "FIELD3": "All seafood & squid ink",
+      "FIELD4": "395.00"
+   },
+   "item14": {
+      "FIELD2": "Solomillo con Cebollas",
+      "FIELD3": "Tenderloin steak, caramelized onions",
+      "FIELD4": "395.00"
+   },
+   "item15": {
+      "FIELD2": "Bistecca y Carabineros",
+      "FIELD3": "Steak and prawn, lemon butter sauce",
+      "FIELD4": "395.00"
+   },
+   "item16": {
+      "FIELD2": "Saigon Steak Sandwich",
+      "FIELD3": "Marinated beef, caramelized onions & herbs, baguette",
+      "FIELD4": "195.00"
+   },
+   "item17": {
+      "FIELD2": "Salmon Burger",
+      "FIELD3": "Dark chocolate bun, lettuce & onion",
+      "FIELD4": "220.00"
+   },
+   "item18": {
+      "FIELD2": "Reuben",
+      "FIELD3": "Fresh corned beef (USDA), homemade sauerkraut, melted cheese",
+      "FIELD4": "250.00"
+   },
+   "item19": {
+      "FIELD2": "Mussel and Clam Marinera",
+      "FIELD3": "Mussel & clams, paprika, lots of garlic, white wine, parsley",
+      "FIELD4": "140.00"
+   },
+   "item20": {
+      "FIELD2": "Duck & Chicken Liver Pate' on Toast",
+      "FIELD3": "Pickled beets, onions, kumquat chutney",
+      "FIELD4": "130.00"
+   }
+}

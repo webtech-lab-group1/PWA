@@ -1,0 +1,107 @@
+{
+   "Teriyaki Boy": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "Gyoza",
+      "FIELD3": "Also known as potstickers. Japanese pork dumplings, steamed and seared until crisp, served with a tangy soy-based dipping sauce.",
+      "FIELD4": "399.00"
+   },
+   "item2": {
+      "FIELD2": "Miso Soup",
+      "FIELD3": "A classic Japanese soup of fermented soy beans, served with wakame seaweed and diced silken tofu",
+      "FIELD4": "65.00"
+   },
+   "item3": {
+      "FIELD2": "Aji Tamago",
+      "FIELD3": "Flavorful soft boiled eggs with custard like egg yolk",
+      "FIELD4": "30.00"
+   },
+   "item4": {
+      "FIELD2": "Edamame",
+      "FIELD3": "Crunchy green soy beans",
+      "FIELD4": "90.00"
+   },
+   "item5": {
+      "FIELD2": "Kani Salad",
+      "FIELD3": "Japanese crabstick with mayonnaise resting on top of a cucumber slaw, topped with fresh shrimp roe or Japanese caviar",
+      "FIELD4": "175.00"
+   },
+   "item6": {
+      "FIELD2": "Philly Cheese Steak Roll",
+      "FIELD3": "An American classic with a Japanese twist. Teppanyaki beef with deep fried sweet onions topped with flame-torched cheese served with our own rolls dip",
+      "FIELD4": "185.00"
+   },
+   "item7": {
+      "FIELD2": "Crunchy Kani Roll",
+      "FIELD3": "Kani with fresh mango rolled with crunchy kani strips on top",
+      "FIELD4": "155.00"
+   },
+   "item8": {
+      "FIELD2": "Sushi Platter",
+      "FIELD3": "Combination of two sushi variants from choices of California roll, Philly Cheese Steak Roll, Crunchy Kani Roll, and Dynamite Roll",
+      "FIELD4": "170.00"
+   },
+   "item9": {
+      "FIELD2": "Tamago Sashimi",
+      "FIELD3": "Japanese sweet omelette, served with fresh daikon and wasabi",
+      "FIELD4": "105.00"
+   },
+   "item10": {
+      "FIELD2": "Shake Sashimi",
+      "FIELD3": "Fresh Norwegian salmon, served with fresh daikon, pickled ginger and wasabi",
+      "FIELD4": "220.00"
+   },
+   "item11": {
+      "FIELD2": "Shake Sushi",
+      "FIELD3": "Fresh Norwegian salmon on top of vinegared rice, served with wasabi",
+      "FIELD4": "110.00"
+   },
+   "item12": {
+      "FIELD2": "Chashu Ramen Shoyu",
+      "FIELD3": "Ramen noodles served with chashu slices, aji, tamago, fish cake and wakame in shoyu soup base",
+      "FIELD4": "245.00"
+   },
+   "item13": {
+      "FIELD2": "Sukiyaki",
+      "FIELD3": "Traditional Japanese stew of sliced beef, silken tofu, shiitake mushrooms, vegetables, glass noodles and raw egg",
+      "FIELD4": "320.00"
+   },
+   "item14": {
+      "FIELD2": "Gyuniku Ramen",
+      "FIELD3": "Stir fried beef slices topped with egg yolk, spring onions, black and white sesame seeds on sesame oil-drizzled ramen noodles in shoyu soup base",
+      "FIELD4": "245.00"
+   },
+   "item15": {
+      "FIELD2": "Katsu Ju",
+      "FIELD3": "Breaded pork cutlet, deep-fried and simmered in sweet soy sauce, onions and leeks, with beaten egg, topped on a bed of steamed Japanese rice",
+      "FIELD4": "345.00"
+   },
+   "item16": {
+      "FIELD2": "Ebi Katsu Ju",
+      "FIELD3": "Breaded shrimps deep-fried and simmered in sweet soy sauce, onions and shiitake mushroom strips with beaten egg topped on a bed of steamed Japanese rice.",
+      "FIELD4": "345.00"
+   },
+   "item17": {
+      "FIELD2": "Beef Belly Teppanyaki Ju",
+      "FIELD3": "Beef bacon slices stir-fried with teppanyaki sauce and onion slices on a bed of steamed Japanese rice",
+      "FIELD4": "345.00"
+   },
+   "item18": {
+      "FIELD2": "Wafu Steak",
+      "FIELD3": "Premium diced-cut beef, perfectly served and stir-fried with garlic and teppanyaki sauce, served with a siding of savory sesame moyashi",
+      "FIELD4": "505.00"
+   },
+   "item19": {
+      "FIELD2": "Asupara Bacon Maki",
+      "FIELD3": "A modern Japanese dish of fresh asparagus spears wrapped in honey-glazed bacon strips seared to perfection",
+      "FIELD4": "350.00"
+   },
+   "item20": {
+      "FIELD2": "Tonkatsu",
+      "FIELD3": "Fillet of high quality tender pork, breaded and deep fried until golden brown. Served with cabbage salad and a drizzle of sesame dressing",
+      "FIELD4": "280.00"
+   }
+}

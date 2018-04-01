@@ -1,0 +1,107 @@
+{
+   "Chef's Home": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "Pickles Tester",
+      "FIELD3": "peppers, both hot and sweet, come in all shapes and colors",
+      "FIELD4": "150.00"
+   },
+   "item2": {
+      "FIELD2": "Skinned Oysters w/ CGL",
+      "FIELD3": "coated with seasoned flour dipping once in red wine then recoated",
+      "FIELD4": "270.00"
+   },
+   "item3": {
+      "FIELD2": "Crispy Grouper Skin Salad",
+      "FIELD3": "thai Crispy Papaya Salad",
+      "FIELD4": "250.00"
+   },
+   "item4": {
+      "FIELD2": "Deep Fried Fish Tofu w/ SFS",
+      "FIELD3": "Process tofu and salmon until smooth",
+      "FIELD4": "250.00"
+   },
+   "item5": {
+      "FIELD2": "Trai Crispy Papaya Salad",
+      "FIELD3": "Menu of the day",
+      "FIELD4": "280.00"
+   },
+   "item6": {
+      "FIELD2": "Trai Pan-Grilled Pork Salad",
+      "FIELD3": "tender juicy pork paired with the fragrant lemon grass, kaffir lime leaves and other seasonings, make this warm salad a keeper.",
+      "FIELD4": "290.00"
+   },
+   "item7": {
+      "FIELD2": "Crackling Squid / Prawn",
+      "FIELD3": " deep fried crackers made from starch and prawn that serve as flavoring",
+      "FIELD4": "90.00"
+   },
+   "item8": {
+      "FIELD2": "Grouper Fillet",
+      "FIELD3": " drizzle a little olive oil and some fresh lemon juice over the fresh grouper",
+      "FIELD4": "400.00"
+   },
+   "item9": {
+      "FIELD2": "Cream Dory",
+      "FIELD3": "pan-fried fish and a sauce made with Knorr Ginataang Gulay Complete Recipe Mix and cream",
+      "FIELD4": "240.00"
+   },
+   "item10": {
+      "FIELD2": "Seafood",
+      "FIELD3": "Menu of the day",
+      "FIELD4": "600.00"
+   },
+   "item11": {
+      "FIELD2": "King Prawns",
+      "FIELD3": "Menu of the day",
+      "FIELD4": "750.00"
+   },
+   "item12": {
+      "FIELD2": "Steamed Chicken with Chinese Herbs and Red Apple Soup",
+      "FIELD3": "This delicious and healthy Chinese herbal chicken soup not only warms your heart but also heals your body and soul",
+      "FIELD4": "300.00"
+   },
+   "item13": {
+      "FIELD2": "Boneless Chicken or Dory with 3FS",
+      "FIELD3": "Menu of the day",
+      "FIELD4": "350.00"
+   },
+   "item14": {
+      "FIELD2": "Stir Fried Chicken w/Dried Chili",
+      "FIELD3": "the nutty flavour and crunch of toasted (or fried) peanuts or cashew nuts, chunks of juicy, tender chicken with garlic and onion slivers, all tossed",
+      "FIELD4": "150.00"
+   },
+   "item15": {
+      "FIELD2": "Hookien Noodles",
+      "FIELD3": "Menu of the day",
+      "FIELD4": "280.00"
+   },
+   "item16": {
+      "FIELD2": "Coffeelicious Pork",
+      "FIELD3": "rolled in coffee sauce then sprinkled with sesame seeds",
+      "FIELD4": "280.00"
+   },
+   "item17": {
+      "FIELD2": "Sweet and Sour Pork",
+      "FIELD3": "has a tangy flavor that everyone will surely love",
+      "FIELD4": "240.00"
+   },
+   "item18": {
+      "FIELD2": "Thai Style Omelette",
+      "FIELD3": "a common snack to eat on the street or a quick breakfast or lunch",
+      "FIELD4": "130.00"
+   },
+   "item19": {
+      "FIELD2": "Braised Pork Belly",
+      "FIELD3": "has a perfectly balanced sweet and savory flavo",
+      "FIELD4": "290.00"
+   },
+   "item20": {
+      "FIELD2": "Norwegian Salmon",
+      "FIELD3": "delivers a clean taste and texture that comes from a slow, natural growth process and exceptional regulations to ensure safety",
+      "FIELD4": "550.00"
+   }
+}

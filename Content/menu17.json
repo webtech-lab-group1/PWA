@@ -1,0 +1,107 @@
+{
+   "Forest House Bistro & Cafe": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "Forest House Home Made Bagnet",
+      "FIELD3": "Crispy fried pork belly with papaya chutney and bagnet salsa",
+      "FIELD4": "195.00"
+   },
+   "item2": {
+      "FIELD2": "Quesadillas",
+      "FIELD3": "A choice of special chicken, tuna or sausage with mushroom sauteed in butter with melted cheese filling in tortilla wrapper with red salsa",
+      "FIELD4": "280.00"
+   },
+   "item3": {
+      "FIELD2": "Assorted Grilled Homemade Sausages",
+      "FIELD3": "A combination of Bratwurst, Breakfast, Hungarian and Smoked sausages, sauteed in butter with onion rings",
+      "FIELD4": "280.00"
+   },
+   "item4": {
+      "FIELD2": "Calamares Fritos",
+      "FIELD3": "Deep fried squid rings served with tartar sauce",
+      "FIELD4": "190.00"
+   },
+   "item5": {
+      "FIELD2": "Chicken Skin Chicharon",
+      "FIELD3": "Crispy chicken skin chicharon served with chili garlic vinegar",
+      "FIELD4": "160.00"
+   },
+   "item6": {
+      "FIELD2": "Forest House Bouillabaisse",
+      "FIELD3": "A medley of seafood cream soup, served in a bread bowl",
+      "FIELD4": "120.00"
+   },
+   "item7": {
+      "FIELD2": "Potato Cheese Chowder",
+      "FIELD3": "Creamy potato with melted cheese, served in a bread bowl",
+      "FIELD4": "120.00"
+   },
+   "item8": {
+      "FIELD2": "Wild Mushroom Cream Soup",
+      "FIELD3": "Cream based soup with wild mushroom, served in a bread bowl",
+      "FIELD4": "135.00"
+   },
+   "item9": {
+      "FIELD2": "3 Dip Forest House Special Salad",
+      "FIELD3": "A huge mix of fresh lettuce, strips of cucumber, carrots and turnips with nuts, raisins and cherry tomatoes. Definitely meant to be shared, which you hand wrap and dip in our very own strawberry dressing, blue cheese and honey vinaigrette. Truly a Baguio experience!",
+      "FIELD4": "420.00"
+   },
+   "item10": {
+      "FIELD2": "Grilled Chicken Caesar's Salad",
+      "FIELD3": "Assorted lettuce with grilled chicken, pesto croutons, bacon bits and parmesan cheese in Caesar dressin",
+      "FIELD4": "315.00"
+   },
+   "item11": {
+      "FIELD2": "Salpicado Australian",
+      "FIELD3": "Marinated tenderloin beef cubes sauteed to perfection served with garlic rice",
+      "FIELD4": "525.00"
+   },
+   "item12": {
+      "FIELD2": "Beef Tenderloin with Sweet peas in Ginger Spice",
+      "FIELD3": "Sauteed beef loin with sweet peas, ginger and red wine",
+      "FIELD4": "430.00"
+   },
+   "item13": {
+      "FIELD2": "Lengua con Setas",
+      "FIELD3": "Ox tongue with mushroom sauce and green olive",
+      "FIELD4": "355.00"
+   },
+   "item14": {
+      "FIELD2": "Korean Beef Ribs",
+      "FIELD3": "Tender portions of beef ribs on a delicious Korean sauce",
+      "FIELD4": "345.00"
+   },
+   "item15": {
+      "FIELD2": "Forest House wine Sauced Chicken",
+      "FIELD3": "Grilled Chicken Breast with rich creamy white wine sauce and mushroom",
+      "FIELD4": "295.00"
+   },
+   "item16": {
+      "FIELD2": "Forest House Lamb",
+      "FIELD3": "Grilled lamb marinated in mustard pie with garlic and Japanese soy sauce",
+      "FIELD4": "525.00"
+   },
+   "item17": {
+      "FIELD2": "Lamb Caldereta",
+      "FIELD3": "Mild Spicy lamb sauteed in olive oil and simmered in tomato, cheese, olives and pickle relish",
+      "FIELD4": "545.00"
+   },
+   "item18": {
+      "FIELD2": "Pork Steak with Mushroom",
+      "FIELD3": "Marinated pork steak on the bed of fusilli pasta topped with champignon and shitake sauce",
+      "FIELD4": "320.00"
+   },
+   "item19": {
+      "FIELD2": "Twin Pork Chops with Apple Sauce",
+      "FIELD3": "Grilled pork topped with an extra-ordinary chunky apple sauce",
+      "FIELD4": "320.00"
+   },
+   "item20": {
+      "FIELD2": "Sesame Crusted Fish Fillet",
+      "FIELD3": "Pan seared Creamy Dory fillet crusted with black sesame seeds topped with asian mango salsa",
+      "FIELD4": "295.00"
+   }
+}

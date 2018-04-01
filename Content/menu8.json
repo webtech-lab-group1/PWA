@@ -1,0 +1,107 @@
+{
+   "Cafe Will": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "Grilled Black Jack Ribs",
+      "FIELD3": "Big Size beef w/ Black Jack Sauce, Buttered vegetables, Chef?s Saffron Rice or Fried Potato",
+      "FIELD4": "400.00"
+   },
+   "item2": {
+      "FIELD2": "Texas Pork Ribs",
+      "FIELD3": "5pcs Special Pork Ribs, Buttered Vegetables, Chef?s Saffron on Rice of Fried Potato",
+      "FIELD4": "350.00"
+   },
+   "item3": {
+      "FIELD2": "Grilled Chicken Breast in White Wine Sauce",
+      "FIELD3": "Buttered Vegetables, Chef's Saffron Rice of Fried Potato",
+      "FIELD4": "320.00"
+   },
+   "item4": {
+      "FIELD2": "Grilled Chicken Breast Teriyaki",
+      "FIELD3": "Oriental Vegetables, Chef's Saffron Rice",
+      "FIELD4": "320.00"
+   },
+   "item5": {
+      "FIELD2": "Pork BBQ",
+      "FIELD3": "Buttered Vegetables, Chef?s Saffron or Fried Potato",
+      "FIELD4": "280.00"
+   },
+   "item6": {
+      "FIELD2": "Grilled Chicken Drum Stick",
+      "FIELD3": "4pcs Chicken Drum stick, Buttered Vegetables, Chef?s Saffron Rice",
+      "FIELD4": "300.00"
+   },
+   "item7": {
+      "FIELD2": "Shrimps Tempura",
+      "FIELD3": "(good for 3-4 persons), Fried Shrimps & Vegetables",
+      "FIELD4": "500.00"
+   },
+   "item8": {
+      "FIELD2": "Pork Sisig",
+      "FIELD3": "Good for 2-3 persons",
+      "FIELD4": "320.00"
+   },
+   "item9": {
+      "FIELD2": "Spicy Five Fingers Fried Chicken",
+      "FIELD3": "Good for 2-3 persons",
+      "FIELD4": "280.00"
+   },
+   "item10": {
+      "FIELD2": "Fresh Fruit Medley",
+      "FIELD3": "Good for 2-3 persons",
+      "FIELD4": "300.00"
+   },
+   "item11": {
+      "FIELD2": "Beef Tacos (Mexican Delicacy)",
+      "FIELD3": "Good for 2-3 persons",
+      "FIELD4": "250.00"
+   },
+   "item12": {
+      "FIELD2": "Dakdoritang",
+      "FIELD3": "Spicy Chicken Soup",
+      "FIELD4": "550.00"
+   },
+   "item13": {
+      "FIELD2": "Chef Salad",
+      "FIELD3": "Tossed Green Salad w/ Strawberry Sauce or Pineapple Sauce (Good for 2-3 persons)",
+      "FIELD4": "300.00"
+   },
+   "item14": {
+      "FIELD2": "Cafe Will's Health Salad",
+      "FIELD3": "Orange, Grape, Cucumber w. Ginseng honey Sauce. (Good for 2-3 persons)",
+      "FIELD4": "450.00"
+   },
+   "item15": {
+      "FIELD2": "Beef Steak Tagalog with Onion",
+      "FIELD3": "Served with Soup of the Day on individual plate, rice & buttered vegetables. (Good for 1 person).",
+      "FIELD4": "280.00"
+   },
+   "item16": {
+      "FIELD2": "Kaderetang Baka",
+      "FIELD3": "Served with Soup of the Day on individual plate & rice.(Good for 1 person).",
+      "FIELD4": "300.00"
+   },
+   "item17": {
+      "FIELD2": "Pork Pot-Roast with Bochoy",
+      "FIELD3": "Served with Soup of the Day on individual plate & rice .(Good for 1 person).",
+      "FIELD4": "250.00"
+   },
+   "item18": {
+      "FIELD2": "Fish Fillet with Tartar Dressing",
+      "FIELD3": "Served with Soup of the Day on individual plate & rice .(Good for 1 person).",
+      "FIELD4": "290.00"
+   },
+   "item19": {
+      "FIELD2": "Mixed Seafood Veggie",
+      "FIELD3": "Served with Soup of the Day on individual plate & rice .(Good for 1 person).",
+      "FIELD4": "280.00"
+   },
+   "item20": {
+      "FIELD2": "Pinakbet with Rice",
+      "FIELD3": "Served with Soup of the Day on individual plate & rice .(Good for 1 person).",
+      "FIELD4": "200.00"
+   }
+}

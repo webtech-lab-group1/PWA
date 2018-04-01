@@ -1,0 +1,107 @@
+{
+   "Patch Cafe": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "Fruits and Oats",
+      "FIELD3": "A healthy meal or oatmeal with fruits in season",
+      "FIELD4": "125.00"
+   },
+   "item2": {
+      "FIELD2": "Fluffy Pancakes",
+      "FIELD3": "Banana Nutella or blueberry and cream cheese pancakes with whipped butter and syrup",
+      "FIELD4": "150.00"
+   },
+   "item3": {
+      "FIELD2": "French Toast",
+      "FIELD3": "Sour dough French toast with fruit compote, whipped cream and chocolate syrup",
+      "FIELD4": "170.00"
+   },
+   "item4": {
+      "FIELD2": "Your Own Omelet",
+      "FIELD3": "Your preferred ingredients in an omelet over a toast. Choose amount ham, tomato, onions, mushroom, bell pepper, potato and cheese",
+      "FIELD4": "125.00"
+   },
+   "item5": {
+      "FIELD2": "Pindang",
+      "FIELD3": "Carabao meat tapa with rice, egg, and a shot of tablea chocolate",
+      "FIELD4": "160.00"
+   },
+   "item6": {
+      "FIELD2": "Miners? Breakfast",
+      "FIELD3": "Longganisa served with homemade vinegar, garlic rice, salted egg relish and two eggs",
+      "FIELD4": "130.00"
+   },
+   "item7": {
+      "FIELD2": "Sardines",
+      "FIELD3": "Sauteed sardines served with scramble eggs, garlic rice",
+      "FIELD4": "100.00"
+   },
+   "item8": {
+      "FIELD2": "CPA",
+      "FIELD3": "Shredded adobo chicken and soft adobo pork jelly, over garlic rice",
+      "FIELD4": "190.00"
+   },
+   "item9": {
+      "FIELD2": "Patch Benedict",
+      "FIELD3": "A poached egg, strips of bacon and cheese sauce over slice of lefty bread brushed with garlic butter",
+      "FIELD4": "150.00"
+   },
+   "item10": {
+      "FIELD2": "Brunch Sampler",
+      "FIELD3": "A taste of each of our signature breakfast dishes - longganisa, carabao or beef tapa, danggit, 2 eggs, rice and a pancake",
+      "FIELD4": "190.00"
+   },
+   "item11": {
+      "FIELD2": "Walnut and Green Apple Salad",
+      "FIELD3": "Candied walnut, romaine, green apple, with a creamy sour cream dressing",
+      "FIELD4": "140.00"
+   },
+   "item12": {
+      "FIELD2": "Beyond Bolognese",
+      "FIELD3": "the classic spaghetti dish with chunks of Spanish chorizo",
+      "FIELD4": "180.00"
+   },
+   "item13": {
+      "FIELD2": "Mac n' Cheese",
+      "FIELD3": "Crisp and creamy cheeses melted over macaroni and topped with bacon bits",
+      "FIELD4": "170.00"
+   },
+   "item14": {
+      "FIELD2": "Chili Tuyo Marinara",
+      "FIELD3": "A combination of tuyo flakes, lime, chili and olive oil in linguine pasta",
+      "FIELD4": "170.00"
+   },
+   "item15": {
+      "FIELD2": "Panini BLTC",
+      "FIELD3": "Bacon, Lettuce, Tomatoes, Cheese",
+      "FIELD4": "160.00"
+   },
+   "item16": {
+      "FIELD2": "Bleu Burger",
+      "FIELD3": "Our signature beef burger with blue cheese and ranch dressing",
+      "FIELD4": "150.00"
+   },
+   "item17": {
+      "FIELD2": "Grilled Cheese Pan con Tomate",
+      "FIELD3": "3 Kinds of cheese and roasted tomatoes over a grilled baguette",
+      "FIELD4": "150.00"
+   },
+   "item18": {
+      "FIELD2": "4 Cheese",
+      "FIELD3": "Mozzarella, cheddar, parmesan, and bleu cheese",
+      "FIELD4": "280.00"
+   },
+   "item19": {
+      "FIELD2": "Prosciutto",
+      "FIELD3": "Prosciutto, roasted garlic and greens",
+      "FIELD4": "280.00"
+   },
+   "item20": {
+      "FIELD2": "Mountain Pizza",
+      "FIELD3": "Native smoked meat, beef, garlic, cherry tomatoes, and Baguio greens",
+      "FIELD4": "300.00"
+   }
+}

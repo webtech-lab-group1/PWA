@@ -1,0 +1,87 @@
+{
+   "Seafood Island Restaurant": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "Magellan's Landing",
+      "FIELD3": "Sinuglaw, chicken inasal, grilled tilapia, grilled squid, grilled shrimps, grilled talong, steamed crabs, and bagoong rice with danggit chips",
+      "FIELD4": "1,385.00"
+   },
+   "item2": {
+      "FIELD2": "Tali Beach",
+      "FIELD3": "Pork barbecue, chicken inasal, grilled tilapia, grilled squid, grilled talong, grilled tomatoes, steamed white shrimps, steamed crabs, sauteed tahong, lato, green mango, watermelon and steamed rice with crispy dulong",
+      "FIELD4": "1,345.00"
+   },
+   "item3": {
+      "FIELD2": "Boracay's Feast",
+      "FIELD3": "Chicken adobo sa gata, san mig clams, grilled liempo, grilled squid, grilled tilapia, grilled talong, grilled okra, grilled pineapple and bagoong rice with crispy dilis",
+      "FIELD4": "998.00"
+   },
+   "item4": {
+      "FIELD2": "Dagupan Festival",
+      "FIELD3": "Deep-fried boneless bangus, pork barbecue, grilled tahong, grilled okra and talong, steamed white shrimps, sauteed talbos ng kamote, green mango and bagoong rice with crispy liempo",
+      "FIELD4": "1,285.00"
+   },
+   "item5": {
+      "FIELD2": "Dapitan's Pride",
+      "FIELD3": "San Mig clams, grilled tilapia, grilled squid, grilled liempo, laing, steamed crabs, and Kalkag rice with crispy shrimps",
+      "FIELD4": "1,315.00"
+   },
+   "item6": {
+      "FIELD2": "Chang's China Chow",
+      "FIELD3": "Whole fried chicken with kropek, sauteed shrimp, mushroom and tofu, salt and pepper ribs, lumpiang shanghai, crab and corn soup, pancit canton and Yang Chow fried rice",
+      "FIELD4": "1,485.00"
+   },
+   "item7": {
+      "FIELD2": "Mt Apo",
+      "FIELD3": "Balbakwa, clams sa buko, steamed crabs, steamed shrimps, grilled liempo, grilled squid, inihaw na manok sa gata, fried tilapia, Law-uy, kinilaw na tanigue, ensaladang lato, and garlic rice with crispy dilis",
+      "FIELD4": "1,650.00"
+   },
+   "item8": {
+      "FIELD2": "Davao Gulf",
+      "FIELD3": "Tuna ala pobre, chicken inasal, pork barbecue, grilled squid, grilled talong and tomatoes, steamed shrimps, grilled clams, laing, lato salad, ensaladang manga, salted egg, Kalkag rice, bagoong rice, and garlic rice with crispy dulong",
+      "FIELD4": "1,485.00"
+   },
+   "item9": {
+      "FIELD2": "Vigan",
+      "FIELD3": "Dinakdakan, grilled bangus, pinapaitan, insarabasab, igado, Pakbet de Vigan, bagnet, poqui-poqui, garlic rice with crispy longganisa vigan and garlic chips",
+      "FIELD4": "1,395.00"
+   },
+   "item10": {
+      "FIELD2": "Island Sinugba Espesyal",
+      "FIELD3": "Grilled tuna panga, tanguigue and squid, grilled clams and mussels, steamed crabs, shrimps, salted egg and ensaladang lato, ensaladang manga, kinilaw na tanguigue, and garlic rice with crispy dilis",
+      "FIELD4": "1,590.00"
+   },
+   "item11": {
+      "FIELD2": "Garlic Seafood Delight",
+      "FIELD3": "Stir fried squid and tanguigue, steamed shrimps, clams, mussels and crabs tossed in fried garlic, white wine and chili, ensaladang lato, squid balls, and plain rice with crispy dilis",
+      "FIELD4": "1,188.00"
+   },
+   "item12": {
+      "FIELD2": "Meaty Madness",
+      "FIELD3": "Crispy pata, pork bbq, grilled liempo, chicken inasal, sinuglaw, grilled eggplant, laing, ensaladang lato, sliced tomatoes and salted egg, crispy adobo flakes with garlic fried rice",
+      "FIELD4": "1,598.00"
+   },
+   "item13": {
+      "FIELD2": "Pla Pla",
+      "FIELD3": "Choice of deep fried, sinigang sa miso, grilled or pinaputok",
+      "FIELD4": "395.00"
+   },
+   "item14": {
+      "FIELD2": "Lapu-Lapu",
+      "FIELD3": "Choice of steamed in superior sauce or sweet and sour",
+      "FIELD4": "1,699.00"
+   },
+   "item15": {
+      "FIELD2": "Hito",
+      "FIELD3": "Choice of grilled or fried with garlic",
+      "FIELD4": "395.00"
+   },
+   "item16": {
+      "FIELD2": "Hot Tea",
+      "FIELD3": "Yellow label, green tea",
+      "FIELD4": "60.00"
+   }
+}

@@ -1,0 +1,107 @@
+{
+   "Classic Savory": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "Shanghai Rolls",
+      "FIELD3": "Served with Classic/Buttered Savory Chicken, Rice and 16oz drink. For dine-in only",
+      "FIELD4": "119.00"
+   },
+   "item2": {
+      "FIELD2": "Pancit Canton",
+      "FIELD3": "Served with Classic/Buttered Savory Chicken, Rice and 16oz drink. For dine-in only",
+      "FIELD4": "119.00"
+   },
+   "item3": {
+      "FIELD2": "Creamy Fish Fillet",
+      "FIELD3": "Served with Classic/Buttered Savory Chicken, Rice and 16oz drink. For dine-in only",
+      "FIELD4": "119.00"
+   },
+   "item4": {
+      "FIELD2": "Sweet & Sour Pork",
+      "FIELD3": "Served with Classic/Buttered Savory Chicken, Rice and 16oz drink. For dine-in only",
+      "FIELD4": "119.00"
+   },
+   "item5": {
+      "FIELD2": "Chopsuey",
+      "FIELD3": "Served with Classic/Buttered Savory Chicken, Rice and 16oz drink. For dine-in only",
+      "FIELD4": "119.00"
+   },
+   "item6": {
+      "FIELD2": "Four Season String Beans",
+      "FIELD3": "Served with Classic/Buttered Savory Chicken, Rice and 16oz drink. For dine-in only",
+      "FIELD4": "119.00"
+   },
+   "item7": {
+      "FIELD2": "E-Meal 1",
+      "FIELD3": "Savory Chicken, Shanghai Rolls, Plain Rice, 16 oz drinks",
+      "FIELD4": "119.00"
+   },
+   "item8": {
+      "FIELD2": "E-Meal 2",
+      "FIELD3": "Savory Chicken, Pancit Canton, Plain Rice, 16 oz. drinks",
+      "FIELD4": "119.00"
+   },
+   "item9": {
+      "FIELD2": "E-Meal 3",
+      "FIELD3": "Savory Chicken, Creamy Fish Fillet, Plain Rice, 16 oz. drinks",
+      "FIELD4": "119.00"
+   },
+   "item10": {
+      "FIELD2": "E-Meal 4",
+      "FIELD3": "Savory Chicken, Sweet & Sour Pork, Plain Rice, 16 oz. drinks",
+      "FIELD4": "119.00"
+   },
+   "item11": {
+      "FIELD2": "E-Meal 5",
+      "FIELD3": "Savory Chicken, Chopsuey, Plain Rice, 16 oz. drinks",
+      "FIELD4": "119.00"
+   },
+   "item12": {
+      "FIELD2": "E-Meal 6",
+      "FIELD3": "Savory Chicken, Four Season String Beans, Plain Rice, 16 oz. drinks",
+      "FIELD4": "119.00"
+   },
+   "item13": {
+      "FIELD2": "Combo A",
+      "FIELD3": "Good for 2 persons. 1/2 Chicken, Rice, Savory Shanghai Rolls, Pancit Canton",
+      "FIELD4": "335.00"
+   },
+   "item14": {
+      "FIELD2": "Combo B1",
+      "FIELD3": "Good for 1 person. 1/4 Chicken, Salt & Pepper Spareribs, Rice, Special Turon, Drinks",
+      "FIELD4": "215.00"
+   },
+   "item15": {
+      "FIELD2": "Combo B2",
+      "FIELD3": "Good for 1 person. 1/4 Chicken, Sweet and Sour Pork, Rice, Special Turon, Drinks",
+      "FIELD4": "215.00"
+   },
+   "item16": {
+      "FIELD2": "Combo B3",
+      "FIELD3": "Good for 1 person. 1/4 Chicken, Creamy Fish Fillet, Rice, Special Turon, Drinks",
+      "FIELD4": "215.00"
+   },
+   "item17": {
+      "FIELD2": "Combo B4",
+      "FIELD3": "Good for 1 person. 1/4 Chicken, Salt & Pepper Squid, Rice, Special Turon, Drinks",
+      "FIELD4": "215.00"
+   },
+   "item18": {
+      "FIELD2": "Combo C1",
+      "FIELD3": "Good for 2 persons. 1/2 Chicken, Pancit Canton, Salt & Pepper Spareribs, Rice, Special Turon, Drinks",
+      "FIELD4": "415.00"
+   },
+   "item19": {
+      "FIELD2": "Combo C2",
+      "FIELD3": "Good for 2 persons. 1/2 Chicken, Pancit Canton, Sweet & Sour Pork, Rice, Special Turon, Drinks",
+      "FIELD4": "415.00"
+   },
+   "item20": {
+      "FIELD2": "Combo C3",
+      "FIELD3": "1/2 Chicken, Pancit Canton, Creamy Fish Fillet, Rice, Special Turon, Drinks",
+      "FIELD4": "415.00"
+   }
+}

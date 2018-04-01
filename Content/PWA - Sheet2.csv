@@ -1,1196 +1,815 @@
-50's Diner,Name,Description,Price,,https://www.gps-coordinates.net/
-item1,Chicken Spears,Spicy loin of chicken deep fried with hot spicy breading nuggets style,100.00,,
-item2,White Chicken,Pcs of chicken marinated with herbs then steam to perfection. Serve with rice,100.00,,
-item3,You and I,"Deep fried breaded ground beef and ground Chicken, top with tartar and mayo sauce ala Croquet",100.00,,
-item4,Butterfly Shrimp,Battered shrimp then deep fried until golden brown. Serve with potato chips,170.00,,
-item5,Pasta and Garlic Shrimp,Garlic shrimp on the bed of pasta ala 50's diner. Serve with bread,135.00,,
-item6,Mix Grill,"Worldwide favorite, composition of minute steak, pork chop hotdog and chicken. All grilled to perfection, served w/ fries and sauteed vegetable",195.00,,
-item7,She,"Her legs, her chop, her breaded fish, her minute steak, her hotdog, her fries and vegetable. Most especially her dessert",185.00,,
-item8,Guys On The Hood,"A combination of pork chop, slice pizza, chicken, spaghetti and garlic bread, serve w/ fries and vegetable",135.00,,
-item9,S/S,"Steak and shrimp the cruisers favorites, served w/ fries and vegetables",140.00,,
-item10,Cordon Bleu,"Breaded pork loin stuffed w/ ham and cheese, fried and crispy served w/ fries or rice",135.00,,
-item11,Chicken Cordon Bleu,Chicken stuffed w/ ham and cheese fried till golden brown. Served w/ fries or rice,135.00,,
-item12,Chop and Chop,pcs of deep fried chicken until golden brown served w/ fries or rice,140.00,,
-item13,Schnitzel,"One of the Europeans favorites breaded pork tenderloin dish, served w/ vegetable and rice",130.00,,
-item14,G 50's Beef Stew,We claimed that the best way to cooked beef is to stew it on its own juice,120.00,,
-item15,Grilled Squid,"Squid stuffed w/ carrots, beans and chops onions, then grilled. Served w/ fries or rice",140.00,,
-item16,Fish and Chips,"The traditional, English slice fish fillet, deep fried in batter served w/ fries",135.00,,
-item17,Tanguigui Steak,"50's diner catch of the day grilled to perfection, served with rice or fries",155.00,,
-item18,Chili Con Carne,The winner and big time traditional and classical cooking of carne served w/ toast bread,115.00,,
-item19,Golden Brown Fish Fillet,"Diners catch of the day. And deep fried until golden brown, served w/ rice",130.00,,
-item20,Gangsta Gangsta,"Scarface warriors favorite, grilled porkchop, fried chicken, veg in oyster sauce, chicken roll, rice and egg",140.00,,
-Amare La Cucina,Name,Description,Price,,
-item1,Insalata Verde,Fresh garden greens with vinaigrette dressing and parmigiano reggiano.,225.00,,
-item2,Insalata Di Pollo,Chicken breast and vegetable salad tossed with vinaigrette dressing and parmigiano reggiano.,255.00,,
-item3,Insalata Di Gamberoni,Shrimps and vegetable salad tossed with vinaigrette dressing and parmigiano reggiano.,315.00,,
-item4,Mariannes's Special,"Vegetable salad with arugula leaves, caramelized walnut, and sun-dried tomatoes, topped with special dressing.",335.00,,
-item5,Beef Carpaccio,"Thinly sliced raw beef tenderloin with extra virgin olive oil, parmigiano reggiano shavings, and salt and pepper.",295.00,,
-item6,Orzo,"Rice-shaped pasta with garlic, olive oil, and chili flakes, with freshly grated parmigiano reggiano.",220.00,,
-item7,Aglio E Olio,"Garlic, olive oil, and chili flakes, with freshly grated parmigiano reggiano.",225.00,,
-item8,Pesto Alla Genovese,Homemade basil pesto sauce with freshly grated parmigiano reggiano.,285.00,,
-item9,Ala Carbonara,"Cream, bacon, and egg, with freshly grated parmigiano reggiano and parsley.",285.00,,
-item10,Nutella Pizza,"Pizza with a spread of Nutella chocolate, topped with vanilla ice cream and caramelized walnuts.",260.00,,
-item11,Affogato,An Italian coffee dessert made up of a scoop of vanilla ice cream and a shot of espresso poured over.,130.00,,
-item12,Gelato,Homemade Italian flavored ice cream.,160.00,,
-item13,Pizza Con Prosciutto,"Plum tomatoes, mozzarella, prosciutto, arugula, olives, and a dash of oregano.",540.00,,
-item14,Foie Gras Pizza,"Mozzarella, basil, white truffle oil, and foie gras (duck liver).",595.00,,
-item15,Lamb Pizza,"Plum tomatoes, mozzarella, lemon, special spice, and extra virgin olive oil, topped with alfalfa.",560.00,,
-item16,Wagyu Meatball Pizza,"Wagyu meatballs, mozzarella, and crushed tomatoes, with roasted garlic.",720.00,,
-item17,Arrabiata Pizza,"Spicy marinara sauce topped with mozzarella, crispy bacon, and onions.",450.00,,
-item18,Goat Cheese Pizza,"Goat cheese, mozzarella, and crushed tomatoes, topped with sundried tomato.",570.00,,
-item19,Vegetarian Pizza,"Pesto and tomato sauce with zucchini, bell pepper and garlic.",450.00,,
-item20,Roasted Garlic Mushroom Pizza,"Fresh button mushroom, roasted garlic, and crushed plum tomatoes, topped with basil and oregano.",445.00,,
-Arca's Yard,Name,Description,Price,,
-item1,Benguet Coffee,Black,45.00,,
-item2,Frothy Coffee,No Description,50.00,,
-item3,Tarragon Tea,Fresh,50.00,,
-item4,Arca's Cloud Tea,with cream & wild honey,60.00,,
-item5,Lemon Grass Tea,,45.00,,
-item6,Cacao Hot Choco,,75.00,,
-item7,Bottled Water,,25.00,,
-item8,Cucumber Smoothie,,75.00,,
-item9,Pine Apple Smoothie,,75.00,,
-item10,Banana Smoothie,,75.00,,
-item11,Mango Smoothie,Seasonal,75.00,,
-item12,Strawberry Smoothie,Seasonal,75.00,,
-item13,Water Melon Smoothie,,75.00,,
-item14,Arca's Sweet Potato Ala Mode,Docto Pie or Camote Pie,95.00,,
-item15,Bread wuth Special Dip,,75.00,,
-item16,French Toast,,85.00,,
-item17,Carrot Pie Ala Mode,,95.00,,
-item18,Rhubard Pie,Seasonal,95.00,,
-item19,Yogurt with Wild Honey,,85.00,,
-item20,Softdrinks,"Coke, Royal, Sprite & Orange",25.00,,
-Brrr Grrr,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
-Baguio Craft Brewery,Name,Description,Price,,
-item1,Fish and Chips,"Beer battered dory fish, deep fried to crisp and served with potato fries. Accompanied with tartar, ketchup and our very own Pinakurat",320.00,,
-item2,Yakitori,"Skewer of marinated chicken cubes and vegetables, grilled and glazed with special barbecue sauce",320.00,,
-item3,Ribs Platter Family,"Baguio Craft Brewery's grilled fall off-the bone ribs, basted with Zigzagger beer BBQ sauce, accompanied with Cajun spiced shrimp, juicy corn on the cob & crispy fries","1,149.00",,
-item4,Stout Isaw,"Our very version of Isaw, marinated with stout beer, grilled and topped with corn salsa",280.00,,
-item5,Ribs Platter Solo,"Half pack ribs basted with Zigzagger beer BBQ sauce, served with juicy corn on the cob and crispy fries",479.00,,
-item6,Premium Sausage Platter,"A platter of premium sausages (Hungarian, Schublig, Kielbasa), Bruschetta, caramelized onion, cheese and grainy mustard",550.00,,
-item7,Stinky Big Dane,Ground beef patty stuffed with jalapeno and bleu cheese. Served with crispy fries,400.00,,
-item8,Pulled Pork Muffins,"Served on a bed of toasted English muffin, topped with diced green apples & sour cream sauce, a side of cabbage & apple slaw, and crispy fries",290.00,,
-item9,Chicken Inasal,"Beer marinated chicken thighs, grilled and served with roasted vegetables and rice",300.00,,
-item10,Smoked Pork Belly,"Home smoked pork belly, deep fried and glazed with our special barbecue sauce. Served with rice and grilled vegetable",380.00,,
-item11,Beef Nachos,"Nacho chips overloaded with beef, cheese and vegetables. Served with our in-house garlic sauce and salsa",320.00,,
-item12,Chicken Quesadillas,Homemade tortillas filled with grilled chicken and fresh vegetables,250.00,,
-item13,Buffalo Wings,"Classic chicken wings, deep fried to perfection coated with our special spicy buffalo sauce. Served with housemade bleu cheese dip and vegetable sticks",350.00,,
-item14,Salt and Pepper Wings with Chips,"A less spicy alternative to our buffalo wings, chicken wings deep fried, seasoned with sea salt and cracked black pepper.",350.00,,
-item15,Fish Tacos,"A trio of soft tortilla with grilled spiced dory fish on a bed of fresh sliced lettuce topped with fresh chopped tomato, onion and cilantro. Best served with our housemade salsa",350.00,,
-item16,Pork Canitas,Spiced pulled pork on a bed of soft tortilla shell topped with fresh vegetables,320.00,,
-item17,Crispy Ruffles,"Deep fried pork ruffles, spiced and served with Pinakurat.",320.00,,
-item18,Chicken Skin,Chicken skin marinated with throat-cutter beer deep-fried to crisp and seasoned well. Served with Pinakurat dressing,300.00,,
-Cafe Adriana by Hill Station,Name,Description,Price,,
-item1,English Muffin,Cream cheese & jam,100.00,,
-item2,Pinoy Breakfast,"2 eggs, garlic rice, pickled cucumber",200.00,,
-item3,Country Breakfast,"2 eggs, country fries, homemade bread, butter, jam",200.00,,
-item4,Omelette,"2 eggs, home fries, homemade bread, butter, jam",200.00,,
-item5,Tapang Usa,"2 eggs, pickled cucumber, garlic rice",230.00,,
-item6,Baboy Damo,"2 eggs, pickled cucumber, garlic rice",230.00,,
-item7,Spanish Chorizo,"Scrambled eggs, home fries, bread, butter, jam",230.00,,
-item8,Stuffed French Toast,"2 thick slices, caramelized mangoes, whipped cream, maple syrup",185.00,,
-item9,Eggs Benedict,"Poached eggs, home-smoked ham, English muffin, side salad, our own olive oil hollandaise",230.00,,
-item10,Paella de Legumbres,"Roasted eggplant, zucchini, red & green peppers, green beans, cauliflower, broccoli, mushrooms, squash, peas",360.00,,
-item11,Pollo Y Chorizos,"Chicken, a variety of homemade sausages & sweet peppers",375.00,,
-item12,"Lengua, Setas Y Aceitunas","Ox tongue, chorizo, mushrooms & olives",395.00,,
-item13,Negra,All seafood & squid ink,395.00,,
-item14,Solomillo con Cebollas,"Tenderloin steak, caramelized onions",395.00,,
-item15,Bistecca y Carabineros,"Steak and prawn, lemon butter sauce",395.00,,
-item16,Saigon Steak Sandwich,"Marinated beef, caramelized onions & herbs, baguette",195.00,,
-item17,Salmon Burger,"Dark chocolate bun, lettuce & onion",220.00,,
-item18,Reuben,"Fresh corned beef (USDA), homemade sauerkraut, melted cheese",250.00,,
-item19,Mussel and Clam Marinera,"Mussel & clams, paprika, lots of garlic, white wine, parsley",140.00,,
-item20,Duck & Chicken Liver Pate' on Toast,"Pickled beets, onions, kumquat chutney",130.00,,
-Cafe in the sky,Name,Description,Price,,
-item1,Crispy Sky Rolls,Starters,130.00,,
-item2,Fried Pork with Tofu,Starters,130.00,,
-item3,French Fries,Starters,110.00,,
-item4,Nachos with Cheese,Starters,110.00,,
-item5,Nachos with Salsa,Starters,110.00,,
-item6,Beef with Oyster Sauce,Rice Toppings,160.00,,
-item7,Fried Chicken Rice,Rice Toppings,140.00,,
-item8,Sky Rice,Rice Toppings,165.00,,
-item9,Beef with Broccoli or Cauliflower,House Specialties,225.00,,
-item10,Crispy Lechon Kawali,House Specialties,250.00,,
-item11,Fried Lemon Chicken,House Specialties,215.00,,
-item12,Kung Fu Chicken,House Specialties,215.00,,
-item13,Sweet & Sour Boneless Bangus,House Specialties,200.00,,
-item14,Sizzling Chili Hotdogs with Onions,Hot plates with egg,175.00,,
-item15,Bangus (Milkfish) Sisig,Hot plates with egg,210.00,,
-item16,Pork Sisig,Hot plates with egg,210.00,,
-item17,Sky Burger,Topped with bacon & deep fried onion rings in BBQ sauce,255.00,,
-item18,Ultimate Cheese Burger,Topped with caramelized onions,225.00,,
-item19,Club Sandwich,Sandwich,240.00,,
-item20,Grilled Cheese Sandwich,Sandwich,130.00,,
-Cafe Will,Name,Description,Price,,
-item1,Grilled Black Jack Ribs,"Big Size beef w/ Black Jack Sauce, Buttered vegetables, Chef?s Saffron Rice or Fried Potato",400.00,,
-item2,Texas Pork Ribs,"5pcs Special Pork Ribs, Buttered Vegetables, Chef?s Saffron on Rice of Fried Potato",350.00,,
-item3,Grilled Chicken Breast in White Wine Sauce,"Buttered Vegetables, Chef's Saffron Rice of Fried Potato",320.00,,
-item4,Grilled Chicken Breast Teriyaki,"Oriental Vegetables, Chef's Saffron Rice",320.00,,
-item5,Pork BBQ,"Buttered Vegetables, Chef?s Saffron or Fried Potato",280.00,,
-item6,Grilled Chicken Drum Stick,"4pcs Chicken Drum stick, Buttered Vegetables, Chef?s Saffron Rice",300.00,,
-item7,Shrimps Tempura,"(good for 3-4 persons), Fried Shrimps & Vegetables",500.00,,
-item8,Pork Sisig,Good for 2-3 persons,320.00,,
-item9,Spicy Five Fingers Fried Chicken,Good for 2-3 persons,280.00,,
-item10,Fresh Fruit Medley,Good for 2-3 persons,300.00,,
-item11,Beef Tacos (Mexican Delicacy),Good for 2-3 persons,250.00,,
-item12,Dakdoritang,Spicy Chicken Soup,550.00,,
-item13,Chef Salad,Tossed Green Salad w/ Strawberry Sauce or Pineapple Sauce (Good for 2-3 persons),300.00,,
-item14,Cafe Will's Health Salad,"Orange, Grape, Cucumber w. Ginseng honey Sauce. (Good for 2-3 persons)",450.00,,
-item15,Beef Steak Tagalog with Onion,"Served with Soup of the Day on individual plate, rice & buttered vegetables. (Good for 1 person).",280.00,,
-item16,Kaderetang Baka,Served with Soup of the Day on individual plate & rice.(Good for 1 person).,300.00,,
-item17,Pork Pot-Roast with Bochoy,Served with Soup of the Day on individual plate & rice .(Good for 1 person).,250.00,,
-item18,Fish Fillet with Tartar Dressing,Served with Soup of the Day on individual plate & rice .(Good for 1 person).,290.00,,
-item19,Mixed Seafood Veggie,Served with Soup of the Day on individual plate & rice .(Good for 1 person).,280.00,,
-item20,Pinakbet with Rice,Served with Soup of the Day on individual plate & rice .(Good for 1 person).,200.00,,
-Camping Date,Name,Description,Price,,
-item1,Cheese Pizza,Korean Pizza sauce with pure cheese imported from Korea,860.00,,
-item2,Hawaiian Pizza,Ham and pineapple with Korean Pizza sauce and cheese,880.00,,
-item3,Potato Bacon Pizza,Combination of potato and bacon with Korean pizza sauce and cheese,880.00,,
-item4,Sweet Potato Pizza,Korean style Sweet Potato Pizza with beehive Sweet Potato paste,950.00,,
-item5,Pepperoni Pizza,Pepperoni imported from Korea with Korean Pizza sauce and cheese,890.00,,
-item6,Spicy Chicken Pizza,Korean Style Spicy Chicken with Korean Pizza Sauce and cheese,920.00,,
-item7,Bulgogi Pizza,Korean Style Spicy Chicken with Korean Pizza Sauce and cheese,950.00,,
-item8,Combination Pizza,"Combination of ham, bulgogi, pepperoni and sweet potato paste",950.00,,
-item9,Adidas on fire (DakBal),Grilled Menu,400.00,,
-item10,Cheesey Adidas on fire,Grilled Menu,550.00,,
-item11,Grilled Spicy BBQ Chicken,Grilled Menu,500.00,,
-item12,Grilled Soy BBQ Chicken,Grilled Menu,550.00,,
-Central Park Restaurant,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
-Chil Cheon Gak,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
-Chef's Home,Name,Description,Price,,
-item1,Pickles Tester,Menu of the day,150.00,,
-item2,Skinned Oysters w/ CGL,Menu of the day,270.00,,
-item3,Crispy Grouper Skin Salad,Menu of the day,250.00,,
-item4,Deep Fried Fish Tofu w/ SFS,Menu of the day,250.00,,
-item5,Trai Crispy Papaya Salad,Menu of the day,280.00,,
-item6,Trai Pan-Grilled Pork Salad,Menu of the day,290.00,,
-item7,Crackling Squid / Prawn,Menu of the day,90.00,,
-item8,Grouper Fillet,Menu of the day,400.00,,
-item9,Cream Dory,Menu of the day,240.00,,
-item10,Seafood,Menu of the day,600.00,,
-item11,King Prawns,Menu of the day,750.00,,
-item12,Steamed Chicken with Chinese Herbs and Red Apple Soup,Menu of the day,300.00,,
-item13,Boneless Chicken or Dory with 3FS,Menu of the day,350.00,,
-item14,Stir Fried Chicken w/Dried Chili,Menu of the day,150.00,,
-item15,Hookien Noodles,Menu of the day,280.00,,
-item16,Coffeelicious Pork,Menu of the day,280.00,,
-item17,Sweet and Sour Pork,Menu of the day,240.00,,
-item18,Thai Style Omelette,Menu of the day,130.00,,
-item19,Braised Pork Belly,Menu of the day,290.00,,
-item20,Norwegian Salmon,Menu of the day,550.00,,
-David's Tea house,Name,Description,Price,,
-item1,Polonchay w/ Seafood Soup,Hot Soup,295.00,,
-item2,Pumpkin w/ Seafood Soup,Hot Soup,295.00,,
-item3,Nido w/ Quail Egg Soup,Hot Soup,265.00,,
-item4,David's Special Noodles/ Hofan,Noodle Soup,205.00,,
-item5,Beef Brisket Noodles/ Hofan,Noodle Soup,190.00,,
-item6,Meat Ball Noodles/ Hofan,Noodle Soup,165.00,,
-item7,David's Hot Chicken Salad,Chicken,360.00,,
-item8,Honey Glazed Chicken,Chicken,320.00,,
-item9,Fried Breaded Chicken w/ Salted Egg,Chicken,280.00,,
-item10,Lemon Chicken,Chicken,270.00,,
-item11,Fried Breaded Chicken,Chicken,260.00,,
-item12,Beef Tenderloin w/ Black Pepper,Tender Beef,375.00,,
-item13,Sizzling Beef Tenderloin Chinese Style,Tender Beef,375.00,,
-item14,Beef Brisket in Pot,Tender Beef,350.00,,
-item15,Beef with Ampalaya,Tender Beef,290.00,,
-item16,David's Braised Pata Tim,Juicy Pork,520.00,,
-item17,Fried Crispy Pata,Juicy Pork,520.00,,
-item18,Spareribs with Special Sauce in Pot,Juicy Pork,300.00,,
-item19,Sizzling King Dao Spareribs,Juicy Pork,270.00,,
-item20,Shanghai Spring Roll,Juicy Pork,250.00,,
-Dencio's Bar and Grill,Name,Description,Price,,
-item1,Krunchy Kwek Kwek,Ang paboritong Pinoy street food. Deep fried breaded quail eggs served with Dencio's special vinegar,150.00,,
-item2,Calamares,Squid rings na marinated at breaded then deep fried to golden perfection. Each servings comes with a special calamares dip,209.00,,
-item3,Sizzling Atay at Balunbalunan,Crunchy and deep fried mix na mas pinasarap na special sauce. Served on a sizzling plate,150.00,,
-item4,Dencio's Molo Soup,"Our tasty take on the traditional pork, dumpling soup with spring onions",215.00,,
-item5,Macho Sisig Nachos,Nachos topped with tomato salsa at pina-Astig ng Dencio's Krispy Sisig. Dinagdagan pa ng cheese sauce drizzle for more flavor,199.00,,
-item6,Sizzling Chicken Isaw,"Fried chicken isaw with white onions, finger chili, and mayo for that zesty taste. Served on a sizzling plate",180.00,,
-item7,Hot and Spicy Tofulutan,Deep fried golden brown tofu na ginisa sa siling labuyo at red bell pepper. Simahan ng Dencio's vinegar,150.00,,
-item8,Gising Gising,"A mix of finely chopped Baguio beans, ground pork at coconut milk na may saktong anghang",260.00,,
-item9,Kare-Kareng Gulay,Sari-saring gulay cooked in rich and flavourful peanut sauce. Served with Dencio's bagoong para kumpleto ang lasap sarap,185.00,,
-item10,Ensaladang Mangga,"Chopped green mangoes, tomatoes at white onions served with special bagoong alamang",145.00,,
-item11,Tortang Talong with Crabmeat,"Grilled eggplant stuffed with crabmeat sauteed in garlic and onions, coated with battered egg and pan fried until golden brown. Served with catsup",160.00,,
-item12,Krispy Hipon,Battered seasoned shrimps deep fried for that delicious crisp. Served with a special dipping sauce para mas complete and food experience,165.00,,
-item13,Kilawin Bisaya,"Tuna cubes with cuts of cucumber peel doused in creamy white sauce. Sinamahan ng spring onions, red bell peppers, at finger chili",170.00,,
-item14,Sizzling Gambas,"Peeled shrimps sauteed in butter garlic, finger chili, at seasoning. Served on a sizzling plate",325.00,,
-item15,Pusit a la Pobre,Squid sauteed in garlic seasoning at white gravy. Served on a sizzling plate,279.00,,
-item16,Sizzling Tiyan ng Bangus,"Premium bangus belly cooked with carrots, Baguio beans and mushrooms, generously seasoned with gravy. Served on sizzling plate",319.00,,
-item17,Kangkong with Bagoong,Blanched kangkong served with special bagoong alamang,135.00,,
-item18,Baked Green Mussels,Dencio's well-loved baked mussels with grated cheese at paprika topping,399.00,,
-item19,Tripe and Tofu Skewers,Tripe at tofu on sticks made more delectable by our special soy glaze,195.00,,
-item20,Krispy Kangkong,Deep fried coated kangkong with a tasty dip,155.00,,
-Don Henrico's,Name,Description,Price,,
-item1,Homestyle Onion Rings,"Sweet onion rings, lightly breaded and deep-fried until golden crisp, served with our very own ranch dressing",180.00,,
-item2,Petite Mozzarella Sticks,Deep-fried mozzarella cheese coated in special Italian-seasoned breading served with our marinara sauce,190.00,,
-item3,Calamari Friti,"Tender calamari lightly battered and fried to golden finish, served with marinara sauce",190.00,,
-item4,Dip & Nachos,Warm cornmeal nachos served with creamy cheese sauce,210.00,,
-item5,Chicken Fingers & Potato Wedges,Chicken tenderloin deep-fried to golden brown with potato wedges served with honey mustard dressing,220.00,,
-item6,Caesar Salad,"Crisp lettuce on Caesar dressing with roasted garlic chips, tomato, olives, freshly grated parmesan cheese, crisp bacon crumbles and croutons",360.00,,
-item7,Nachos Salad Ole',"Taco beef, lettuce, tomatoes, onions, black olives, corn kernels served on a bed of crisp nacho chips with a Mexican-style dressing topped with grated cheddar cheese",440.00,,
-item8,Creamy Chicken Chowder,Chunky chicken and vegetables in a thick and flavorful cream soup topped with garlic croutons,85.00,,
-item9,Seafood Tomato Soup,A tasty fish and shellfish in a rich tomato broth served with roasted French bread,85.00,,
-item10,Hot Fish Sticks,"Fish fillet in a spicy marinade, battered, then deep fried served with rice and salad with our ranch dressing",240.00,,
-item11,Chicken Parmi,"Lightly-breaded chicken breast covered with marinara sauce topped with melted mozzarella cheese, served with cream pasta, corn and carrots",280.00,,
-item12,Oven Fried Chicken,"Non-breaded chicken, oven-fried till golden brown served with rice, gravy sauce, corn & carrots",280.00,,
-item13,Don Henrico's Buffalo Wings,"Traditional upstate New York style tender pieces of chicken wings marinated, cooked to perfection and coated with tangy BBQ sauce, served with our creamy ranch dressing sauce",780.00,,
-item14,Chicken Ala Buffalo,"Traditional upstate New York style tender pieces of chicken marinated, cooked to perfection and coated in tangy BBQ sauce, served with our creamy ranch dipping sauce",780.00,,
-item15,Captain Crunch Fried Chicken,"Tender cuts of chicken marinated in special seasoning and cooked to golden crisp perfection, crisp, tender and juicy inside, served with gravy sauce",780.00,,
-item16,Don Henrico's Supreme,"Don Henrico's very own creation, pepperoni, beef, ham, mushroom, pineapple tidbits, onion, bell pepper and black olives",950.00,,
-item17,Bacon Cheeseburger,"A great combination of bacon, beef, mushroom, onion, pickles topped with lettuce tossed with mayonnaise and tomato",890.00,,
-item18,Four Cheese Pizza,"Mozzarella, gorgonzola, cheddar and parmesan cheese baked with our own bechamels sauce",860.00,,
-item19,Beef Calzone,"Filled with pepperoni, beef, onion and bell pepper, plus 100% mozzarella cheese, homemade ricotta cheese and tasty cheese served with red sauce",320.00,,
-item20,Cheesy Baked Lasagna,"Lasagna rolls topped with home-made ricotta cheese, mozzarella cheese and sauteed beef chunks baked until cheese is bubbly, topped with red and white sauce sprinkled with parmesan cheese",320.00,,
-Elements Buffet,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
-El Costa Yuri's,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
-Ebai's Cafe & Pastry,Name,Description,Price,,
-item1,Filipino Breakfast,"choices of Longganisa, Tocino, Corned Beef or Boneless Daing na Bangus with Fried Egg and Garlic Rice",118.00,,
-item2,Continental Breakfast,Whole Wheat Bread with Butter Jam,88.00,,
-item3,Ebai's Caesar,Salads,140.00,,
-item4,Fresh Garden,Salads,118.00,,
-item5,Chicharon Bulaklak,Appetizers,182.00,,
-item6,Crispy Kangkong,Appetizers,108.00,,
-item7,Kuhol Sa Gata,Appetizers,98.00,,
-item8,Vegetable Sticks,Appetizers,65.00,,
-item9,Sizzliing Button Mushrooms,Appetizers,208.00,,
-item10,Blue Marlin,seasonal,142.00,,
-item11,Bacalao,seasonal,142.00,,
-item12,Salmon Belly,Sizzling Meal,118.00,,
-item13,T-Bone Steak,Sizzling Meal,148.00,,
-item14,Arroz Caldo,Merienda Specials,98.00,,
-item15,BLT,served with French Fries,108.00,,
-item16,Tuna Sandwich,served with French Fries,98.00,,
-item17,Chicken Sandwich,served with French Fries,98.00,,
-item18,Cheese Burger,served with French Fries,118.00,,
-item19,Toasted Bread,4pcs,55.00,,
-item20,Garlic Bread,4pcs,75.00,,
-Foggy Mountain Cookhouse,Name,Description,Price,,
-item1,Oven Roasted Whole Chicken,Butterflied whole chicken infused with fresh Italian herbs. Brick oven roasted for that succulent smoky taste - served with roasted veggies and potatoes.,"1,000.00",,
-item2,Chicken Parmesan Pie,"Thigh fillet seasoned with parmesan cheese, pan fried, with fresh tomato and basil sauce, layered with mozzarella cheese, topped with herbs and mashed potatoes and parmesan cheese, oven roasted for that crusty luscious pie goodness!",550.00,,
-item3,Grilled Chipotle Pork Chop,One inch thick pork chop marinated in chipotle spices and honey.. Southwestern flavor- a must try!,550.00,,
-item4,Porcheta,"Rolled boneless pork belly seasoned with Mediterranean herbs. In red wine reduction sauce and raisins. . My version of Italian roast pork. Crispy skin, juicy meat!",550.00,,
-item5,Fish and Squid Pie,"Medley of Giant Norwegian squid cutlets, cod loin or salmon cutlets, in cream and fennel seed sauce, topped with mashed potato, herb, cheese and crumbs. Baked to brown for that crispy crust.",600.00,,
-item6,Pan Fried White Fish Fillet,"Pan fried in olive oil. Crispy Crust. Topped with medley of tomatoes, basil and black olives in olive oil. Topped with parmesan cheese.",450.00,,
-item7,Smoked Salmon Carpaccio,"Thinly sliced smoked salmon with capers. Served on a bed of mixed greens drizzled with balsamic vinegar reduction, cold pressed extra virgin olive oil and chives. Health food. Cold dish.",700.00,,
-item8,Brick Oven Roasted Boneless Leg of Lamb,Lamb slow roasted on brick oven marinated overnight in Moroccan spices. Served with Middle Eastern veggies. Drizzled with fresh mint and yogurt sauce.,650.00,,
-item9,Greek Peasant Lamb Dish,"Lamb shoulder cuts, slow simmered with fresh rosemary and red wine, fall off the bone! Served on top of mashed potato. Melting pot of Greek and Italian dish.",600.00,,
-item10,Split Pea Soup,in ham hock stock with Italian garlic sausage,175.00,,
-item11,Penne Pasta with giant squid cutlets,in cold pressed extra virgin olive oil with parmesan cheese (good for two),250.00,,
-item12,Penne Pasta in egg sauce,with truffle oil and parmesan cheese (good for two),200.00,,
-item13,Cookhouse Banana Foster,our take on this classic dessert (good for two),200.00,,
-Forest House Bistro & Cafe,Name,Description,Price,,
-item1,Forest House Home Made Bagnet,Crispy fried pork belly with papaya chutney and bagnet salsa,195.00,,
-item2,Quesadillas,"A choice of special chicken, tuna or sausage with mushroom sauteed in butter with melted cheese filling in tortilla wrapper with red salsa",280.00,,
-item3,Assorted Grilled Homemade Sausages,"A combination of Bratwurst, Breakfast, Hungarian and Smoked sausages, sauteed in butter with onion rings",280.00,,
-item4,Calamares Fritos,Deep fried squid rings served with tartar sauce,190.00,,
-item5,Chicken Skin Chicharon,Crispy chicken skin chicharon served with chili garlic vinegar,160.00,,
-item6,Forest House Bouillabaisse,"A medley of seafood cream soup, served in a bread bowl",120.00,,
-item7,Potato Cheese Chowder,"Creamy potato with melted cheese, served in a bread bowl",120.00,,
-item8,Wild Mushroom Cream Soup,"Cream based soup with wild mushroom, served in a bread bowl",135.00,,
-item9,3 Dip Forest House Special Salad,"A huge mix of fresh lettuce, strips of cucumber, carrots and turnips with nuts, raisins and cherry tomatoes. Definitely meant to be shared, which you hand wrap and dip in our very own strawberry dressing, blue cheese and honey vinaigrette. Truly a Baguio experience!",420.00,,
-item10,Grilled Chicken Caesar's Salad,"Assorted lettuce with grilled chicken, pesto croutons, bacon bits and parmesan cheese in Caesar dressin",315.00,,
-item11,Salpicado Australian,Marinated tenderloin beef cubes sauteed to perfection served with garlic rice,525.00,,
-item12,Beef Tenderloin with Sweet peas in Ginger Spice,"Sauteed beef loin with sweet peas, ginger and red wine",430.00,,
-item13,Lengua con Setas,Ox tongue with mushroom sauce and green olive,355.00,,
-item14,Korean Beef Ribs,Tender portions of beef ribs on a delicious Korean sauce,345.00,,
-item15,Forest House wine Sauced Chicken,Grilled Chicken Breast with rich creamy white wine sauce and mushroom,295.00,,
-item16,Forest House Lamb,Grilled lamb marinated in mustard pie with garlic and Japanese soy sauce,525.00,,
-item17,Lamb Caldereta,"Mild Spicy lamb sauteed in olive oil and simmered in tomato, cheese, olives and pickle relish",545.00,,
-item18,Pork Steak with Mushroom,Marinated pork steak on the bed of fusilli pasta topped with champignon and shitake sauce,320.00,,
-item19,Twin Pork Chops with Apple Sauce,Grilled pork topped with an extra-ordinary chunky apple sauce,320.00,,
-item20,Sesame Crusted Fish Fillet,Pan seared Creamy Dory fillet crusted with black sesame seeds topped with asian mango salsa,295.00,,
-Fortune Hongkong Seafood Restaurant,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
-Giligan's Island,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
-Good Taste,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
-Gossip Coffee Shop,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
-Grumpy Joe,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
-Hill Station,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
-Hotel Veneracion bistro & Cafe,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
-Jay jay's Inasal,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
-Kubong sawali,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
-Kung Jeon Restaurant,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
-La Casa Bianca,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
-Le Chef,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
-Lemon and Olives Greek Taverna,Name,Description,Price,,
-item1,Saganaki,A delectable serving of imported pan-fried Greek cheese fresh lemon. The signature appetizer of lemon and olives,160.00,,
-item2,Traditional Greek Dips served with Homemade Pita Hummus,"A thick dip made from chickpeas, olive oil, lemon, garlic and tahini",130.00,,
-item3,Tzatziki,"Creamy yet tangy Greek yogurt dip made with olive oil, garlic, and cucumbers",120.00,,
-item4,Kolokithokeftedes,Crispy zucchini fritters served with creamy tzatziki sauce. A quirky way to kindle your appetite!,150.00,,
-item5,Spicy Soutzouki Sausage,Sausage made of beef that is guaranteed to tickle your taste buds with its exotic array of spices!,180.00,,
-item6,Poikilia,"The Parthenon of Greek appetizers! This is a plate of assorted appetizers such as a Greek village sausage, spicy soutzouki sausage, saganaki cheese, tzatziki dip and pita bread",320.00,,
-item7,Grilled Octopus,Handpicked fresh octopus grilled the right way; the Greek way,230.00,,
-item8,Kontosouvli,"Savoury pork slow, roasted over charcoal until devilishly tender. Marinated with Chef Takis' secret recipe",210.00,,
-item9, Lamb Gyros,"A pocket of flavor in a pita bread. Juicy slices of meat tucked away in a freshly baked pita filled with vegetables and Greek fries, doused with a generous serving of garlic, chili or tzatziki sauce",140.00,,
-item10,Lamb Souvlaki Plate,"Experience the taste of Greek street food! Souvlaki is a plate of specially seasoned grilled meat drizzled with Chef Takis' secret Greek sauce, served with pita bread and fries on the side and accompanied with garlic, chili and tzatziki dips",320.00,,
-item11,Lemon and Olive's Special Lamb Rack,Our signature lamb dish infused with select Greek herbs to bring out the fresh taste of the Mediterranean. Served with Greek salad on the side,590.00,,
-item12,Porterhouse Grilled Steak,"A slab of steak done the Greek Way, masterfully grilled to perfection. Served with vegetables and a choice of either fries, plain rice, lemon pilaf or pita",380.00,,
-item13,Grilled Calamari,"With vegetables and a choice of fries, pita, lemon pilaf rice or plain rice",290.00,,
-item14,Pastitsio,A plate of authentic Greek pasta. Bechamel sauce baked over ground beef and pasta,210.00,,
-item15,Moussaka,"Structured layers of potato, eggplant and ground beef, topped with lots of bechamel sauce",230.00,,
-item16,Stuffed Tomatoes and Peppers,"Tomatoes and peppers filled to the bursting point with specially seasoned ground beef, rice and tomato sauce. Bite into a tasty surprise. Served with potato wedges",205.00,,
-item17,Greek Style Spaghetti,"Spaghetti with a uniquely Mediterranean mindset. Golden melted mozzarella cheese over beef sirloin and spaghetti pasta, dashed with red sauce",260.00,,
-item18,Lamb Giouvetsi,A more special version of the heirloom recipe. Leg of lamb carefully roasted and served over special orzo pasta swimming in tomato sauce. Served with a side of roast potato and Greek salad,"4,180.00",,
-item19,Soutzoukakia,"Taste the flavor of Athens with these uniquely-Greek meat balls! Each meatball is baked to perfection and seasoned with thick Mediterranean species. The meatballs are then bathed with tomato sauce that adds a nice zesty kick to the dish. Served with either rice, pasta or Greek French fries","1,950.00",,
-item20,Briam,"A medley of roasted vegetables - eggplant, zucchini, potato, tomato and peppers - in olive oil seasoned with aromatic herbs. This is perfect on it own or accompanying your grilled lamb.",210.00,,
-Max's Restaurant,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
-Mr. Ching,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
-Nacho King,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
-Naruto,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
-O' Mai Khan,Name,Description,Price,,
-item1,Mongolian Hot Pot,"A Chinese favorite also known as the ""Steamboat"". A healthy soup based meal that you can cook right before your very eyes",160.00,,
-item2,Mongolian Barbeque,Smorgasboard-experiment making over a thousand concoctions with our eighteen sauces,210.00,,
-item3,BeefBurger,Super delicious pure beef burger served with our unique style of french fries,125.00,,
-item4,Cheeseburger,Thick sliced cheese added into your super delicious beef burger,140.00,,
-item5,Chunky Chicken,Chunky chicken cubes tastefully blended with special sauce. Served with our own special french fries,125.00,,
-item6,Flying Saucer (Adobo or Cheese),"The closest UFO experience that your palate will ever get, served with potato salad",110.00,,
-item7,German Hotdog Platter,"An original prepared for hotdog lovers, topped with relish and grated cheese. Served with potato salad",130.00,,
-item8,Chilidog Platter,Spicy red kidney beans bursting with flavor on a juicy hotdog sandwich with fries on the side,130.00,,
-item9,Tuna Platter,Tuna with a bread bun and potato salad on the side. Your choice of spicy or ordinary tuna,120.00,,
-item10,Paoburger,The vegetarian burger. Not all Mongolian warriors were carnivores,125.00,,
-item11,Dinuguan (with puto),Downright delicious. A classic even Mongolians cannot deny,100.00,,
-item12,Ag Pasta Khan,penne pasta with a flavoursome sauce of freshly chopped tomatoes. Topped with grilled chicken,120.00,,
-item13,Spaghetti,The meat sauce pasta we can't do without. Served with bread,105.00,,
-item14,Sotanghon Guisado,"A light ""after battle"" dish for the triumphant warrior",95.00,,
-item15,Palabok,Perfect for merienda. Noodles with all the trimmings you need to survive the rest of the afternoon,110.00,,
-Oh My Gulay,Name,Description,Price,,
-item1,Bulaklak Tempura,Tempura kalabasa blossoms with your choice of tempura sauce or chef's mayo,70.00,,
-item2,OMG Salad,"Our trademark salad of assorted greens, served with our blend of herb honey mustard dressing",120.00,,
-item3,Waldorfesto,"Tossed salad of apples, celery, potatoes, egg slices and nuts, with garlic mayo pesto",140.00,,
-item4,Cesar Asar,"Our version of Caesar salad minus the anchovies and bacon, enriched with our basil cheese croutons",120.00,,
-item5,KKK Sliders,Crispy tofu rolls on a bed of mixed greens tossed with honey mustard and Asian dressing,140.00,,
-item6,Talong Parmigiana,"Breaded eggplant over whole wheat bread, topped with our special red sauce, pesto and cheese",135.00,,
-item7,OMG Club Sandwich,"Double-decker sandwich of plum tomatoes, cucumber and fried egg with mixed greens",130.00,,
-item8,Anak Ng Putanesca,"Our version of putanesca, enriched with a hint of cayenne pepper",130.00,,
-item9,Kabute,"Oyster, shiitake, button mushrooms with bechamel sauce, and cheddar cheese",130.00,,
-item10,Pasta Mestizo,Combination of bechamel mushroom and pomodoro sauce,130.00,,
-item11,Chow-Chow,Egg noodles with fresh vegetables sauteed in garlic and flavored with soy hoisin,135.00,,
-item12,Oh My Gulay Rice,"Native brown rice with ten vegetables in season mixed with our Mongolian sauce, topped with steamed tofu and omelet",140.00,,
-item13,Mushroom Onion Crepe,"Three kinds of mushroom, caramelized onions and cheddar, topped with garlic sour cream and yoghurt sauce",130.00,,
-item14,Pestong Kamatis,Pesto and fresh tomatoes,130.00,,
-item15,Sibuyas Kabute Omelet,"Sauteed mushrooms with caramelized onions and eggs, served with basil cheese toast",110.00,,
-item16,Sili Omelet,"Sauteed red and green peppers, chili fingers, garlic, onions and eggs, with cheese basil toast",110.00,,
-item17,Mansanas,Crepe stuffed with caramelized apples,40.00,,
-item18,Super Sosy,Crepe stuffed with peaches,40.00,,
-item19,Dayap Iced Tea,Lime-infused brewed iced tea,75.00,,
-item20,Mangga Fresh,"Mango puree with brewed tea, served ice cold",75.00,,
-Ozark Diner,Name,Description,Price,,
-item1,French Toast,French Toast with your choice of meat,180.00,,
-item2,Ozark Benedict,"French Toast, American Bacon, poached eggs, and hollandaise sauce",200.00,,
-item3,Big American Breakfast,"3 eggs (any style), your choice of meat, biscuits",180.00,,
-item4,Hamburger,"All beef patty, cheddar cheese, mayo, house-made spicy pickle, lettuce, tomato and purple onion served on a toasted house made sesame bun",150.00,,
-item5,Meatloaf Sandwich,"The Ozark meatloaf on our toasted sandwich bread with mayo, onion and house-made spicy pickles",160.00,,
-item6,Grilled Cheese Sandwich,"The Ozark sandwich bread, buttered and toasted with a modern combination of cheeses",140.00,,
-item7,Pulled Pork Sandwich,Smoked pork shoulder with a spicy BBQ sauce and served on the Ozark sesame bun,150.00,,
-item8,Chicken Salad Sandwich,Creamy house-made chicken salad served on our own toasted sandwich bread,160.00,,
-item9,Nashville Hot Fried Chicken,Spicy fried chicken with two biscuits and a choice of sides,180.00,,
-item10,Ozark Meatloaf,A meaty slab of pork and beef with a glazed crust plus choice of two sides,140.00,,
-item11,Chicken Hot Pie,"A hot bowl of Chicken Stew with carrot, potato and green beans, topped with a buttery biscuit crust",120.00,,
-item12,Large Salad,"Lettuce, Tomato, Onion, a big scoop of Chicken Salad and served with a side of our house made Hundred Island Dressing and buttery croutons",160.00,,
-item13,French Fries,A generous portion of hand-cut house made fries,40.00,,
-item14,Pancakes,Stack of pancakes with your choice of meat,140.00,,
-item15,Hoppin' John,"Black Eyed Peas, slowly cooked with smoked ham",40.00,,
-item16,Mashed Potato & Gravy,Fluffy and buttery potato with a whole gravy,40.00,,
-item17,Pork Chop,A thick cut grilled pork chop with a choice of two sides,200.00,,
-item18,Green Beans,sauteed with onions,40.00,,
-item19,Mac and Cheese,Gooey cheese and pasta with a crunchy toast,40.00,,
-item20,Cabbage,Sauteed with bacon fat and vinegar,40.00,,
-Pancake House,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
-Patch Cafe,Name,Description,Price,,
-item1,Fruits and Oats,A healthy meal or oatmeal with fruits in season,125.00,,
-item2,Fluffy Pancakes,Banana Nutella or blueberry and cream cheese pancakes with whipped butter and syrup,150.00,,
-item3,French Toast,"Sour dough French toast with fruit compote, whipped cream and chocolate syrup",170.00,,
-item4,Your Own Omelet,"Your preferred ingredients in an omelet over a toast. Choose amount ham, tomato, onions, mushroom, bell pepper, potato and cheese",125.00,,
-item5,Pindang,"Carabao meat tapa with rice, egg, and a shot of tablea chocolate",160.00,,
-item6,Miners? Breakfast,"Longganisa served with homemade vinegar, garlic rice, salted egg relish and two eggs",130.00,,
-item7,Sardines,"Sauteed sardines served with scramble eggs, garlic rice",100.00,,
-item8,CPA,"Shredded adobo chicken and soft adobo pork jelly, over garlic rice",190.00,,
-item9,Patch Benedict,"A poached egg, strips of bacon and cheese sauce over slice of lefty bread brushed with garlic butter",150.00,,
-item10,Brunch Sampler,"A taste of each of our signature breakfast dishes - longganisa, carabao or beef tapa, danggit, 2 eggs, rice and a pancake",190.00,,
-item11,Walnut and Green Apple Salad,"Candied walnut, romaine, green apple, with a creamy sour cream dressing",140.00,,
-item12,Beyond Bolognese,the classic spaghetti dish with chunks of Spanish chorizo,180.00,,
-item13,Mac n' Cheese,Crisp and creamy cheeses melted over macaroni and topped with bacon bits,170.00,,
-item14,Chili Tuyo Marinara,"A combination of tuyo flakes, lime, chili and olive oil in linguine pasta",170.00,,
-item15,Panini BLTC,"Bacon, Lettuce, Tomatoes, Cheese",160.00,,
-item16,Bleu Burger,Our signature beef burger with blue cheese and ranch dressing,150.00,,
-item17,Grilled Cheese Pan con Tomate,3 Kinds of cheese and roasted tomatoes over a grilled baguette,150.00,,
-item18,4 Cheese,"Mozzarella, cheddar, parmesan, and bleu cheese",280.00,,
-item19,Prosciutto,"Prosciutto, roasted garlic and greens",280.00,,
-item20,Mountain Pizza,"Native smoked meat, beef, garlic, cherry tomatoes, and Baguio greens",300.00,,
-Picarre,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
-Point and Grill,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
-Q Bar,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
-Rasa Pura,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
-Red Lion Pub & Inn,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
-Red Station,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
-Rose Bowl,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
-Seafood Island Restaurant,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
-Secret Garden,Name,Description,Price,,
-item1,Seafood Tomato Chowder,"Shrimp, clams, mussels, squid , vegetables, mild chili",200.00,,
-item2,Mushroom Cream Soup,Ground button mushroom in onion and cream,115.00,,
-item3,Prosciutto & Cheese Salad,Fresh Baguio vegetables tossed with prosciutto & cheese,255.00,,
-item4,Romaine Salad,"Romaine, croutons other greens in Caesar dressing",185.00,,
-item5,Chef's Chicken Sandwich with Fries,Chicken sandwich served with fries,160.00,,
-item6,Secret Garden's Beef Tapa,Thinly sliced beef cooked in less sat,155.00,,
-item7,Chicken Breast Barbeque,Pan-grilled with our house sauce,150.00,,
-item8,Steamed Fish,Cream dory fish in basil cream sauce,220.00,,
-item9,Beef Steak,"Pan-grilled demi-glazed sauce with mash potatoes. Mushrooms cream soup and garlic bread, With side of button mushrooms, tomatoes, grilled onions and a glass of house wine or sprite/ coke.",600.00,,
-item10,House Wine,Sweet Red Wine/ White Wine,150.00,,
-item11,Bolognese,Beef & Tomatoes,185.00,,
-item12,Shrimp Broccoli Pasta,"Shrimp, broccoli, anchovies and pepper in olive oil",240.00,,
-item13,Garlic Pasta,"Garlic, fried garlic, anchovies and pepper in olive oil",170.00,,
-item14,Vongole in Olive Oil,"Clams, fried garlic and green chili olive oil sauce",175.00,,
-item15,Beef Bely Roast,Sumptuous belly in herbs,160.00,,
-item16,Honey Cured Beef,Beef in sweet oriental sauce,180.00,,
-item17,Beef Salpicao,"Stir- fried cubed beef, vegetables and butter",250.00,,
-item18,Pork Liempo,"Pan-grilled, marinated in our house sauce",165.00,,
-item19,Pork Ribs,"Pan-grilled, marinated in our house sauce",180.00,,
-item20,Cream Garlic Chicken,Chicken breast saute topped in creamy garlic sauce,220.00,,
-Steaks and Toppings,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
-Teriyaki Boy,Name,Description,Price,,
-item1,Gyoza,"Also known as potstickers. Japanese pork dumplings, steamed and seared until crisp, served with a tangy soy-based dipping sauce.",399.00,,
-item2,Miso Soup,"A classic Japanese soup of fermented soy beans, served with wakame seaweed and diced silken tofu",65.00,,
-item3,Aji Tamago,Flavorful soft boiled eggs with custard like egg yolk,30.00,,
-item4,Edamame,Crunchy green soy beans,90.00,,
-item5,Kani Salad,"Japanese crabstick with mayonnaise resting on top of a cucumber slaw, topped with fresh shrimp roe or Japanese caviar",175.00,,
-item6,Philly Cheese Steak Roll,An American classic with a Japanese twist. Teppanyaki beef with deep fried sweet onions topped with flame-torched cheese served with our own rolls dip,185.00,,
-item7,Crunchy Kani Roll,Kani with fresh mango rolled with crunchy kani strips on top,155.00,,
-item8,Sushi Platter,"Combination of two sushi variants from choices of California roll, Philly Cheese Steak Roll, Crunchy Kani Roll, and Dynamite Roll",170.00,,
-item9,Tamago Sashimi,"Japanese sweet omelette, served with fresh daikon and wasabi",105.00,,
-item10,Shake Sashimi,"Fresh Norwegian salmon, served with fresh daikon, pickled ginger and wasabi",220.00,,
-item11,Shake Sushi,"Fresh Norwegian salmon on top of vinegared rice, served with wasabi",110.00,,
-item12,Chashu Ramen Shoyu,"Ramen noodles served with chashu slices, aji, tamago, fish cake and wakame in shoyu soup base",245.00,,
-item13,Sukiyaki,"Traditional Japanese stew of sliced beef, silken tofu, shiitake mushrooms, vegetables, glass noodles and raw egg",320.00,,
-item14,Gyuniku Ramen,"Stir fried beef slices topped with egg yolk, spring onions, black and white sesame seeds on sesame oil-drizzled ramen noodles in shoyu soup base",245.00,,
-item15,Katsu Ju,"Breaded pork cutlet, deep-fried and simmered in sweet soy sauce, onions and leeks, with beaten egg, topped on a bed of steamed Japanese rice",345.00,,
-item16,Ebi Katsu Ju,"Breaded shrimps deep-fried and simmered in sweet soy sauce, onions and shiitake mushroom strips with beaten egg topped on a bed of steamed Japanese rice.",345.00,,
-item17,Beef Belly Teppanyaki Ju,Beef bacon slices stir-fried with teppanyaki sauce and onion slices on a bed of steamed Japanese rice,345.00,,
-item18,Wafu Steak,"Premium diced-cut beef, perfectly served and stir-fried with garlic and teppanyaki sauce, served with a siding of savory sesame moyashi",505.00,,
-item19,Asupara Bacon Maki,A modern Japanese dish of fresh asparagus spears wrapped in honey-glazed bacon strips seared to perfection,350.00,,
-item20,Tonkatsu,"Fillet of high quality tender pork, breaded and deep fried until golden brown. Served with cabbage salad and a drizzle of sesame dressing",280.00,,
-The Roadhouse barn,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
-The Kitchen,Name,Description,Price,,
-item1,Solomon's Bistek Supreme,"Slow cooked beef loin in soy-time marinade served with caramelized onions, garlic fried rice and quail sunny side up",168.00,,
-item2,The Kitchen's Homemade Meatloaf,"Finest meat blended with herbs and spices you'll love every bite of ill. Served with choice of toasted bread or garlic fried rice, egg sunny side up, tomato slice and pickled cucumber",168.00,,
-item3,Amang's Garlic Longganisa,"An Ilocano's pride from Pangasinan perfect with vegetable omelette, fried rice and pickled cucumber",158.00,,
-item4,Crispy Daing na Pingka,"Tomato omelet, adobo rice and Ensaladang Mangga on the side",148.00,,
-item5,Bonuan Boneless Bangus,"Paired with vegetable omelette, binagoongang rice and pickled papaya on the side",148.00,,
-item6,Duck Flavored Arroz Caldo,"Rice porridge simmered with aromatic duck stock, topped with sliced duck breast, garlic chips and century egg",98.00,,
-item7,Jenny's Superb Sisig Bangus,The belly part of bangus sizzle and burst with flavors from chef's signature marinade,138.00,,
-item8,Vietnamese Salad Rolls,"Fresh vegetables, flavored glass noodles rolled on rice paper served with a choice of shrimp or crabmeat filling in Hoisin-Tamarind sauce",138.00,,
-item9,Hoi Sin Chicken Taro in Molo Cups,With Pineapple-Chili dipping sauce,128.00,,
-item10,Chef's Salad,"Baguio's finest greens and vegetables, crispy vegetable chips, egg and honey glazed nuts topped with cold meat cuts with choice of strawberry-time or pepper cream dressing",178.00,,
-item11,Ensalada ni Caesar,"Our own version if Caesar salad mode of duck egg mayo topped with herbed croutons, Native longganisa bits and parmesan cheese",158.00,,
-item12,Crispy Pata,Classic main dish prepared the Kitchen's way. Our own version of the Filipino favorite pork recipe,488.00,,
-item13,Roasted Pork Ribs with Homemade Barbecue Sauce,"Prime cut of pork ribs simmered with aromatics and rubbed with the finest herbs and spices, surely a dish fit for your cravings",278.00,,
-item14,Chicken Tenders,Crispy strips of chicken fillet in herbed batter with our signature mix of honey mustard for the sauce,228.00,,
-item15,Thai Chicken Curry,"Cooked in the style of the Kitchen, our chicken curry is flavored with a variety of spices that makes this comfort food worth indulging for",228.00,,
-item16,Chapchae,"Stir-fried glass noodles with julienned carrots, bell pepper and marinated chicken, fish cake, seasoned with oyster sauce and sesame oil",228.00,,
-item17,The Kitchen's Burger,"Our finest beef-mushroom patty over melted cheese, pineapple ring, roasted vegetables and fresh lettuce with thousand island spread",168.00,,
-item18,Top Down Ham N' Cheese Chicken Sandwich,Cordon Bleu-style chicken and fresh lettuce in wheat bread served with potato chips on the side,168.00,,
-item19,Creamy Bacon and Mushroom Linguine,Creamy and indulgent comfort food at its very best,228.00,,
-item20,Andrej's Meatballs Spaghetti,"A critic's choice with beef Bolognese meatballs topped with grated parmesan cheese, served with pan roasted garlic buttered pan de sal",238.00,,
-Urban Seoul,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
-Under the tree book cafe,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
-Vizco's Restaurant and Bakeshop,Name,Description,Price,,
-item1,,,,,
-item2,,,,,
-item3,,,,,
-item4,,,,,
-item5,,,,,
-item6,,,,,
-item7,,,,,
-item8,,,,,
-item9,,,,,
-item10,,,,,
-item11,,,,,
-item12,,,,,
-item13,,,,,
-item14,,,,,
-item15,,,,,
-item16,,,,,
-item17,,,,,
-item18,,,,,
-item19,,,,,
-item20,,,,,
+50's Diner,Name,Description,Price
+item1,Chicken Spears,Spicy loin of chicken deep fried with hot spicy breading nuggets style,100.00
+item2,White Chicken,Pcs of chicken marinated with herbs then steam to perfection. Serve with rice,100.00
+item3,You and I,"Deep fried breaded ground beef and ground Chicken, top with tartar and mayo sauce ala Croquet",100.00
+item4,Butterfly Shrimp,Battered shrimp then deep fried until golden brown. Serve with potato chips,170.00
+item5,Pasta and Garlic Shrimp,Garlic shrimp on the bed of pasta ala 50's diner. Serve with bread,135.00
+item6,Mix Grill,"Worldwide favorite, composition of minute steak, pork chop hotdog and chicken. All grilled to perfection, served w/ fries and sauteed vegetable",195.00
+item7,She,"Her legs, her chop, her breaded fish, her minute steak, her hotdog, her fries and vegetable. Most especially her dessert",185.00
+item8,Guys On The Hood,"A combination of pork chop, slice pizza, chicken, spaghetti and garlic bread, serve w/ fries and vegetable",135.00
+item9,S/S,"Steak and shrimp the cruisers favorites, served w/ fries and vegetables",140.00
+item10,Cordon Bleu,"Breaded pork loin stuffed w/ ham and cheese, fried and crispy served w/ fries or rice",135.00
+item11,Chicken Cordon Bleu,Chicken stuffed w/ ham and cheese fried till golden brown. Served w/ fries or rice,135.00
+item12,Chop and Chop,pcs of deep fried chicken until golden brown served w/ fries or rice,140.00
+item13,Schnitzel,"One of the Europeans favorites breaded pork tenderloin dish, served w/ vegetable and rice",130.00
+item14,G 50's Beef Stew,We claimed that the best way to cooked beef is to stew it on its own juice,120.00
+item15,Grilled Squid,"Squid stuffed w/ carrots, beans and chops onions, then grilled. Served w/ fries or rice",140.00
+item16,Fish and Chips,"The traditional, English slice fish fillet, deep fried in batter served w/ fries",135.00
+item17,Tanguigui Steak,"50's diner catch of the day grilled to perfection, served with rice or fries",155.00
+item18,Chili Con Carne,The winner and big time traditional and classical cooking of carne served w/ toast bread,115.00
+item19,Golden Brown Fish Fillet,"Diners catch of the day. And deep fried until golden brown, served w/ rice",130.00
+item20,Gangsta Gangsta,"Scarface warriors favorite, grilled porkchop, fried chicken, veg in oyster sauce, chicken roll, rice and egg",140.00
+Amare La Cucina,Name,Description,Price
+item1,Insalata Verde,Fresh garden greens with vinaigrette dressing and parmigiano reggiano.,225.00
+item2,Insalata Di Pollo,Chicken breast and vegetable salad tossed with vinaigrette dressing and parmigiano reggiano.,255.00
+item3,Insalata Di Gamberoni,Shrimps and vegetable salad tossed with vinaigrette dressing and parmigiano reggiano.,315.00
+item4,Mariannes's Special,"Vegetable salad with arugula leaves, caramelized walnut, and sun-dried tomatoes, topped with special dressing.",335.00
+item5,Beef Carpaccio,"Thinly sliced raw beef tenderloin with extra virgin olive oil, parmigiano reggiano shavings, and salt and pepper.",295.00
+item6,Orzo,"Rice-shaped pasta with garlic, olive oil, and chili flakes, with freshly grated parmigiano reggiano.",220.00
+item7,Aglio E Olio,"Garlic, olive oil, and chili flakes, with freshly grated parmigiano reggiano.",225.00
+item8,Pesto Alla Genovese,Homemade basil pesto sauce with freshly grated parmigiano reggiano.,285.00
+item9,Ala Carbonara,"Cream, bacon, and egg, with freshly grated parmigiano reggiano and parsley.",285.00
+item10,Nutella Pizza,"Pizza with a spread of Nutella chocolate, topped with vanilla ice cream and caramelized walnuts.",260.00
+item11,Affogato,An Italian coffee dessert made up of a scoop of vanilla ice cream and a shot of espresso poured over.,130.00
+item12,Gelato,Homemade Italian flavored ice cream.,160.00
+item13,Pizza Con Prosciutto,"Plum tomatoes, mozzarella, prosciutto, arugula, olives, and a dash of oregano.",540.00
+item14,Foie Gras Pizza,"Mozzarella, basil, white truffle oil, and foie gras (duck liver).",595.00
+item15,Lamb Pizza,"Plum tomatoes, mozzarella, lemon, special spice, and extra virgin olive oil, topped with alfalfa.",560.00
+item16,Wagyu Meatball Pizza,"Wagyu meatballs, mozzarella, and crushed tomatoes, with roasted garlic.",720.00
+item17,Arrabiata Pizza,"Spicy marinara sauce topped with mozzarella, crispy bacon, and onions.",450.00
+item18,Goat Cheese Pizza,"Goat cheese, mozzarella, and crushed tomatoes, topped with sundried tomato.",570.00
+item19,Vegetarian Pizza,"Pesto and tomato sauce with zucchini, bell pepper and garlic.",450.00
+item20,Roasted Garlic Mushroom Pizza,"Fresh button mushroom, roasted garlic, and crushed plum tomatoes, topped with basil and oregano.",445.00
+Arca's Yard,Name,Description,Price
+item1,Benguet Coffee,Black,45.00
+item2,Frothy Coffee,No Description,50.00
+item3,Tarragon Tea,Fresh,50.00
+item4,Arca's Cloud Tea,with cream & wild honey,60.00
+item5,Lemon Grass Tea,lemon tea with honey,45.00
+item6,Cacao Hot Choco,arcas cacao,75.00
+item7,Bottled Water,mineral water,25.00
+item8,Cucumber Smoothie,blend fresh cucumber ,75.00
+item9,Pine Apple Smoothie,blend fresh pineapple,75.00
+item10,Banana Smoothie,blend fresh banana,75.00
+item11,Mango Smoothie,ripe or green mango (Seasonal),75.00
+item12,Strawberry Smoothie,blend fresh strawberries (Seasonal),75.00
+item13,Water Melon Smoothie,fresh watermelon with milk,75.00
+item14,Arca's Sweet Potato Ala Mode,Docto Pie or Camote Pie,95.00
+item15,Bread wuth Special Dip, bread with homemade arcas special sauce,75.00
+item16,French Toast,homemade french toast,85.00
+item17,Carrot Pie Ala Mode,carrot pie that makes you want for more,95.00
+item18,Rhubard Pie,Seasonal,95.00
+item19,Yogurt with Wild Honey,creamy youghart mixed with honey,85.00
+item20,Softdrinks,"Coke, Royal, Sprite & Orange",25.00
+Beggang Resto Grill,Name,Description,Price
+item1,Tapang Taal,Served with Garlic rice & egg,110.00
+item2,Fried Boneless Bangus,Served with Garlic rice & egg,120.00
+item3,Ham and Cheese Omellete,Served with Garlic rice & egg,120.00
+item4,Vegetarian Omelet,Served with Garlic rice & egg,120.00
+item5,Meal A,Lechon Kawali with Pinakbet & Rice,165.00
+item6,Meal B,Mama's Asian Fried Chicken with Pancit Canton & Rice,165.00
+item7,Meal C,Fish Fillet in Sweet and Sour Sauce with Rice,120.00
+item8,Meal D,Pork BBQ (3 pcs) with Buttered Vegetables and Rice,120.00
+item9,Meal E,Grilled Pork Chops with Gravy and Buttered Vegetables,165.00
+item10,Meal F,"Stuffed Pork Loin with Ham and Cheese, topped with Gravy, Buttered Vegetables and Rice",199.00
+item11,Meal G,Pork Spareribs (approx. 450gms) BBQ sauce served with buttered Vegetables and Rice,220.00
+item12,Set A,"Kare-Kare, Lechon Kawali, Balamban Chicken Tinuno (500gms), Shanghai Lumpia, Plain Rice (5 cups)",830.00
+item13,Set B,"Pork Sinigang sa Miso, Mixed Seafood in Garlic Butter Sauce, Chicharon Isda, Chicken BBQ (500gms), Plain Rice (5 cups)",910.00
+item14,Set C,"Beef Pochero, Grilled Liempo (400gms), Balamban Chicken Tinuno (500gms), Fresh Lumpia Salad, Plain Rice (5cups)",850.00
+item15,Set D,"Nilagang Baka, Mama?s Asian Fried Chicken (500gms), Sizzing Garlic Tuna, Fresh Lumpia Salad, Plain Rice (5 cups)",840.00
+item16,Set E,"Beef Kaldereta, Chicken BBQ (500gms), Grilled Boneless Bangus, Sizzling Seafood Express, Plain Rice (5 cups)",930.00
+item17,Set F,"Sinigang na Tuna sa Miso, Chicken BBQ (500gms), Tinunong Tenga ng Baboy (Sisig), Dinuguan, Plain Rice (5cups)",890.00
+item18,Set G,"Nilagang Balayan, Grilled Tuna Belly (450gms), Chicken Adobo in Tumeric Sauce (Adobong Dilaw), Grilled Liempo, Plain Rice (5 cups)","1,050.00"
+item19,Pinoy Quesadillas (Sharing),"Made with our very own garlic longganisa, topped with fresh veggies and cheese, sandwiched in grilled tortillas",235.00
+item20,Mango Shake,Ripe/Green,75.00
+Baguio Craft Brewery,Name,Description,Price
+item1,Fish and Chips,"Beer battered dory fish, deep fried to crisp and served with potato fries. Accompanied with tartar, ketchup and our very own Pinakurat",320.00
+item2,Yakitori,"Skewer of marinated chicken cubes and vegetables, grilled and glazed with special barbecue sauce",320.00
+item3,Ribs Platter Family,"Baguio Craft Brewery's grilled fall off-the bone ribs, basted with Zigzagger beer BBQ sauce, accompanied with Cajun spiced shrimp, juicy corn on the cob & crispy fries","1,149.00"
+item4,Stout Isaw,"Our very version of Isaw, marinated with stout beer, grilled and topped with corn salsa",280.00
+item5,Ribs Platter Solo,"Half pack ribs basted with Zigzagger beer BBQ sauce, served with juicy corn on the cob and crispy fries",479.00
+item6,Premium Sausage Platter,"A platter of premium sausages (Hungarian, Schublig, Kielbasa), Bruschetta, caramelized onion, cheese and grainy mustard",550.00
+item7,Stinky Big Dane,Ground beef patty stuffed with jalapeno and bleu cheese. Served with crispy fries,400.00
+item8,Pulled Pork Muffins,"Served on a bed of toasted English muffin, topped with diced green apples & sour cream sauce, a side of cabbage & apple slaw, and crispy fries",290.00
+item9,Chicken Inasal,"Beer marinated chicken thighs, grilled and served with roasted vegetables and rice",300.00
+item10,Smoked Pork Belly,"Home smoked pork belly, deep fried and glazed with our special barbecue sauce. Served with rice and grilled vegetable",380.00
+item11,Beef Nachos,"Nacho chips overloaded with beef, cheese and vegetables. Served with our in-house garlic sauce and salsa",320.00
+item12,Chicken Quesadillas,Homemade tortillas filled with grilled chicken and fresh vegetables,250.00
+item13,Buffalo Wings,"Classic chicken wings, deep fried to perfection coated with our special spicy buffalo sauce. Served with housemade bleu cheese dip and vegetable sticks",350.00
+item14,Salt and Pepper Wings with Chips,"A less spicy alternative to our buffalo wings, chicken wings deep fried, seasoned with sea salt and cracked black pepper.",350.00
+item15,Fish Tacos,"A trio of soft tortilla with grilled spiced dory fish on a bed of fresh sliced lettuce topped with fresh chopped tomato, onion and cilantro. Best served with our housemade salsa",350.00
+item16,Pork Canitas,Spiced pulled pork on a bed of soft tortilla shell topped with fresh vegetables,320.00
+item17,Crispy Ruffles,"Deep fried pork ruffles, spiced and served with Pinakurat.",320.00
+item18,Chicken Skin,Chicken skin marinated with throat-cutter beer deep-fried to crisp and seasoned well. Served with Pinakurat dressing,300.00
+Cafe Adriana by Hill Station,Name,Description,Price
+item1,English Muffin,Cream cheese & jam,100.00
+item2,Pinoy Breakfast,"2 eggs, garlic rice, pickled cucumber",200.00
+item3,Country Breakfast,"2 eggs, country fries, homemade bread, butter, jam",200.00
+item4,Omelette,"2 eggs, home fries, homemade bread, butter, jam",200.00
+item5,Tapang Usa,"2 eggs, pickled cucumber, garlic rice",230.00
+item6,Baboy Damo,"2 eggs, pickled cucumber, garlic rice",230.00
+item7,Spanish Chorizo,"Scrambled eggs, home fries, bread, butter, jam",230.00
+item8,Stuffed French Toast,"2 thick slices, caramelized mangoes, whipped cream, maple syrup",185.00
+item9,Eggs Benedict,"Poached eggs, home-smoked ham, English muffin, side salad, our own olive oil hollandaise",230.00
+item10,Paella de Legumbres,"Roasted eggplant, zucchini, red & green peppers, green beans, cauliflower, broccoli, mushrooms, squash, peas",360.00
+item11,Pollo Y Chorizos,"Chicken, a variety of homemade sausages & sweet peppers",375.00
+item12,"Lengua, Setas Y Aceitunas","Ox tongue, chorizo, mushrooms & olives",395.00
+item13,Negra,All seafood & squid ink,395.00
+item14,Solomillo con Cebollas,"Tenderloin steak, caramelized onions",395.00
+item15,Bistecca y Carabineros,"Steak and prawn, lemon butter sauce",395.00
+item16,Saigon Steak Sandwich,"Marinated beef, caramelized onions & herbs, baguette",195.00
+item17,Salmon Burger,"Dark chocolate bun, lettuce & onion",220.00
+item18,Reuben,"Fresh corned beef (USDA), homemade sauerkraut, melted cheese",250.00
+item19,Mussel and Clam Marinera,"Mussel & clams, paprika, lots of garlic, white wine, parsley",140.00
+item20,Duck & Chicken Liver Pate' on Toast,"Pickled beets, onions, kumquat chutney",130.00
+Cafe in the sky,Name,Description,Price
+item1,Crispy Sky Rolls,Starters,130.00
+item2,Fried Pork with Tofu,"Savory pork stir fried in oyster and soy sauce over warm, silky soft tofu",130.00
+item3,French Fries,served with special sauce,110.00
+item4,Nachos with Cheese,nachos served with creamy cheese sauce,110.00
+item5,Nachos with Salsa,"nachos served with spring onion, tomato, capsicum, parsley, olive oil and lime juice. Season with salt and pepper.",110.00
+item6,Beef with Oyster Sauce,Stir fried beef with oyster sauce,160.00
+item7,Fried Chicken Rice,Chicken with a house speacialty of cafe in the sky,140.00
+item8,Sky Rice,homemade authentic rice by sky cafe,165.00
+item9,Beef with Broccoli or Cauliflower,Stir fried beef with oyster sauce mixed with fresh cauliflower,225.00
+item10,Crispy Lechon Kawali,a popular Filipino dish made with pork belly simmered until tender and then deep-fried until golden and crisp,250.00
+item11,Fried Lemon Chicken,"chicken pieces coated in batter, then rolled in almond slivers and deep-fried, and served with the lemon-glaze sauce.",215.00
+item12,Kung Fu Chicken,House Specialties,215.00
+item13,Sweet & Sour Boneless Bangus,Fried Boneless bangus mixed with sweet and sour sauce,200.00
+item14,Sizzling Chili Hotdogs with Onions,Stir fried hotdogs with chili sauce topped with onions,175.00
+item15,Bangus (Milkfish) Sisig,Hot plates with egg,210.00
+item16,Pork Sisig,"shredded pork with onions, chili peppers and lemon extract",210.00
+item17,Sky Burger,Topped with bacon & deep fried onion rings in BBQ sauce,255.00
+item18,Ultimate Cheese Burger,Topped with caramelized onions,225.00
+item19,Club Sandwich,"sliced cooked poultry, fried bacon, lettuce, tomato, and mayonnaise",240.00
+item20,Grilled Cheese Sandwich,Grill until lightly browned and flip over; continue grilling until cheese is melted,130.00
+Cafe Will,Name,Description,Price
+item1,Grilled Black Jack Ribs,"Big Size beef w/ Black Jack Sauce, Buttered vegetables, Chef?s Saffron Rice or Fried Potato",400.00
+item2,Texas Pork Ribs,"5pcs Special Pork Ribs, Buttered Vegetables, Chef?s Saffron on Rice of Fried Potato",350.00
+item3,Grilled Chicken Breast in White Wine Sauce,"Buttered Vegetables, Chef's Saffron Rice of Fried Potato",320.00
+item4,Grilled Chicken Breast Teriyaki,"Oriental Vegetables, Chef's Saffron Rice",320.00
+item5,Pork BBQ,"Buttered Vegetables, Chef?s Saffron or Fried Potato",280.00
+item6,Grilled Chicken Drum Stick,"4pcs Chicken Drum stick, Buttered Vegetables, Chef?s Saffron Rice",300.00
+item7,Shrimps Tempura,"(good for 3-4 persons), Fried Shrimps & Vegetables",500.00
+item8,Pork Sisig,Good for 2-3 persons,320.00
+item9,Spicy Five Fingers Fried Chicken,Good for 2-3 persons,280.00
+item10,Fresh Fruit Medley,Good for 2-3 persons,300.00
+item11,Beef Tacos (Mexican Delicacy),Good for 2-3 persons,250.00
+item12,Dakdoritang,Spicy Chicken Soup,550.00
+item13,Chef Salad,Tossed Green Salad w/ Strawberry Sauce or Pineapple Sauce (Good for 2-3 persons),300.00
+item14,Cafe Will's Health Salad,"Orange, Grape, Cucumber w. Ginseng honey Sauce. (Good for 2-3 persons)",450.00
+item15,Beef Steak Tagalog with Onion,"Served with Soup of the Day on individual plate, rice & buttered vegetables. (Good for 1 person).",280.00
+item16,Kaderetang Baka,Served with Soup of the Day on individual plate & rice.(Good for 1 person).,300.00
+item17,Pork Pot-Roast with Bochoy,Served with Soup of the Day on individual plate & rice .(Good for 1 person).,250.00
+item18,Fish Fillet with Tartar Dressing,Served with Soup of the Day on individual plate & rice .(Good for 1 person).,290.00
+item19,Mixed Seafood Veggie,Served with Soup of the Day on individual plate & rice .(Good for 1 person).,280.00
+item20,Pinakbet with Rice,Served with Soup of the Day on individual plate & rice .(Good for 1 person).,200.00
+Camping Date,Name,Description,Price
+item1,Cheese Pizza,Korean Pizza sauce with pure cheese imported from Korea,860.00
+item2,Hawaiian Pizza,Ham and pineapple with Korean Pizza sauce and cheese,880.00
+item3,Potato Bacon Pizza,Combination of potato and bacon with Korean pizza sauce and cheese,880.00
+item4,Sweet Potato Pizza,Korean style Sweet Potato Pizza with beehive Sweet Potato paste,950.00
+item5,Pepperoni Pizza,Pepperoni imported from Korea with Korean Pizza sauce and cheese,890.00
+item6,Spicy Chicken Pizza,Korean Style Spicy Chicken with Korean Pizza Sauce and cheese,920.00
+item7,Bulgogi Pizza,Korean Style Spicy Chicken with Korean Pizza Sauce and cheese,950.00
+item8,Combination Pizza,"Combination of ham, bulgogi, pepperoni and sweet potato paste",950.00
+item9,Adidas on fire (DakBal),Grilled Menu,400.00
+item10,Cheesey Adidas on fire,Grilled Menu,550.00
+item11,Grilled Spicy BBQ Chicken,Grilled Menu,500.00
+item12,Grilled Soy BBQ Chicken,Grilled Menu,550.00
+Classic Savory,Name,Description,Price
+item1,Shanghai Rolls,"Served with Classic/Buttered Savory Chicken, Rice and 16oz drink. For dine-in only",119.00
+item2,Pancit Canton,"Served with Classic/Buttered Savory Chicken, Rice and 16oz drink. For dine-in only",119.00
+item3,Creamy Fish Fillet,"Served with Classic/Buttered Savory Chicken, Rice and 16oz drink. For dine-in only",119.00
+item4,Sweet & Sour Pork,"Served with Classic/Buttered Savory Chicken, Rice and 16oz drink. For dine-in only",119.00
+item5,Chopsuey,"Served with Classic/Buttered Savory Chicken, Rice and 16oz drink. For dine-in only",119.00
+item6,Four Season String Beans,"Served with Classic/Buttered Savory Chicken, Rice and 16oz drink. For dine-in only",119.00
+item7,E-Meal 1,"Savory Chicken, Shanghai Rolls, Plain Rice, 16 oz drinks",119.00
+item8,E-Meal 2,"Savory Chicken, Pancit Canton, Plain Rice, 16 oz. drinks",119.00
+item9,E-Meal 3,"Savory Chicken, Creamy Fish Fillet, Plain Rice, 16 oz. drinks",119.00
+item10,E-Meal 4,"Savory Chicken, Sweet & Sour Pork, Plain Rice, 16 oz. drinks",119.00
+item11,E-Meal 5,"Savory Chicken, Chopsuey, Plain Rice, 16 oz. drinks",119.00
+item12,E-Meal 6,"Savory Chicken, Four Season String Beans, Plain Rice, 16 oz. drinks",119.00
+item13,Combo A,"Good for 2 persons. 1/2 Chicken, Rice, Savory Shanghai Rolls, Pancit Canton",335.00
+item14,Combo B1,"Good for 1 person. 1/4 Chicken, Salt & Pepper Spareribs, Rice, Special Turon, Drinks",215.00
+item15,Combo B2,"Good for 1 person. 1/4 Chicken, Sweet and Sour Pork, Rice, Special Turon, Drinks",215.00
+item16,Combo B3,"Good for 1 person. 1/4 Chicken, Creamy Fish Fillet, Rice, Special Turon, Drinks",215.00
+item17,Combo B4,"Good for 1 person. 1/4 Chicken, Salt & Pepper Squid, Rice, Special Turon, Drinks",215.00
+item18,Combo C1,"Good for 2 persons. 1/2 Chicken, Pancit Canton, Salt & Pepper Spareribs, Rice, Special Turon, Drinks",415.00
+item19,Combo C2,"Good for 2 persons. 1/2 Chicken, Pancit Canton, Sweet & Sour Pork, Rice, Special Turon, Drinks",415.00
+item20,Combo C3,"1/2 Chicken, Pancit Canton, Creamy Fish Fillet, Rice, Special Turon, Drinks",415.00
+Chef's Home,Name,Description,Price
+item1,Pickles Tester,"peppers, both hot and sweet, come in all shapes and colors",150.00
+item2,Skinned Oysters w/ CGL,coated with seasoned flour dipping once in red wine then recoated,270.00
+item3,Crispy Grouper Skin Salad,thai Crispy Papaya Salad,250.00
+item4,Deep Fried Fish Tofu w/ SFS,Process tofu and salmon until smooth,250.00
+item5,Trai Crispy Papaya Salad,Menu of the day,280.00
+item6,Trai Pan-Grilled Pork Salad,"tender juicy pork paired with the fragrant lemon grass, kaffir lime leaves and other seasonings, make this warm salad a keeper.",290.00
+item7,Crackling Squid / Prawn, deep fried crackers made from starch and prawn that serve as flavoring,90.00
+item8,Grouper Fillet, drizzle a little olive oil and some fresh lemon juice over the fresh grouper,400.00
+item9,Cream Dory,pan-fried fish and a sauce made with Knorr Ginataang Gulay Complete Recipe Mix and cream,240.00
+item10,Seafood,Menu of the day,600.00
+item11,King Prawns,Menu of the day,750.00
+item12,Steamed Chicken with Chinese Herbs and Red Apple Soup,This delicious and healthy Chinese herbal chicken soup not only warms your heart but also heals your body and soul,300.00
+item13,Boneless Chicken or Dory with 3FS,Menu of the day,350.00
+item14,Stir Fried Chicken w/Dried Chili,"the nutty flavour and crunch of toasted (or fried) peanuts or cashew nuts, chunks of juicy, tender chicken with garlic and onion slivers, all tossed",150.00
+item15,Hookien Noodles,Menu of the day,280.00
+item16,Coffeelicious Pork,rolled in coffee sauce then sprinkled with sesame seeds,280.00
+item17,Sweet and Sour Pork,has a tangy flavor that everyone will surely love,240.00
+item18,Thai Style Omelette,a common snack to eat on the street or a quick breakfast or lunch,130.00
+item19,Braised Pork Belly,has a perfectly balanced sweet and savory flavo,290.00
+item20,Norwegian Salmon,"delivers a clean taste and texture that comes from a slow, natural growth process and exceptional regulations to ensure safety",550.00
+David's Tea house,Name,Description,Price
+item1,Polonchay w/ Seafood Soup,Crab Legs with Garlic Butter Sauce,295.00
+item2,Pumpkin w/ Seafood Soup,"all kinds of seafood soups and stews, from all cultures with land near the sea based from pumpkins",295.00
+item3,Nido w/ Quail Egg Soup,soup with mock bird's nest and boiled quail eggs,265.00
+item4,David's Special Noodles/ Hofan,special homemade noodles by Davids tea house,205.00
+item5,Beef Brisket Noodles/ Hofan,used Chinese dry aromatics and beef with marbled fat making a delicious rich beef noodle soup,190.00
+item6,Meat Ball Noodles/ Hofan,used Chinese dry aromatics and meat with marbled fat making a delicious rich beef noodle soup,165.00
+item7,David's Hot Chicken Salad,"added fresh chopped basil, scallions with the green parts, chopped red pepper, dried cranberries and sugar coated walnuts instead of almonds",360.00
+item8,Honey Glazed Chicken,"super-simple recipe makes a crisp-tender chicken with a perfect, sticky glaze",320.00
+item9,Fried Breaded Chicken w/ Salted Egg,a delicious and rich tasting fried chicken in a special creamy sauce that is very popular and trendy  in Singapore,280.00
+item10,Lemon Chicken,"coated in a butter and herb sauce, then roasted to perfection",270.00
+item11,Fried Breaded Chicken,Chicken Dip into beaten eggs and then coat with bread crumbs,260.00
+item12,Beef Tenderloin w/ Black Pepper,"Sprinkle generously with kosher salt and sugar, which will deepen the savory flavors",375.00
+item13,Sizzling Beef Tenderloin Chinese Style,Tender steak cooked in a sweet sauce - tastes just like you get in the local Chinese restaurant.,375.00
+item14,Beef Brisket in Pot,"a pot roast-style dish where brisket is slowly braised in a rich gravy and more often than not vegetables like onions, carrots, and potatoes",350.00
+item15,Beef with Ampalaya,Beef in Oyster Sauce Stir Fry with Ampalaya,290.00
+item16,David's Braised Pata Tim,low and slow in a sweet and salty sauce with bok choy and mushrooms,520.00
+item17,Fried Crispy Pata,"Gently add pork leg and deep-fry, turning as needed, until golden",520.00
+item18,Spareribs with Special Sauce in Pot,Succulent pork back ribs cooked in beer and coated with a special davids sauce,300.00
+item19,Sizzling King Dao Spareribs, pork back ribs cooked in beer and coated with a special davids sauce,270.00
+item20,Shanghai Spring Roll,"a dish made-up of ground pork or beef, minced onion, carrots, and spices with the mixture held together by beaten egg.",250.00
+Dencio's Bar and Grill,Name,Description,Price
+item1,Krunchy Kwek Kwek,Ang paboritong Pinoy street food. Deep fried breaded quail eggs served with Dencio's special vinegar,150.00
+item2,Calamares,Squid rings na marinated at breaded then deep fried to golden perfection. Each servings comes with a special calamares dip,209.00
+item3,Sizzling Atay at Balunbalunan,Crunchy and deep fried mix na mas pinasarap na special sauce. Served on a sizzling plate,150.00
+item4,Dencio's Molo Soup,"Our tasty take on the traditional pork, dumpling soup with spring onions",215.00
+item5,Macho Sisig Nachos,Nachos topped with tomato salsa at pina-Astig ng Dencio's Krispy Sisig. Dinagdagan pa ng cheese sauce drizzle for more flavor,199.00
+item6,Sizzling Chicken Isaw,"Fried chicken isaw with white onions, finger chili, and mayo for that zesty taste. Served on a sizzling plate",180.00
+item7,Hot and Spicy Tofulutan,Deep fried golden brown tofu na ginisa sa siling labuyo at red bell pepper. Simahan ng Dencio's vinegar,150.00
+item8,Gising Gising,"A mix of finely chopped Baguio beans, ground pork at coconut milk na may saktong anghang",260.00
+item9,Kare-Kareng Gulay,Sari-saring gulay cooked in rich and flavourful peanut sauce. Served with Dencio's bagoong para kumpleto ang lasap sarap,185.00
+item10,Ensaladang Mangga,"Chopped green mangoes, tomatoes at white onions served with special bagoong alamang",145.00
+item11,Tortang Talong with Crabmeat,"Grilled eggplant stuffed with crabmeat sauteed in garlic and onions, coated with battered egg and pan fried until golden brown. Served with catsup",160.00
+item12,Krispy Hipon,Battered seasoned shrimps deep fried for that delicious crisp. Served with a special dipping sauce para mas complete and food experience,165.00
+item13,Kilawin Bisaya,"Tuna cubes with cuts of cucumber peel doused in creamy white sauce. Sinamahan ng spring onions, red bell peppers, at finger chili",170.00
+item14,Sizzling Gambas,"Peeled shrimps sauteed in butter garlic, finger chili, at seasoning. Served on a sizzling plate",325.00
+item15,Pusit a la Pobre,Squid sauteed in garlic seasoning at white gravy. Served on a sizzling plate,279.00
+item16,Sizzling Tiyan ng Bangus,"Premium bangus belly cooked with carrots, Baguio beans and mushrooms, generously seasoned with gravy. Served on sizzling plate",319.00
+item17,Kangkong with Bagoong,Blanched kangkong served with special bagoong alamang,135.00
+item18,Baked Green Mussels,Dencio's well-loved baked mussels with grated cheese at paprika topping,399.00
+item19,Tripe and Tofu Skewers,Tripe at tofu on sticks made more delectable by our special soy glaze,195.00
+item20,Krispy Kangkong,Deep fried coated kangkong with a tasty dip,155.00
+Don Henrico's,Name,Description,Price
+item1,Homestyle Onion Rings,"Sweet onion rings, lightly breaded and deep-fried until golden crisp, served with our very own ranch dressing",180.00
+item2,Petite Mozzarella Sticks,Deep-fried mozzarella cheese coated in special Italian-seasoned breading served with our marinara sauce,190.00
+item3,Calamari Friti,"Tender calamari lightly battered and fried to golden finish, served with marinara sauce",190.00
+item4,Dip & Nachos,Warm cornmeal nachos served with creamy cheese sauce,210.00
+item5,Chicken Fingers & Potato Wedges,Chicken tenderloin deep-fried to golden brown with potato wedges served with honey mustard dressing,220.00
+item6,Caesar Salad,"Crisp lettuce on Caesar dressing with roasted garlic chips, tomato, olives, freshly grated parmesan cheese, crisp bacon crumbles and croutons",360.00
+item7,Nachos Salad Ole',"Taco beef, lettuce, tomatoes, onions, black olives, corn kernels served on a bed of crisp nacho chips with a Mexican-style dressing topped with grated cheddar cheese",440.00
+item8,Creamy Chicken Chowder,Chunky chicken and vegetables in a thick and flavorful cream soup topped with garlic croutons,85.00
+item9,Seafood Tomato Soup,A tasty fish and shellfish in a rich tomato broth served with roasted French bread,85.00
+item10,Hot Fish Sticks,"Fish fillet in a spicy marinade, battered, then deep fried served with rice and salad with our ranch dressing",240.00
+item11,Chicken Parmi,"Lightly-breaded chicken breast covered with marinara sauce topped with melted mozzarella cheese, served with cream pasta, corn and carrots",280.00
+item12,Oven Fried Chicken,"Non-breaded chicken, oven-fried till golden brown served with rice, gravy sauce, corn & carrots",280.00
+item13,Don Henrico's Buffalo Wings,"Traditional upstate New York style tender pieces of chicken wings marinated, cooked to perfection and coated with tangy BBQ sauce, served with our creamy ranch dressing sauce",780.00
+item14,Chicken Ala Buffalo,"Traditional upstate New York style tender pieces of chicken marinated, cooked to perfection and coated in tangy BBQ sauce, served with our creamy ranch dipping sauce",780.00
+item15,Captain Crunch Fried Chicken,"Tender cuts of chicken marinated in special seasoning and cooked to golden crisp perfection, crisp, tender and juicy inside, served with gravy sauce",780.00
+item16,Don Henrico's Supreme,"Don Henrico's very own creation, pepperoni, beef, ham, mushroom, pineapple tidbits, onion, bell pepper and black olives",950.00
+item17,Bacon Cheeseburger,"A great combination of bacon, beef, mushroom, onion, pickles topped with lettuce tossed with mayonnaise and tomato",890.00
+item18,Four Cheese Pizza,"Mozzarella, gorgonzola, cheddar and parmesan cheese baked with our own bechamels sauce",860.00
+item19,Beef Calzone,"Filled with pepperoni, beef, onion and bell pepper, plus 100% mozzarella cheese, homemade ricotta cheese and tasty cheese served with red sauce",320.00
+item20,Cheesy Baked Lasagna,"Lasagna rolls topped with home-made ricotta cheese, mozzarella cheese and sauteed beef chunks baked until cheese is bubbly, topped with red and white sauce sprinkled with parmesan cheese",320.00
+Ebai's Cafe & Pastry,Name,Description,Price
+item1,Filipino Breakfast,"choices of Longganisa, Tocino, Corned Beef or Boneless Daing na Bangus with Fried Egg and Garlic Rice",118.00
+item2,Continental Breakfast,Whole Wheat Bread with Butter Jam,88.00
+item3,Ebai's Caesar,"garlic croutons that top this classic salad are wonderful, as is the anchovy-infused, very creamy dressing",140.00
+item4,Fresh Garden,"garlic croutons that top this classic salad are wonderful, as is the anchovy-infused, very creamy dressing",118.00
+item5,Chicharon Bulaklak,deep-fried ruffled fat is a popular Filipino appetize,182.00
+item6,Crispy Kangkong,made with battered water/river spinach leaves fried until light brown and crispy,108.00
+item7,Kuhol Sa Gata, a freshwater snail stewed in coconut milk,98.00
+item8,Vegetable Sticks,"an assortment of tasty sweet potato, squash, carrot, green bean, and taro chips in pop stick form",65.00
+item9,Sizzliing Button Mushrooms, A mix of fresh mushrooms gives it a delicious meaty texture and earthy flavor,208.00
+item10,Blue Marlin,seasonal,142.00
+item11,Bacalao,Spanish-style fish stew from the Basque region of Spain is a traditional peasant dish popular in all Spanish-speaking countries,142.00
+item12,Salmon Belly,Sizzling Meal This versatile fish is an easy way to get more heart-healthy Omega-3 fatty acids into your diet,118.00
+item13,T-Bone Steak,"Sizzling Meal teaks of beef cut from the short loin Both steaks include a ""T-shaped"" bone with meat on each side",148.00
+item14,Arroz Caldo,Merienda Specials,98.00
+item15,BLT,served with French Fries,108.00
+item16,Tuna Sandwich, a popular source of protein,98.00
+item17,Chicken Sandwich,served with French Fries,98.00
+item18,Cheese Burger,served with French Fries,118.00
+item19,Toasted Bread,4pcs toasted bread,55.00
+item20,Garlic Bread,4pcs garlic bread,75.00
+Foggy Mountain Cookhouse,Name,Description,Price
+item1,Oven Roasted Whole Chicken,Butterflied whole chicken infused with fresh Italian herbs. Brick oven roasted for that succulent smoky taste - served with roasted veggies and potatoes.,"1,000.00"
+item2,Chicken Parmesan Pie,"Thigh fillet seasoned with parmesan cheese, pan fried, with fresh tomato and basil sauce, layered with mozzarella cheese, topped with herbs and mashed potatoes and parmesan cheese, oven roasted for that crusty luscious pie goodness!",550.00
+item3,Grilled Chipotle Pork Chop,One inch thick pork chop marinated in chipotle spices and honey.. Southwestern flavor- a must try!,550.00
+item4,Porcheta,"Rolled boneless pork belly seasoned with Mediterranean herbs. In red wine reduction sauce and raisins. . My version of Italian roast pork. Crispy skin, juicy meat!",550.00
+item5,Fish and Squid Pie,"Medley of Giant Norwegian squid cutlets, cod loin or salmon cutlets, in cream and fennel seed sauce, topped with mashed potato, herb, cheese and crumbs. Baked to brown for that crispy crust.",600.00
+item6,Pan Fried White Fish Fillet,"Pan fried in olive oil. Crispy Crust. Topped with medley of tomatoes, basil and black olives in olive oil. Topped with parmesan cheese.",450.00
+item7,Smoked Salmon Carpaccio,"Thinly sliced smoked salmon with capers. Served on a bed of mixed greens drizzled with balsamic vinegar reduction, cold pressed extra virgin olive oil and chives. Health food. Cold dish.",700.00
+item8,Brick Oven Roasted Boneless Leg of Lamb,Lamb slow roasted on brick oven marinated overnight in Moroccan spices. Served with Middle Eastern veggies. Drizzled with fresh mint and yogurt sauce.,650.00
+item9,Greek Peasant Lamb Dish,"Lamb shoulder cuts, slow simmered with fresh rosemary and red wine, fall off the bone! Served on top of mashed potato. Melting pot of Greek and Italian dish.",600.00
+item10,Split Pea Soup,in ham hock stock with Italian garlic sausage,175.00
+item11,Penne Pasta with giant squid cutlets,in cold pressed extra virgin olive oil with parmesan cheese (good for two),250.00
+item12,Penne Pasta in egg sauce,with truffle oil and parmesan cheese (good for two),200.00
+item13,Cookhouse Banana Foster,our take on this classic dessert (good for two),200.00
+Forest House Bistro & Cafe,Name,Description,Price
+item1,Forest House Home Made Bagnet,Crispy fried pork belly with papaya chutney and bagnet salsa,195.00
+item2,Quesadillas,"A choice of special chicken, tuna or sausage with mushroom sauteed in butter with melted cheese filling in tortilla wrapper with red salsa",280.00
+item3,Assorted Grilled Homemade Sausages,"A combination of Bratwurst, Breakfast, Hungarian and Smoked sausages, sauteed in butter with onion rings",280.00
+item4,Calamares Fritos,Deep fried squid rings served with tartar sauce,190.00
+item5,Chicken Skin Chicharon,Crispy chicken skin chicharon served with chili garlic vinegar,160.00
+item6,Forest House Bouillabaisse,"A medley of seafood cream soup, served in a bread bowl",120.00
+item7,Potato Cheese Chowder,"Creamy potato with melted cheese, served in a bread bowl",120.00
+item8,Wild Mushroom Cream Soup,"Cream based soup with wild mushroom, served in a bread bowl",135.00
+item9,3 Dip Forest House Special Salad,"A huge mix of fresh lettuce, strips of cucumber, carrots and turnips with nuts, raisins and cherry tomatoes. Definitely meant to be shared, which you hand wrap and dip in our very own strawberry dressing, blue cheese and honey vinaigrette. Truly a Baguio experience!",420.00
+item10,Grilled Chicken Caesar's Salad,"Assorted lettuce with grilled chicken, pesto croutons, bacon bits and parmesan cheese in Caesar dressin",315.00
+item11,Salpicado Australian,Marinated tenderloin beef cubes sauteed to perfection served with garlic rice,525.00
+item12,Beef Tenderloin with Sweet peas in Ginger Spice,"Sauteed beef loin with sweet peas, ginger and red wine",430.00
+item13,Lengua con Setas,Ox tongue with mushroom sauce and green olive,355.00
+item14,Korean Beef Ribs,Tender portions of beef ribs on a delicious Korean sauce,345.00
+item15,Forest House wine Sauced Chicken,Grilled Chicken Breast with rich creamy white wine sauce and mushroom,295.00
+item16,Forest House Lamb,Grilled lamb marinated in mustard pie with garlic and Japanese soy sauce,525.00
+item17,Lamb Caldereta,"Mild Spicy lamb sauteed in olive oil and simmered in tomato, cheese, olives and pickle relish",545.00
+item18,Pork Steak with Mushroom,Marinated pork steak on the bed of fusilli pasta topped with champignon and shitake sauce,320.00
+item19,Twin Pork Chops with Apple Sauce,Grilled pork topped with an extra-ordinary chunky apple sauce,320.00
+item20,Sesame Crusted Fish Fillet,Pan seared Creamy Dory fillet crusted with black sesame seeds topped with asian mango salsa,295.00
+Giligan's Island,Name,Description,Price
+item1,Gilligan's Grilled Platter,"Grilled bangus belly, grilled pusit, inihaw na baboy, and boneless chicken teriyaki",685.00
+item2,Giligan's Pica-Pica Platter,"Cheese Sticks, Peanuts, Lumpiang Shanghai and French Fries",351.00
+item3,Giligan's BBQ Platter,"4 sticks Pork BBQ, 4 sticks Chicken",232.00
+item4,Sinigang na Inihaw na Baboy,sour soup made with grilled pork belly and vegetables in tangy tamarind broth.,198.00
+item5,Boneless Chicken Teriyaki,"mouthwatering sticky, savory and slightly sweet chicken",166.00
+item6,Sinigang na Salmon Belly sa Miso,contains fish oil that is said to be good for the heart,204.00
+item7,Sweet and Spicy Squid,"his sweet and spicy squid has sweetness and tang from ketchup and sugar , and heat from the chili peppers",188.00
+item8,Mangga Hilaw with Bagoong,"crunch of the unripe mango, the slightly astringent, incredibly sour shock to the tastebuds, soon mitigated by the gentle squish of tiny shrimp shells",85.00
+item9,Sinigang na Hipon,"a sour soup that uses tamarind as it's base flavor, it can be cooked with fish, meat, shrimp, and vegetables.",252.00
+item10,Sweet and Sour Pork,has a tangy flavor that everyone will surely love,196.00
+item11,Grilled Tuna Belly,tuna belly marinated then grilled until done,275.00
+item12,Sizzling Beef in Sinigang Gravy,"beef short ribs, sautéed French beans, sampaloc gravy, garlic confit, cherry tomatoes, and native red onions",220.00
+item13,Tofu with Eggplant,"Cook garlic, eggplant, and bell pepper in pan until softened, stirring occasionally, 8 to 10 minutes",118.00
+item14,Canton Guisado,"makes use of sliced pork, sausage, and shrimp",158.00
+item15,Bihon Guisado,"makes use of sliced pork, sausage, and shrimp",158.00
+item16,Miki Bihon Guisado,"makes use of sliced pork, sausage, and shrimp",158.00
+item17,Kare-Kareng Gulay,"a classic and beloved Filipino stew made of meat and vegetables in thick and creamy peanut sauce, traditionally with shrimp paste",165.00
+item18,Chopsuey,a dish made-up of meat (chicken or pork) and seafood (shrimp or fish) cooked with different kinds of vegetables,150.00
+item19,Kare-Kare Beef,oxtail or beef stew cooked in peanut sauce,302.00
+Health 100,Name,Description,Price
+item1,Pancake & Waffles,served with fresh fruits in season,115.00
+item2,House Breakfast,Choice of Veggie Tapa or Veggie Tocino. Served with Coffee,125.00
+item3,Tofu Scramble,Scramble Tofu with Green 'n Red Bell Peppers. Served with Coffee,125.00
+item4,Mushroom Omelet,Mix of Mushrooms served with rice. Served with Coffee,125.00
+item5,Gado-Gado,"Mixed of Potatoes, French Beans & Sprouts with Spicy Peanut Dressing",155.00
+item6,Baguio Garden Salad,Melange of Lettuce & Vegetables served with Fruit based dressing,155.00
+item7,Pasta Carbonara,Spaghetti Noodles tossed in dairy-free sauce of mushrooms and vegetables bits,155.00
+item8,Pene Bolognese,Tube pasta tossed in chunky tomato sauce,145.00
+item9,Pesto & Friends,Pasta tossed in pesto with griled tofu,135.00
+item10,Club Sandwich,Whole wheat slices triple decker style served with sweet potato fries,125.00
+item11,Vegie Burger,"Vegie pattie in a burger bun with lettuce, cucumber, tomato & cheese",125.00
+item12,Whole Wheat Mushroom,Burger grilled mushroom pattie with lettuce,125.00
+Kubong sawali,Name,,Price
+item1,Boneless Dilis at Bakang Maanghang,fresh dilis with spicy beef,125.00
+item2,Mixed Adobo,a version of this classic Filipino stew combining chicken pieces and pork cubes,95.00
+item3,Inihaw na Manok,ombined sweet-savory flavors are immersed in the succulent chicken pieces so these get devoured soon as it gets off the grill,95.00
+item4,Sizzling Pinalutong na Bangus,"Sisig made with flaked milkfish, chopped onions, and chili peppers drizzled with fresh citrus juice",125.00
+item5,Sizzling Chicken sa Bawang,"Sisig made with flaked chicken, chopped onions, and chili peppers drizzled with fresh citrus juice",130.00
+item6,Sizzling Pork sa Labuyo,"Sisig made with flaked pork, chopped onions, and chili peppers drizzled with fresh citrus juice",130.00
+item7,Sizzling Beed Tadyang,"Sisig made with flaked tadyang, chopped onions, and chili peppers drizzled with fresh citrus juice",135.00
+item8,Chopsuey Rice,Aromatic Chopsuey Rice with fresh greens topped with roasted sesame seeds.,130.00
+item9,Pork Chop Rice,pork chops with salt and arrange them on top of the rice,135.00
+item10,Blue Marlin Steak Rice,"The pairing of the onions, garlic, tomatoes and fresh basil put it over the top of the blue marlin",140.00
+item11,Kubong Sawali Rice,specialty homemade rice of kubong sawali,140.00
+item12,Dinakdakan,Ilocano dish made of grilled and boiled pork parts-it works as a tasty appetizer,160.00
+item13,Hot & Crispy Dinuguan,his classic dinuguan dish is both innovative and daring,180.00
+item14,Lechon Kawali,a popular Filipino dish made with pork belly simmered until tender and then deep-fried until golden and crisp,195.00
+item15,Binagoongan, pork being sauteed in tomato and stewed in shrimp paste,205.00
+item16,Bagnet with KBL,"side dish of sliced tomatoes, fish sauce and sliced onions appears often at an Ilocano meal, and it is eaten along with bagnet",205.00
+item17,Crispy Pata,made whole pork leg boiled until tender and then deep-fried until golden and crisp,370.00
+item18,Kalderetang Kambing,"a thick and hearty stew made with goat meat, potatoes and carrots braised in a tomato and liver sauce",200.00
+item19,Spicy Adobong Kambing,"a thick and hearty stew made with goat meat, potatoes and carrots braised in a tomato and liver sauce and chili sauce",205.00
+item20,Binusog na Pusit," Stuffed Squid with tomatoes, onions, bell peppers served with its specail sauce",195.00
+La Comida de Antonio Ristorante,Name,Description,Price
+item1,Penera,Pene in ala primavera cream,186.00
+item2,Pula,Penne with double tomato sauce,155.00
+item3,Paella,"Rice cooked in paprika, shrimp, chicken, and chorizo bilbao",300.00
+item4,Riva's Ribs,Delicious in-house original recipe of pork ribs,285.00
+item5,Porque,"Hips in no time, pepper dry rub with hint of sweetness pork",240.00
+item6,Crispulo,Deep fried boneless crispy with soy and vinegar sauce,350.00
+item7,Rosa Maria,Sinigang boneless Cripy Pata in Rosemary and Chili,360.00
+item8,Crispin,Boneless Cripy Pata with Binagoongan Sauce,355.00
+item9,Maria Kare,"Bonless crispy pata with a combination of pechay, eggplant, beans with annatto enriched in peanut sauce",360.00
+item10,Calo,Callos beef tripe in tomato based flavoured with chorizo and paprika,250.00
+item11,Pancho,"Potchero classic, a harmonious collaboration of beef, vegetables, plantains and tomato stew",250.00
+item12,Calde,"Comforting chunks of stewing beef with potato, carrot, bell pepper and olives",250.00
+item13,Salpicao,Tenderly textured beef cube stir fried in garlic with sliced mushroom,280.00
+item14,Antonio,Tenderly textured beef cube stir fried in garlic with sliced mushroom,250.00
+item15,Flamingo,Flaming Chicken in magical herb,250.00
+item16,Chiqui,"Meaty chicken wings, fried in golden brown seasoned in hot and tangy flavour",250.00
+item17,Cordon,"A delicious French classic, made by rolling chicken with ham and cheese",250.00
+item18,Fajitas,A dish consisting of strips of marinated chicken meat with vegetable served with nachos,250.00
+item19,Kiev,"A popular cutlet boneless chicken breast punded and rolled around cold garlic butter with herbs, then fried",250.00
+item20,Oranje,"Sweet, citrusy, and tangy flavour of Chicken",250.00
+Little John's,Name,Description,Price
+item1,Baby Back Ribs,TexMex Style Pork Ribs,155.00
+item2,Shrimp Curry,medium spice shrimps w/ garlic rice,165.00
+item3,Chicken Tikka,yogurt marinated chicken pan fried,145.00
+item4,Beef Kebab,Mediterranean flavored beef tenderloin w/ vegetable skewers,155.00
+item5,Fish N Chips,deep fried fish fingers w/ potato wedges,140.00
+item6,Fish Steak,Pan fried fish w/ lemon pepper seasoning,145.00
+item7,Choco,fruits in season to be dipped in sweet dark chocolate,175.00
+item8,Cheese Pita,bread to be dipped in a combination of gruyere and other Swiss Cheese flavored w/ white wine & kirsch,250.00
+Lemon and Olives Greek Taverna,Name,Description,Price
+item1,Saganaki,A delectable serving of imported pan-fried Greek cheese fresh lemon. The signature appetizer of lemon and olives,160.00
+item2,Traditional Greek Dips served with Homemade Pita Hummus,"A thick dip made from chickpeas, olive oil, lemon, garlic and tahini",130.00
+item3,Tzatziki,"Creamy yet tangy Greek yogurt dip made with olive oil, garlic, and cucumbers",120.00
+item4,Kolokithokeftedes,Crispy zucchini fritters served with creamy tzatziki sauce. A quirky way to kindle your appetite!,150.00
+item5,Spicy Soutzouki Sausage,Sausage made of beef that is guaranteed to tickle your taste buds with its exotic array of spices!,180.00
+item6,Poikilia,"The Parthenon of Greek appetizers! This is a plate of assorted appetizers such as a Greek village sausage, spicy soutzouki sausage, saganaki cheese, tzatziki dip and pita bread",320.00
+item7,Grilled Octopus,Handpicked fresh octopus grilled the right way; the Greek way,230.00
+item8,Kontosouvli,"Savoury pork slow, roasted over charcoal until devilishly tender. Marinated with Chef Takis' secret recipe",210.00
+item9, Lamb Gyros,"A pocket of flavor in a pita bread. Juicy slices of meat tucked away in a freshly baked pita filled with vegetables and Greek fries, doused with a generous serving of garlic, chili or tzatziki sauce",140.00
+item10,Lamb Souvlaki Plate,"Experience the taste of Greek street food! Souvlaki is a plate of specially seasoned grilled meat drizzled with Chef Takis' secret Greek sauce, served with pita bread and fries on the side and accompanied with garlic, chili and tzatziki dips",320.00
+item11,Lemon and Olive's Special Lamb Rack,Our signature lamb dish infused with select Greek herbs to bring out the fresh taste of the Mediterranean. Served with Greek salad on the side,590.00
+item12,Porterhouse Grilled Steak,"A slab of steak done the Greek Way, masterfully grilled to perfection. Served with vegetables and a choice of either fries, plain rice, lemon pilaf or pita",380.00
+item13,Grilled Calamari,"With vegetables and a choice of fries, pita, lemon pilaf rice or plain rice",290.00
+item14,Pastitsio,A plate of authentic Greek pasta. Bechamel sauce baked over ground beef and pasta,210.00
+item15,Moussaka,"Structured layers of potato, eggplant and ground beef, topped with lots of bechamel sauce",230.00
+item16,Stuffed Tomatoes and Peppers,"Tomatoes and peppers filled to the bursting point with specially seasoned ground beef, rice and tomato sauce. Bite into a tasty surprise. Served with potato wedges",205.00
+item17,Greek Style Spaghetti,"Spaghetti with a uniquely Mediterranean mindset. Golden melted mozzarella cheese over beef sirloin and spaghetti pasta, dashed with red sauce",260.00
+item18,Lamb Giouvetsi,A more special version of the heirloom recipe. Leg of lamb carefully roasted and served over special orzo pasta swimming in tomato sauce. Served with a side of roast potato and Greek salad,"4,180.00"
+item19,Soutzoukakia,"Taste the flavor of Athens with these uniquely-Greek meat balls! Each meatball is baked to perfection and seasoned with thick Mediterranean species. The meatballs are then bathed with tomato sauce that adds a nice zesty kick to the dish. Served with either rice, pasta or Greek French fries","1,950.00"
+item20,Briam,"A medley of roasted vegetables - eggplant, zucchini, potato, tomato and peppers - in olive oil seasoned with aromatic herbs. This is perfect on it own or accompanying your grilled lamb.",210.00
+Max's Restaurant,Name,Description,Price
+item1,Adobo Flakes Meal Sunny Side Up,Chicken Pork Adobo Flakes with scrambled eggs & garlic rice,180.00
+item2,Adobo Flakes Meal Scrambled,Chicken Pork Adobo Flakes with scrambled eggs & garlic rice,180.00
+item3,Ckn Longanisa Meal Scrambled," simple lean pork skinless Longganisa For a hearty breakfast, serve with egg and rice",179.00
+item4,Tapa Meal Scrambled,ender slices of beef marinated in vinegar and garlic and then fried,239.00
+item5,Omelet Cheesy Corned Beef Garlic Rice,offers a combo of creamy omelet stuffed with corned beef and melted cheese and garnished with spring onion confetti,179.00
+item6,SOD Chicken Velveteen,chicken stays creamy-white rather than getting browned as in most stir-fries,60.00
+item7,SOD Creamy Tinola,"rich and creamy taste of gata and the spicy, pungent flavour of ginger will blend perfectly well in this Tinola sa Gata recipe.",60.00
+item8,Chicken Burger w/ Cheese," From tasty toppings like coleslaw and spicy mango salsa, to patties stuffed with bacon and cheese",105.00
+item9,Clubhouse," sliced cooked poultry, fried bacon, lettuce, tomato, and mayonnaise. It is often cut into quarters or halves and held together by cocktail sticks",165.00
+item10,Classic Chicken Burger (Double Patty),With Kamote chips,155.00
+item11,Chicken Salad,"A winning combination of fresh salad and a hefty sandwich of shredded chicken, fresh lettuce and mayonnaise. Good for one person.",105.00
+item12,Pancit Bihon Regular,quick-cooked noodle dish that is one of the quintessential meals of Filipino cuisine,200.00
+item13,Chicken Pancit Bihon Regular,quick-cooked noodle dish that is one of the quintessential meals of Filipino cuisine,200.00
+item14,Pancit Luglug Ala Carte,quick-cooked noodle dish that is one of the quintessential meals of Filipino cuisine,220.00
+item15,Lumpia Shanghai,"dish made-up of ground pork or beef, minced onion, carrots, and spices with the mixture held together by beaten egg",185.00
+item16,Special Oriental Lumpia,"dish made-up of ground pork or beef, minced onion, carrots, and spices with the mixture held together by beaten egg",75.00
+item17,Halo Halo Regular,"Perfect for cooling down, our Halo-halo Regular is a delightful mix of Filipino sweets and rice crispies.",99.00
+item18,Giant Halo Halo,Prepare to meet the largest halo-halo you will ever eat! A super-sized version of the well-loved Max's Halo-halo this enormous dessert serves 5-8 persons.,469.00
+item19,Ube Creme Decadence,One of the more popular Italian desserts,80.00
+item20,Mango Cream Dessert,"Layers of cream, crumbled graham crackers and diced fresh mangoes, sprinkled with chopped caramel biscotti as garnish.",80.00
+Mini Shabu-Shabu,Name,Description,Price
+item1,Agedashi Tofu,"Deep-fried firm tofu with Japanese corn, starch, radish, fish flakes, chili powder and light soy sauce",175.00
+item2,Geso Butter Yaki,Stir-fried cuttlefish head in butter and Japanese seasoning,200.00
+item3,Atsuage Tofu,"Deep-fried hard tofu, fish flakes, ginger and special sauce",175.00
+item4,Miso Soup,"Japanese miso soup with firm tofu, wakame and onion leeks",65.00
+item5,Tonjiro,"Sliced pork belly, konnyaku, white onion, onion leeks, Japanese miso paste",100.00
+item6,Yaki Soba,Stir-fried egg noodles with Asian vegetables and Japanese seasonings,330.00
+item7,Yaki Udon,"Stir-fried egg noodles with seafood, Asian vegetables and Japanese seasonings",300.00
+item8,Wafu Salad,"Mixed green with tomato, Japanese cucumber and carrots in Japanese dressing",195.00
+item9,Seafood Salad,Mixed greens with assorted seafood in Japanese dressing,330.00
+item10,Kakiage Mixed Tempura,Deep-fried buttered mixed vegetables with light soy sauce,200.00
+item11,Ika (Squid) Tempura,Deep-fried buttered cuttlefish with light soy sauce,245.00
+item12,Mixed Tempura,Deep-fried buttered mixed seafood and vegetables with light soy sauce,475.00
+item13,Ebi Tempura,Deep-fried buttered tiger prawns with light soy sauce,540.00
+item14,Ika Teppan,Cuttlefish cooked on flat steel grill with Japanese seasonings and teppanyaki sauce,200.00
+item15,Ebi Teppan,Tiger prawns cooked on flat steel grill with Japanese seasoning and teppanyaki sauce,540.00
+item16,Sakana Moriawase Teppan,Mixed Seafoods cooked on flat steel grill with Japanese seasonings and teppanyaki sauce,540.00
+item17,Gyu Teppan,Selected beef cooked on flat steel grill with Japanese seasonings and teppanyaki sauce,400.00
+item18,Dynamite Maki,Spicy tuna salad rolled in nori with sushi rice,160.00
+item19,Mexican Maki,Chopped tuna in spicy Japanese dressing rolled in nori with sushi rice,150.00
+item20,Philadelphia Maki,"Salmon, cheese, mango rolled in nori with sushi rice and ebiko",175.00
+O' Mai Khan,Name,Description,Price
+item1,Mongolian Hot Pot,"A Chinese favorite also known as the ""Steamboat"". A healthy soup based meal that you can cook right before your very eyes",160.00
+item2,Mongolian Barbeque,Smorgasboard-experiment making over a thousand concoctions with our eighteen sauces,210.00
+item3,BeefBurger,Super delicious pure beef burger served with our unique style of french fries,125.00
+item4,Cheeseburger,Thick sliced cheese added into your super delicious beef burger,140.00
+item5,Chunky Chicken,Chunky chicken cubes tastefully blended with special sauce. Served with our own special french fries,125.00
+item6,Flying Saucer (Adobo or Cheese),"The closest UFO experience that your palate will ever get, served with potato salad",110.00
+item7,German Hotdog Platter,"An original prepared for hotdog lovers, topped with relish and grated cheese. Served with potato salad",130.00
+item8,Chilidog Platter,Spicy red kidney beans bursting with flavor on a juicy hotdog sandwich with fries on the side,130.00
+item9,Tuna Platter,Tuna with a bread bun and potato salad on the side. Your choice of spicy or ordinary tuna,120.00
+item10,Paoburger,The vegetarian burger. Not all Mongolian warriors were carnivores,125.00
+item11,Dinuguan (with puto),Downright delicious. A classic even Mongolians cannot deny,100.00
+item12,Ag Pasta Khan,penne pasta with a flavoursome sauce of freshly chopped tomatoes. Topped with grilled chicken,120.00
+item13,Spaghetti,The meat sauce pasta we can't do without. Served with bread,105.00
+item14,Sotanghon Guisado,"A light ""after battle"" dish for the triumphant warrior",95.00
+item15,Palabok,Perfect for merienda. Noodles with all the trimmings you need to survive the rest of the afternoon,110.00
+Oh My Gulay,Name,Description,Price
+item1,Bulaklak Tempura,Tempura kalabasa blossoms with your choice of tempura sauce or chef's mayo,70.00
+item2,OMG Salad,"Our trademark salad of assorted greens, served with our blend of herb honey mustard dressing",120.00
+item3,Waldorfesto,"Tossed salad of apples, celery, potatoes, egg slices and nuts, with garlic mayo pesto",140.00
+item4,Cesar Asar,"Our version of Caesar salad minus the anchovies and bacon, enriched with our basil cheese croutons",120.00
+item5,KKK Sliders,Crispy tofu rolls on a bed of mixed greens tossed with honey mustard and Asian dressing,140.00
+item6,Talong Parmigiana,"Breaded eggplant over whole wheat bread, topped with our special red sauce, pesto and cheese",135.00
+item7,OMG Club Sandwich,"Double-decker sandwich of plum tomatoes, cucumber and fried egg with mixed greens",130.00
+item8,Anak Ng Putanesca,"Our version of putanesca, enriched with a hint of cayenne pepper",130.00
+item9,Kabute,"Oyster, shiitake, button mushrooms with bechamel sauce, and cheddar cheese",130.00
+item10,Pasta Mestizo,Combination of bechamel mushroom and pomodoro sauce,130.00
+item11,Chow-Chow,Egg noodles with fresh vegetables sauteed in garlic and flavored with soy hoisin,135.00
+item12,Oh My Gulay Rice,"Native brown rice with ten vegetables in season mixed with our Mongolian sauce, topped with steamed tofu and omelet",140.00
+item13,Mushroom Onion Crepe,"Three kinds of mushroom, caramelized onions and cheddar, topped with garlic sour cream and yoghurt sauce",130.00
+item14,Pestong Kamatis,Pesto and fresh tomatoes,130.00
+item15,Sibuyas Kabute Omelet,"Sauteed mushrooms with caramelized onions and eggs, served with basil cheese toast",110.00
+item16,Sili Omelet,"Sauteed red and green peppers, chili fingers, garlic, onions and eggs, with cheese basil toast",110.00
+item17,Mansanas,Crepe stuffed with caramelized apples,40.00
+item18,Super Sosy,Crepe stuffed with peaches,40.00
+item19,Dayap Iced Tea,Lime-infused brewed iced tea,75.00
+item20,Mangga Fresh,"Mango puree with brewed tea, served ice cold",75.00
+Ozark Diner,Name,Description,Price
+item1,French Toast,French Toast with your choice of meat,180.00
+item2,Ozark Benedict,"French Toast, American Bacon, poached eggs, and hollandaise sauce",200.00
+item3,Big American Breakfast,"3 eggs (any style), your choice of meat, biscuits",180.00
+item4,Hamburger,"All beef patty, cheddar cheese, mayo, house-made spicy pickle, lettuce, tomato and purple onion served on a toasted house made sesame bun",150.00
+item5,Meatloaf Sandwich,"The Ozark meatloaf on our toasted sandwich bread with mayo, onion and house-made spicy pickles",160.00
+item6,Grilled Cheese Sandwich,"The Ozark sandwich bread, buttered and toasted with a modern combination of cheeses",140.00
+item7,Pulled Pork Sandwich,Smoked pork shoulder with a spicy BBQ sauce and served on the Ozark sesame bun,150.00
+item8,Chicken Salad Sandwich,Creamy house-made chicken salad served on our own toasted sandwich bread,160.00
+item9,Nashville Hot Fried Chicken,Spicy fried chicken with two biscuits and a choice of sides,180.00
+item10,Ozark Meatloaf,A meaty slab of pork and beef with a glazed crust plus choice of two sides,140.00
+item11,Chicken Hot Pie,"A hot bowl of Chicken Stew with carrot, potato and green beans, topped with a buttery biscuit crust",120.00
+item12,Large Salad,"Lettuce, Tomato, Onion, a big scoop of Chicken Salad and served with a side of our house made Hundred Island Dressing and buttery croutons",160.00
+item13,French Fries,A generous portion of hand-cut house made fries,40.00
+item14,Pancakes,Stack of pancakes with your choice of meat,140.00
+item15,Hoppin' John,"Black Eyed Peas, slowly cooked with smoked ham",40.00
+item16,Mashed Potato & Gravy,Fluffy and buttery potato with a whole gravy,40.00
+item17,Pork Chop,A thick cut grilled pork chop with a choice of two sides,200.00
+item18,Green Beans,sauteed with onions,40.00
+item19,Mac and Cheese,Gooey cheese and pasta with a crunchy toast,40.00
+item20,Cabbage,Sauteed with bacon fat and vinegar,40.00
+Patch Cafe,Name,Description,Price
+item1,Fruits and Oats,A healthy meal or oatmeal with fruits in season,125.00
+item2,Fluffy Pancakes,Banana Nutella or blueberry and cream cheese pancakes with whipped butter and syrup,150.00
+item3,French Toast,"Sour dough French toast with fruit compote, whipped cream and chocolate syrup",170.00
+item4,Your Own Omelet,"Your preferred ingredients in an omelet over a toast. Choose amount ham, tomato, onions, mushroom, bell pepper, potato and cheese",125.00
+item5,Pindang,"Carabao meat tapa with rice, egg, and a shot of tablea chocolate",160.00
+item6,Miners? Breakfast,"Longganisa served with homemade vinegar, garlic rice, salted egg relish and two eggs",130.00
+item7,Sardines,"Sauteed sardines served with scramble eggs, garlic rice",100.00
+item8,CPA,"Shredded adobo chicken and soft adobo pork jelly, over garlic rice",190.00
+item9,Patch Benedict,"A poached egg, strips of bacon and cheese sauce over slice of lefty bread brushed with garlic butter",150.00
+item10,Brunch Sampler,"A taste of each of our signature breakfast dishes - longganisa, carabao or beef tapa, danggit, 2 eggs, rice and a pancake",190.00
+item11,Walnut and Green Apple Salad,"Candied walnut, romaine, green apple, with a creamy sour cream dressing",140.00
+item12,Beyond Bolognese,the classic spaghetti dish with chunks of Spanish chorizo,180.00
+item13,Mac n' Cheese,Crisp and creamy cheeses melted over macaroni and topped with bacon bits,170.00
+item14,Chili Tuyo Marinara,"A combination of tuyo flakes, lime, chili and olive oil in linguine pasta",170.00
+item15,Panini BLTC,"Bacon, Lettuce, Tomatoes, Cheese",160.00
+item16,Bleu Burger,Our signature beef burger with blue cheese and ranch dressing,150.00
+item17,Grilled Cheese Pan con Tomate,3 Kinds of cheese and roasted tomatoes over a grilled baguette,150.00
+item18,4 Cheese,"Mozzarella, cheddar, parmesan, and bleu cheese",280.00
+item19,Prosciutto,"Prosciutto, roasted garlic and greens",280.00
+item20,Mountain Pizza,"Native smoked meat, beef, garlic, cherry tomatoes, and Baguio greens",300.00
+Pizza Volante,Name,Description,Price
+item1,Minestone,"A classic Italian soup made with a medley of fresh vegetables, grain beans, pasta and home made chicken stock. Served with Parmesan sprinkled on top and hot garlic bread",65.00
+item2,Lentil Soup,A hearty and filling soup meal fortified with fresh vegetables and delicately seasoned with spiced served with hot garlic bread,65.00
+item3,Pesto on Pasta,"A sublime contribution of fresh basil, garlic, roasted nuts, virgin olive and parmesan cheese over pasta. Served with hot garlic bread a very tasty and satisfying dish",129.00
+item4,Pasta with Meat Sauce,A tasty robust and very satisfying dish topped with grated parmesan cheese and served with garlic bread,181.00
+item5,Pasta Alfredo,"A delicious classic pasta sauce made with cream, mushroom, bacon and dishes ofspice. Served with garlic bread",214.00
+item6,Mussels in Red Sauce with Wine,"Mussels simmered with wine, tomatoes, garlic and herb. Served over pasta with parmesan cheese and hot garlic bread",199.00
+item7,Spaghetti Bolognese,Lean beef simmered with white wine and spiced. Served with garlic breast,232.00
+item8,Grilled Salmon Belly,Succulent ships of juicy salmon belly grilled to perfection served with rice. Mixed vegetables and sauce. A mount watering dish rich in healthful Omega 3 fish oil,190.00
+item9,Grilled Tanguigi,Served with Corsican rice or plain rice and mixed vegetables,210.00
+item10,Smoked Salmon Open Sandwich,"A scrumptious mixture of Norwegian smoked salmon, virgin olive oil. Fresh onions and calamansi juice with toasted whole wheat bread on side. Makes light, nutritious and delicious meal",235.00
+item11,Grilled Lamb,"Fire Grilled shoulder of Lamb lightly marinated and served with mixed vegetables and your choice of garlic bread, whole wheat bread, Corsican rice or plain rice",469.00
+item12,Peppered and Mushroom Pizza,Pepperoni mushroom in every bite! For pepperoni lovers,520.00
+item13,Pizza Morengo,"Chunks of chicken breast sauteed with mushroom, onions and bell peppers. Harshly filling from a recipe created by Napoleon?s chef at small town in Piedmont region of Italy",545.00
+item14,Kenny George Pizza,"An imphochai combination first prepared for two best friends with Hanna sausage, pepperoni, mushroom, onions, bell peppers and mozzarella cheese!",495.00
+item15,Smoked Salmon Pizza,An elegantly simple but mouthwatering delicious pizza covered wit smoked salmon and some onions.,620.00
+item16,Pizza Bolognese,"A classic recipe using lean beef simmered slowly with wine, vegetative and spices to develop its rich flavor and aroma. Topped with mozzarella to make it even more satisfying and filling.",360.00
+item17,Roast Chicken Pizza,Thick juicy slices of roasted chicken and 100% Mozzarella,475.00
+item18,Pizza Hanna,Topped with original Mediterranean sausage patties delicately seasoned with wine and spices traditionally brought in by caravans from the East since days of old. Plenty meat and very filling.,421.00
+item19,Pizza Puttanesca,Anchovies impart their incomparable flavor and intensity to this traditional version popular along the seaside of Italy. Served with mushrooms sauteed in virgin olive oil. Not too much cheese in this one of the weight conscious. Very satisfying,575.00
+item20,Shrimp Pizza,A generous serving of shrimps seasoned with garlic on 1 cup of hot mozzarella pizza sauce and freshly baked dough.,575.00
+Rufo's Famous Tapa,Name,Description,Price
+item1,Longaniza,"Sweet, juicy and with a distinctly garlicky flavor, this is the Pinoy version of the pork sausage done the Rufo's way. Served with fried egg",99.00
+item2,Tocino,"Chunky tender morsels of Pampanga pork, marinated in pineapple sauce for a delectably sweet & juicy experience. Served with fried egg",116.00
+item3,Corned Beef a la Rufo's,"A generous serving of juicy corned beef, sauteed in onions, fried and served with farm-fresh scrambled egg",79.00
+item4,Rufo's Famous Tapa,"The best seller since 1984! Mouth-watering, tender Batangas beef, marinated and served in Rufo's rich, sweet ""Famous Sauce"" with a side order of fried egg. The sauce is really a dish on its own! ""Sauce Pa Lang Ulam Na!""",119.00
+item5,Boneless Bangus,"Fresh from Dagupan, this milkfish is submerged in a unique combination of flavors & spices before deep-fried to a crispy golden perfection",132.00
+item6,Liempo,"Choice-cut pork, pre-grilled and flavored with Rufo's special home-made Liempo marinade. Served hot with a side order of sweet Liempo sauce",159.00
+item7,Sizzling T-Bone Steak,"A hearty cut of T-Bone from the choiciest Batangas beef, marinated in its succulent juices with soy sauce, garlic & butter, served piping-hot and sprinkled with bits of garlic on a sizzling plate",189.00
+item8,Lumpiang Shanghai,"Delicious pork spring rolls fried crispy golden-brown, served with a rich sweet and sour sauce",58.00
+item9,Pork Chops,"Prime cut pork, seasoned with Rufo's special sauce, carefully fried to a golden brown, while locking in its natural flavors",139.00
+item10,Pinoy Beer Steak,"Filipino-style beef steak submerged in the flavors of soy, lemon, shallots with a tinge of freshly ground pepper",112.00
+item11,Pork Humba,"Tender pork shank and cutlets, slowly braised in spiced soy-pineapple juice and topped off with a sprinkle of banana blossoms",106.00
+item12,Beef Tapa Sandwich,"Our iconic Rufo's Famous Tapa now in a sesame seed bun! Tender, juicy Batangas beef topped with farm fresh egg, and Baguio lettuce. More famous than any American roast beef sandwich!",72.00
+item13,Rufo Burger,"Juicy home-made beef pattie, served with tomato, Baguio lettuce, and lathered with our sweet Asian-inspired Famous Sauce. A perfect dish for people on the go!",55.00
+item14,Sizzling Crispy Chicken,"Southern Fried Chicken cooked to a Pinoy-style juicy-crispiness, sizzling in home-made gravy and buttered vegetables",112.00
+item15,Tokwa't Baboy,"Generous chunks of Tofu deep-fried with delicious pork slices, and bathed in Rufo's sweet, sour and spicy Tokwa Dressing",99.00
+item16,Sizzling Sisig,"The Philippines' favorite ""pulutan"" contains the perfect blend of flavors and spices topped with farm fresh egg and served crackling in its own juices on a sizzling plate",149.00
+item17,Sizzling Chicken Sisig,"Finely chopped cubes of fresh, juicy chicken flavored with special spices, onions, and seasonings is the healthier version of our ""Pinoy Pulutan"". Served scorching hot on a sizzling plate with farm-fresh egg on top",149.00
+item18,Black Sambo,A sumptuous gelatin fusion of native chocolate milk and cream,43.00
+item19,Creamy Fruit Fiesta,Creamy fruit cocktail with crushed honey graham crackers,43.00
+item20,Oriental Cream Soup,"Rich cream and egg soup with a mix of garlic, spring onions and authentic Asian seasonings",39.00
+Route 55 by Hernan's Kitchen,Name,Description,Price
+item1,Route 55 Tapa,Pinoy style steak served with 2 eggs and garlic rice,195.00
+item2,Spanish Omelet,Sauteed fresh Baguio vegetables folded between 2 eggs. Served with toasted bread and butter,135.00
+item3,Hungarian Sausage,"Grilled sausage served with 2 eggs, toasted bread and butter or rice",165.00
+item4,Fluffy Pancake Tower,"Homemade pancakes with crispy bacon slices, maple syrup and strawberry butter",155.00
+item5,Chili Con Carne,"A Mexican stew of ground meat, chilies and chili beans",75.00
+item6,Route 55 Burger,"Our classic half pound burger with caramelized onions, veggies and garlic cream cheese",185.00
+item7,Herman's Crispy Chicken Burger,Crunchy chicken patty with coleslaw and teriyaki sauce,175.00
+item8,Pulled Pork Sub,A must try! Slowly cooked pork in our homemade BBQ sauce in a baguette.,205.00
+item9,Cornflake Crusted Dory Fillet Sub,Crunchy and healthy dory fillet with garlic parmesan dressing and coleslaw in a baguette,205.00
+item10,Roast Beef Sub,"Tender beef, mushroom gravy and cheese in a baguette",215.00
+item11,Bacon and Mushroom Melt,A blend of 3 cheeses topped with mushrooms and crispy bacon bits,185.00
+item12,Spinach and Shitaake Ravioli,A fusion of flavors blended with cheese wrapped with homemade pasta,185.00
+item13,Mexican Salad,"Chilies, chili con carne, cheese, veggies,s salsa and more layered on top of crunchy corn nachos",205.00
+item14,Mexican Cajun Wings,Smoked and deep-fried wings with traditional Mexican Cajun spices,215.00
+item15,Route 55 Classic,The all original salami and mushroom pizza,225.00
+item16,Grilled Cajun Chicken Pizza,A Mexican BBQ sauce based pizza topped with Cajun spiced chicken and cheese,215.00
+item17,Garlic and Cheese Pizza,Roasted garlic and mozzarella cheese,195.00
+item18,Pulled Pork Pizza,Shredded pork BBQ on a pizza with onions and bell peppers and cheese,225.00
+item19,Panacotta Shots,A medley of Herman's 3 best panacotta flavors,125.00
+item20,Tropical Fruit Terrine,Tropical fruits in season in gelatin layered with crispy honey wantons,135.00
+Seafood Island Restaurant,Name,Description,Price
+item1,Magellan's Landing,"Sinuglaw, chicken inasal, grilled tilapia, grilled squid, grilled shrimps, grilled talong, steamed crabs, and bagoong rice with danggit chips","1,385.00"
+item2,Tali Beach,"Pork barbecue, chicken inasal, grilled tilapia, grilled squid, grilled talong, grilled tomatoes, steamed white shrimps, steamed crabs, sauteed tahong, lato, green mango, watermelon and steamed rice with crispy dulong","1,345.00"
+item3,Boracay's Feast,"Chicken adobo sa gata, san mig clams, grilled liempo, grilled squid, grilled tilapia, grilled talong, grilled okra, grilled pineapple and bagoong rice with crispy dilis",998.00
+item4,Dagupan Festival,"Deep-fried boneless bangus, pork barbecue, grilled tahong, grilled okra and talong, steamed white shrimps, sauteed talbos ng kamote, green mango and bagoong rice with crispy liempo","1,285.00"
+item5,Dapitan's Pride,"San Mig clams, grilled tilapia, grilled squid, grilled liempo, laing, steamed crabs, and Kalkag rice with crispy shrimps","1,315.00"
+item6,Chang's China Chow,"Whole fried chicken with kropek, sauteed shrimp, mushroom and tofu, salt and pepper ribs, lumpiang shanghai, crab and corn soup, pancit canton and Yang Chow fried rice","1,485.00"
+item7,Mt Apo,"Balbakwa, clams sa buko, steamed crabs, steamed shrimps, grilled liempo, grilled squid, inihaw na manok sa gata, fried tilapia, Law-uy, kinilaw na tanigue, ensaladang lato, and garlic rice with crispy dilis","1,650.00"
+item8,Davao Gulf,"Tuna ala pobre, chicken inasal, pork barbecue, grilled squid, grilled talong and tomatoes, steamed shrimps, grilled clams, laing, lato salad, ensaladang manga, salted egg, Kalkag rice, bagoong rice, and garlic rice with crispy dulong","1,485.00"
+item9,Vigan,"Dinakdakan, grilled bangus, pinapaitan, insarabasab, igado, Pakbet de Vigan, bagnet, poqui-poqui, garlic rice with crispy longganisa vigan and garlic chips","1,395.00"
+item10,Island Sinugba Espesyal,"Grilled tuna panga, tanguigue and squid, grilled clams and mussels, steamed crabs, shrimps, salted egg and ensaladang lato, ensaladang manga, kinilaw na tanguigue, and garlic rice with crispy dilis","1,590.00"
+item11,Garlic Seafood Delight,"Stir fried squid and tanguigue, steamed shrimps, clams, mussels and crabs tossed in fried garlic, white wine and chili, ensaladang lato, squid balls, and plain rice with crispy dilis","1,188.00"
+item12,Meaty Madness,"Crispy pata, pork bbq, grilled liempo, chicken inasal, sinuglaw, grilled eggplant, laing, ensaladang lato, sliced tomatoes and salted egg, crispy adobo flakes with garlic fried rice","1,598.00"
+item13,Pla Pla,"Choice of deep fried, sinigang sa miso, grilled or pinaputok",395.00
+item14,Lapu-Lapu,Choice of steamed in superior sauce or sweet and sour,"1,699.00"
+item15,Hito,Choice of grilled or fried with garlic,395.00
+item16,Hot Tea,"Yellow label, green tea",60.00
+Secret Garden,Name,Description,Price
+item1,Seafood Tomato Chowder,"Shrimp, clams, mussels, squid , vegetables, mild chili",200.00
+item2,Mushroom Cream Soup,Ground button mushroom in onion and cream,115.00
+item3,Prosciutto & Cheese Salad,Fresh Baguio vegetables tossed with prosciutto & cheese,255.00
+item4,Romaine Salad,"Romaine, croutons other greens in Caesar dressing",185.00
+item5,Chef's Chicken Sandwich with Fries,Chicken sandwich served with fries,160.00
+item6,Secret Garden's Beef Tapa,Thinly sliced beef cooked in less sat,155.00
+item7,Chicken Breast Barbeque,Pan-grilled with our house sauce,150.00
+item8,Steamed Fish,Cream dory fish in basil cream sauce,220.00
+item9,Beef Steak,"Pan-grilled demi-glazed sauce with mash potatoes. Mushrooms cream soup and garlic bread, With side of button mushrooms, tomatoes, grilled onions and a glass of house wine or sprite/ coke.",600.00
+item10,House Wine,Sweet Red Wine/ White Wine,150.00
+item11,Bolognese,Beef & Tomatoes,185.00
+item12,Shrimp Broccoli Pasta,"Shrimp, broccoli, anchovies and pepper in olive oil",240.00
+item13,Garlic Pasta,"Garlic, fried garlic, anchovies and pepper in olive oil",170.00
+item14,Vongole in Olive Oil,"Clams, fried garlic and green chili olive oil sauce",175.00
+item15,Beef Bely Roast,Sumptuous belly in herbs,160.00
+item16,Honey Cured Beef,Beef in sweet oriental sauce,180.00
+item17,Beef Salpicao,"Stir- fried cubed beef, vegetables and butter",250.00
+item18,Pork Liempo,"Pan-grilled, marinated in our house sauce",165.00
+item19,Pork Ribs,"Pan-grilled, marinated in our house sauce",180.00
+item20,Cream Garlic Chicken,Chicken breast saute topped in creamy garlic sauce,220.00
+Sage Restaurant,Name,Description,Price
+item1,Classic Chicken-Pork Adobo,Chicken and Pork combination marinated in garlic soy and vinegar over hot steamed rice. Simply a classic,120.00
+item2,Homemade Beef Tapa,A hearty Dish of succulent tender cubes topped with fried garlic bits and served with scrambled eggs and garlic fried rice,150.00
+item3,Bangus Ala Pobre,Fried boneless bangus served with red eggs with tomatoes and garlic fried rice,130.00
+item4,Daing na Espada,Deep fried espada until golden crisp. Served with tomato omelet and fried rice. Another Filipino favorite to start the day right,130.00
+item5,Baguio 'Shortganic',Our local bestseller served with sunnyside style eggs and garlic fried rice,130.00
+item6,Honey-Garlic Chicken Tocino,Sweet and tender chicken strips served with steaming white rice and scrambled eggs. Surely would satisfy everyone's grumbling tummy,130.00
+item7,Sesame Chicken Fingers,Battered chicken strips served with a honey mustard Dip,140.00
+item8,Sisig Shots,Sisig Served uniquely ours.,120.00
+item9,Sweet Chili Wings,Deep fried chicken wings coated with sweet and spicy sauce served with garlic mayo dip,150.00
+item10,Gambas Y Champion,Button mushrooms and shrimps sauteed in butter and garlic served with toasted baguettes,220.00
+item11,Sausage Mix,2 Sausages bratwurst and Hungarian served with baguettes slices. Sweet potato chips and dips.,180.00
+item12,Sage House Salad,"A summer salad served with house blend strawberry vinaigrette, a flavor busting extravagance of lettuce, strawberries, kiwi, mangoes and peanut brittle.",180.00
+item13,Mango Kani Salad,Japanese inspired salad with mangoes crambstick flakes and cucumber cubes on a bed of greens sprinkles with ?nori? flakes,160.00
+item14,Waldorf Salad,A wonderful combination of diced apples and grapes with chicken cubes in a healthy yogurt dressing over lettuce sprinkles with sweetened fill nuts,80.00
+item15,Shrimp Pomelo with Sesame Dressing,A Thai classic with a mixture of pomelo and prawns over lettuce drizzled with our honey-sesame dressing,180.00
+item16,Russian Salad,"Old fashioned potato salad with sugar beef cubes, raisin, pineapple and bacon bits in a mayonnaise dressing",160.00
+item17,Creamy Bulalo Steak,Our best seller mouthwatering beef shanks with mushroom gravy served with mashed potaties and buttered vegetables,280.00
+item18,Irish Porkchops,Grilled tender porkchop served with buttered marble potatoes and apple chutney together with a cup of steamed rice,220.00
+item19,Salmon Picatta,Pan grilled salmon sauce with a capers and lemon and sauce served with steamed rice,220.00
+item20,Chicken Chimichangas,A combination of shredded chicken and potatoes wrapped in flour tortillas fried to a crisp served with salsa and ranch dressing,130.00
+Shakey's,Name,Description,Price
+item1,Calamari Crrrunch,"Our seasoned and battered squid rings deep fried to golden crispy, crunchy perfection. Served with sweet chili sauce and garlic ranch dip",319.00
+item2,Wings 'N' Rings,"A pairing of spicy buffalo wings and crispy calamari. Served with skinny fries, sweet chili sauce and garlic ranch dip",401.00
+item3,Captain's Choice,"A sumptuous dish of crispy fish fillet and crunchy calamari cooked with our special breading and deep fried to golden perfection. Served with skinny fries, sweet chili sauce and garlic ranch dip",421.00
+item4,Hickory BBQ Onion Rings,Fresh onion rings cooked in a seasoned beer batter with sweet hickory bbq spice and fried until perfectly crispy. Served with mayo for dipping,99.00
+item5,Mozzarella Cheese Sticks,"Golden fried, stretchy, cheesy and melty mozzarella. Served with classic marinara sauce for dipping",185.00
+item6,Mojos 'n' Dip,Shakey's very own deep fried potato slices breaded with unique seasoning and spices. Choose your yummy dip,135.00
+item7,Mojos Supreme,Big bucket of goodness of potato slices. Enjoy it even more with 3 exciting dips,375.00
+item8,Chef's Choice Salad,"Ham, grated cheddar cheese, crunchy croutons and hard boiled egg on a heap of fresh lettuce. Served with your choice of either thousand island or ranch dressing",282.00
+item9,Caesar Salad,"A true classic. Fresh crisp lettuce loaded with crispy premium bacon bits, parmesan cheese and crunchy croutons. Tossed with Caesar dressing",282.00
+item10,Angus Steakhouse,Premium pizza made from specially blended Angus beef with roasted onions and sliced mushrooms topped with our crunchy potato strings,668.00
+item11,Belly Buster,"Count them: beef, Italian sausage, pepperoni, ham, salami, cheddar cheese, salami bits, mushrooms, red and green bell pepper, onions and black olives",668.00
+item12,Shakey's Special,"A special pizza loaded with beef, Italian sausage, pepperoni, salami, mushrooms, green bell pepper and onions",636.00
+item13,Grand Slam!,It's divided into our 4 most popular flavors so everyone's sure to find their favorite. Served with a pitcher of House blend iced tea or softdrink,905.00
+item14,Family Deal 1,Good for 3 to 4 persons. Spaghetti Platter or Solo Pack Chicken 'n' Mojos with 3 pieces of Shakey's flavorful chicken. Any large Thin Crust Pizza and one 1.5L Coke,990.00
+item15,Family Meal Deal 2,"Good for 5 to 6 persons. Spaghetti Platter, Any large Thin Crust Pizza, Buddy Pack Chicken n' Mojos with 5 pieces of Shakey's flavorful chicken and one 1.5L Coke","1,431.00"
+item16,Family Meal Deal 3,"Good for 6 to 8 persons. Spaghetti Platter, Any large Thin Crust Pizza, Family pack Chicken 'n' Mojos with 7 pieces of Shakey's flavorful chicken and two 1.5L Coke","1,872.00"
+item17,Monster Meal Deal,"Good for 10 to 12 persons. 2 Large crisp brick-oven pizza: Manager's Choice and Pepperoni Thin Crust Pizza, 2 Platters of rich and flavorful pasta: Classic Spaghetti and Carbonara Supreme, Awesome Twosome 12pieces Chicken 'n' Mojos Party Pack and three 1.5L Coke","2,864.00"
+item18,Super Shake,"We make good old-fashioned milkshakes - Super! Made with premium ice cream and fresh milk. Strawberry, Chocolate, Vanilla, Merry Mango or Coffee Chip",179.00
+item19,Fun Mixes,"Lemon Cucumber Cooler, Blue Lemon Slush",179.00
+item20,Yoghurt Bliss,"Blueberry yoghurt, strawberry yoghurt",179.00
+Starbucks Coffee,Name,Description,Price
+item1,Espresso,"A shot of pure, intense coffee flavor",110.00
+item2,Espresso Macchiato,Espresso marked with foamed milk,110.00
+item3,Caffe Americano,Rich espresso with hot water,140.00
+item4,Cappuccino,"Rich espresso, steamed milk and a deep layer of foam",150.00
+item5,Caffe Latte,"Rich espresso, steamed milk and a dollop of foam",150.00
+item6,Caramel Macchiato,"Steamed milk and sweet vanilla syrup topped with foam, rich espresso and a caramel drizzle",175.00
+item7,Caffe Mocha,"Rich espresso, bittersweet chocolate sauce and steamed milk, topped with whipped cream",165.00
+item8,White Chocolate Mocha,"Rich espresso and steamed milk with white chocolate flavored sauce, topped with whipped cream",175.00
+item9,Ristretto Bianco,"Rich ristretto espresso shot, steamed milk and velvety micro foam",175.00
+item10,Full-Leaf Brewed Tea,"English breakfast, earl grey, china green tips, mint blend, chamomile blend or hibiscus blend",120.00
+item11,Green Tea Latte,Invigorating green tea and steamed milk,165.00
+item12,Chai Tea Latte,Spice-infused black tea and steamed milk,165.00
+item13,Signature Hot Chocolate,Four cocoas and fresh steamed milk with whipped cream and chocolate powder,155.00
+item14,White Hot Chocolate,White chocolate and fresh steamed milk with whipped cream,150.00
+item15,Coffee,"Coffee and milk, blended with ice",160.00
+item16,Mocha,"Coffee, sweet caramel, milk and ice, with whipped cream and a caramel drizzle",170.00
+item17,Caramel,"Coffee, sweet caramel, milk and ice, with whipped cream and a caramel drizzle",170.00
+item18,Java Chip,"Coffee, chocolaty chips, bittersweet mocha sauce, milk and ice, with whipped cream",185.00
+item19,Coffee Jelly,"Coffee, coffee jelly, milk and ice, with whipped cream",185.00
+item20,Strawberries & Cream,"Vanilla syrup and milk, milk and ice, with whipped cream",185.00
+item20,Chocolate Chip Cream,"Bittersweet mocha sauce, chocolaty chips, milk and ice, with whipped cream",185.00
+Teriyaki Boy,Name,Description,Price
+item1,Gyoza,"Also known as potstickers. Japanese pork dumplings, steamed and seared until crisp, served with a tangy soy-based dipping sauce.",399.00
+item2,Miso Soup,"A classic Japanese soup of fermented soy beans, served with wakame seaweed and diced silken tofu",65.00
+item3,Aji Tamago,Flavorful soft boiled eggs with custard like egg yolk,30.00
+item4,Edamame,Crunchy green soy beans,90.00
+item5,Kani Salad,"Japanese crabstick with mayonnaise resting on top of a cucumber slaw, topped with fresh shrimp roe or Japanese caviar",175.00
+item6,Philly Cheese Steak Roll,An American classic with a Japanese twist. Teppanyaki beef with deep fried sweet onions topped with flame-torched cheese served with our own rolls dip,185.00
+item7,Crunchy Kani Roll,Kani with fresh mango rolled with crunchy kani strips on top,155.00
+item8,Sushi Platter,"Combination of two sushi variants from choices of California roll, Philly Cheese Steak Roll, Crunchy Kani Roll, and Dynamite Roll",170.00
+item9,Tamago Sashimi,"Japanese sweet omelette, served with fresh daikon and wasabi",105.00
+item10,Shake Sashimi,"Fresh Norwegian salmon, served with fresh daikon, pickled ginger and wasabi",220.00
+item11,Shake Sushi,"Fresh Norwegian salmon on top of vinegared rice, served with wasabi",110.00
+item12,Chashu Ramen Shoyu,"Ramen noodles served with chashu slices, aji, tamago, fish cake and wakame in shoyu soup base",245.00
+item13,Sukiyaki,"Traditional Japanese stew of sliced beef, silken tofu, shiitake mushrooms, vegetables, glass noodles and raw egg",320.00
+item14,Gyuniku Ramen,"Stir fried beef slices topped with egg yolk, spring onions, black and white sesame seeds on sesame oil-drizzled ramen noodles in shoyu soup base",245.00
+item15,Katsu Ju,"Breaded pork cutlet, deep-fried and simmered in sweet soy sauce, onions and leeks, with beaten egg, topped on a bed of steamed Japanese rice",345.00
+item16,Ebi Katsu Ju,"Breaded shrimps deep-fried and simmered in sweet soy sauce, onions and shiitake mushroom strips with beaten egg topped on a bed of steamed Japanese rice.",345.00
+item17,Beef Belly Teppanyaki Ju,Beef bacon slices stir-fried with teppanyaki sauce and onion slices on a bed of steamed Japanese rice,345.00
+item18,Wafu Steak,"Premium diced-cut beef, perfectly served and stir-fried with garlic and teppanyaki sauce, served with a siding of savory sesame moyashi",505.00
+item19,Asupara Bacon Maki,A modern Japanese dish of fresh asparagus spears wrapped in honey-glazed bacon strips seared to perfection,350.00
+item20,Tonkatsu,"Fillet of high quality tender pork, breaded and deep fried until golden brown. Served with cabbage salad and a drizzle of sesame dressing",280.00
+The Kitchen,Name,Description,Price
+item1,Solomon's Bistek Supreme,"Slow cooked beef loin in soy-time marinade served with caramelized onions, garlic fried rice and quail sunny side up",168.00
+item2,The Kitchen's Homemade Meatloaf,"Finest meat blended with herbs and spices you'll love every bite of ill. Served with choice of toasted bread or garlic fried rice, egg sunny side up, tomato slice and pickled cucumber",168.00
+item3,Amang's Garlic Longganisa,"An Ilocano's pride from Pangasinan perfect with vegetable omelette, fried rice and pickled cucumber",158.00
+item4,Crispy Daing na Pingka,"Tomato omelet, adobo rice and Ensaladang Mangga on the side",148.00
+item5,Bonuan Boneless Bangus,"Paired with vegetable omelette, binagoongang rice and pickled papaya on the side",148.00
+item6,Duck Flavored Arroz Caldo,"Rice porridge simmered with aromatic duck stock, topped with sliced duck breast, garlic chips and century egg",98.00
+item7,Jenny's Superb Sisig Bangus,The belly part of bangus sizzle and burst with flavors from chef's signature marinade,138.00
+item8,Vietnamese Salad Rolls,"Fresh vegetables, flavored glass noodles rolled on rice paper served with a choice of shrimp or crabmeat filling in Hoisin-Tamarind sauce",138.00
+item9,Hoi Sin Chicken Taro in Molo Cups,With Pineapple-Chili dipping sauce,128.00
+item10,Chef's Salad,"Baguio's finest greens and vegetables, crispy vegetable chips, egg and honey glazed nuts topped with cold meat cuts with choice of strawberry-time or pepper cream dressing",178.00
+item11,Ensalada ni Caesar,"Our own version if Caesar salad mode of duck egg mayo topped with herbed croutons, Native longganisa bits and parmesan cheese",158.00
+item12,Crispy Pata,Classic main dish prepared the Kitchen's way. Our own version of the Filipino favorite pork recipe,488.00
+item13,Roasted Pork Ribs with Homemade Barbecue Sauce,"Prime cut of pork ribs simmered with aromatics and rubbed with the finest herbs and spices, surely a dish fit for your cravings",278.00
+item14,Chicken Tenders,Crispy strips of chicken fillet in herbed batter with our signature mix of honey mustard for the sauce,228.00
+item15,Thai Chicken Curry,"Cooked in the style of the Kitchen, our chicken curry is flavored with a variety of spices that makes this comfort food worth indulging for",228.00
+item16,Chapchae,"Stir-fried glass noodles with julienned carrots, bell pepper and marinated chicken, fish cake, seasoned with oyster sauce and sesame oil",228.00
+item17,The Kitchen's Burger,"Our finest beef-mushroom patty over melted cheese, pineapple ring, roasted vegetables and fresh lettuce with thousand island spread",168.00
+item18,Top Down Ham N' Cheese Chicken Sandwich,Cordon Bleu-style chicken and fresh lettuce in wheat bread served with potato chips on the side,168.00
+item19,Creamy Bacon and Mushroom Linguine,Creamy and indulgent comfort food at its very best,228.00
+item20,Andrej's Meatballs Spaghetti,"A critic's choice with beef Bolognese meatballs topped with grated parmesan cheese, served with pan roasted garlic buttered pan de sal",238.00
+Vizco's Restaurant and Bakeshop,Name,Description,Price
+item1,Baby Back Ribs,"A slab of lock tender pork ribs in barbeque sauce, served with ranch dressing and herbed vegetables",430.00
+item2,Salisbury Steak,100% pure beef patty in mushroom sauce served with herbed vegetables,248.00
+item3,Italian Beef Stew,"Tender beef short ribs simmered with red wine and sauteed with olives, mushrooms, onions, bell pepper and fresh tuna in olive oil",180.00
+item4,Beef Tenderloin in Mushroom Sauce,Tender beef sliced in mushroom sauce served with herbed vegetables,225.00
+item5,Spanish Beef Salpicao,Marinated beef tenderloin cubes sauteed with garlic in olive oil topped on garlic rice,225.00
+item6,Grilled U.S. Beef Shortplate (200g),Grilled juicy beef served with gravy and herbed vegetables,245.00
+item7,Grilled U.S. Beef Chuck Roll (200g),Grilled of beef served with gravy and tested vegetables,335.00
+item8,Honey Mustard Chicken,"Fried Chicken glazed with honey mustard sauce, served with Caesar's salad",195.00
+item9,Tangy Fried Chicken,"Fried chicken glazed with tangy barbeque sauce, served with ranch dressing and Caesar's salad",195.00
+item10,Braised Chicken in Olive Oil,"Quarter braised with red wine, olives and fresh tomatoes in olive oil",155.00
+item11,Fish Fillet in Sauce Bercy,"Pan fried Creme Dori in cream sauce, flavored with lemon and chopped parsley, onions and white wine, served with herbed vegetables",248.00
+item12,Parmesan Crusted Fish Fillet,"Pan Fried filet of Creme Dory coated with parmesan cheese, served with garlic mayonnaise, vinaigrette salad and roasted pesto tomatoes",298.00
+item13,Italian Gambazaette,"Shrimp sauteed with garlic, mushroom, bell pepper, and fresh basil in olive oil, flavored with lemon juice and red wine, topped with parmesan cheese",225.00
+item14,Salmon Fillet in Saffron Cream or Lemon Butter Sauce,Pan fried Salmon fillet served with herbed vegetabes,510.00
+item15,Snack Combo,"Pomodoro pasta topped with fried chicken strips, served with Caesar's salad",110.00
+item16,Super Combo A,Fried Chicken with half and Half pasta and fries/ onions rings/ cheese nachos,165.00
+item17,Super Combo B,Fried chicken with two Hawaiian pizza and fries/ onion rings/ cheese nachos,155.00
+item18,Super Combo C,"Fried chicken with half and half pasta, two slices of Hawaiian pizza and fries/ onion rings/ cheese nachos",210.00
+item19,Garlic & Cheese,The perfect pizza for garlic lovers,465.00
+item20,Margherita,"A classic pizza combination of fresh basil, tomatoes and mozzarella",510.00
+Wood Nymph,Name,Description,Price
+item1,go-dung-uh gui / Grilled Mackerel,pan grilled Korean mackerel served with soy sauce and wasabi,230.00
+item2,o-jing-uh bok-um / Spicy Roasted Squid,"sauted vegetables in sesame oil, chili powder and chili paste with thin slices of squid",190.00
+item3,hae-mul pa-jeon / Seafood Pancake,seafood omelet with vegetables,180.00
+item4,pal-bo-chae / Roasted Various Vegetables,Korean-Chinese fusion of chopsuey sauted assorted vegetables mixed with seafood,380.00
+item5,tofu tang-soo-yook / Sweet and Sour Tofu,fried tofu with sweet and sour sauce,330.00
+item6,jap-chae / Korean Roasted Noodle,vegetables and sliced beef made of sweet potato noodle and Korean special sauce (a Korean traditional famous dish),190.00
+item7,mool-neng-myeon / Cold Buckwheat Noodle,oriental sticky noodles with cold beef broth,200.00
+item8,bi-bim neng-myeon / Spicy Mixed Buckwheat Noodle,oriental sticky noodles topped wit h Korean sweet spicy sauce and thin sliced beef,210.00
+item9,bi-bim guk-su / Spicy Mixed Noodle,cold wheat noodles topped with Korean sweet and spicy sauce,210.00
+item10,cham-bbong / Spicy Seafood Noodle,"a medley of spicy seafoods, noodles and vegetables cooked with red powdered pepper",230.00
+item11,white cham-bbong / White Spicy Seafood Noodle,"a medley of spicy seafoods, noodles and vegetables cooked with fresh green pepper",230.00
+item12,je-yook bok-um / Spicy Roasted Pork,"sauted vegetables in sesame oil, chili powder and chili paste with thin slices of pork",190.00
+item13,bo-ssam / Steamed Pork Wrap,steamed pork with parbroiled cabbage and spicy sweet assorted mixtures,350.00
+item14,sam-gyup-sal / Korean Bacon,Korean style thick bacon grille din front of you wrapped in lettuce with special Korean paste (Korean style liempo),250.00
+item15,so-gal-bi-chim / Smothered Beef Ribs,soft beef ribs with special Korean sweet sauce,250.00
+item16,so-bulgogi / Korean Seasoned Beef,seasoned beef with sweet and soy sauce vegetables,230.00
+item17,so-gal-bi-gui / Sizzling Beef Ribs BBQ,pan grilled beef ribs marinated in special Korean sauce,250.00
+item18,cheese ramyeon bok-I / Spicy Roasted Rice Cake and Noodle,sweet and spicy rice cake with fish flakes and cheese and instant noodles,220.00
+item19,tok bok-I / Spicy Roasted Rice Cake,sweet and spicy rice cake with fish flakes,180.00
+item20,nam-bi tok ra-myeon / Korean Rice Cake Noodle,Korean spicy instant noodles with rice cake,160.00

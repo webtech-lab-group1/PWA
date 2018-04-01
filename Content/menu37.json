@@ -1,0 +1,107 @@
+{
+   "Starbucks Coffee": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "Espresso",
+      "FIELD3": "A shot of pure, intense coffee flavor",
+      "FIELD4": "110.00"
+   },
+   "item2": {
+      "FIELD2": "Espresso Macchiato",
+      "FIELD3": "Espresso marked with foamed milk",
+      "FIELD4": "110.00"
+   },
+   "item3": {
+      "FIELD2": "Caffe Americano",
+      "FIELD3": "Rich espresso with hot water",
+      "FIELD4": "140.00"
+   },
+   "item4": {
+      "FIELD2": "Cappuccino",
+      "FIELD3": "Rich espresso, steamed milk and a deep layer of foam",
+      "FIELD4": "150.00"
+   },
+   "item5": {
+      "FIELD2": "Caffe Latte",
+      "FIELD3": "Rich espresso, steamed milk and a dollop of foam",
+      "FIELD4": "150.00"
+   },
+   "item6": {
+      "FIELD2": "Caramel Macchiato",
+      "FIELD3": "Steamed milk and sweet vanilla syrup topped with foam, rich espresso and a caramel drizzle",
+      "FIELD4": "175.00"
+   },
+   "item7": {
+      "FIELD2": "Caffe Mocha",
+      "FIELD3": "Rich espresso, bittersweet chocolate sauce and steamed milk, topped with whipped cream",
+      "FIELD4": "165.00"
+   },
+   "item8": {
+      "FIELD2": "White Chocolate Mocha",
+      "FIELD3": "Rich espresso and steamed milk with white chocolate flavored sauce, topped with whipped cream",
+      "FIELD4": "175.00"
+   },
+   "item9": {
+      "FIELD2": "Ristretto Bianco",
+      "FIELD3": "Rich ristretto espresso shot, steamed milk and velvety micro foam",
+      "FIELD4": "175.00"
+   },
+   "item10": {
+      "FIELD2": "Full-Leaf Brewed Tea",
+      "FIELD3": "English breakfast, earl grey, china green tips, mint blend, chamomile blend or hibiscus blend",
+      "FIELD4": "120.00"
+   },
+   "item11": {
+      "FIELD2": "Green Tea Latte",
+      "FIELD3": "Invigorating green tea and steamed milk",
+      "FIELD4": "165.00"
+   },
+   "item12": {
+      "FIELD2": "Chai Tea Latte",
+      "FIELD3": "Spice-infused black tea and steamed milk",
+      "FIELD4": "165.00"
+   },
+   "item13": {
+      "FIELD2": "Signature Hot Chocolate",
+      "FIELD3": "Four cocoas and fresh steamed milk with whipped cream and chocolate powder",
+      "FIELD4": "155.00"
+   },
+   "item14": {
+      "FIELD2": "White Hot Chocolate",
+      "FIELD3": "White chocolate and fresh steamed milk with whipped cream",
+      "FIELD4": "150.00"
+   },
+   "item15": {
+      "FIELD2": "Coffee",
+      "FIELD3": "Coffee and milk, blended with ice",
+      "FIELD4": "160.00"
+   },
+   "item16": {
+      "FIELD2": "Mocha",
+      "FIELD3": "Coffee, sweet caramel, milk and ice, with whipped cream and a caramel drizzle",
+      "FIELD4": "170.00"
+   },
+   "item17": {
+      "FIELD2": "Caramel",
+      "FIELD3": "Coffee, sweet caramel, milk and ice, with whipped cream and a caramel drizzle",
+      "FIELD4": "170.00"
+   },
+   "item18": {
+      "FIELD2": "Java Chip",
+      "FIELD3": "Coffee, chocolaty chips, bittersweet mocha sauce, milk and ice, with whipped cream",
+      "FIELD4": "185.00"
+   },
+   "item19": {
+      "FIELD2": "Coffee Jelly",
+      "FIELD3": "Coffee, coffee jelly, milk and ice, with whipped cream",
+      "FIELD4": "185.00"
+   },
+   "item20": {
+      "FIELD2": "Strawberries & Cream",
+      "FIELD3": "Vanilla syrup and milk, milk and ice, with whipped cream",
+      "FIELD4": "185.00"
+   }
+}

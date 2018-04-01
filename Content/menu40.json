@@ -1,0 +1,107 @@
+{
+   "Vizco's Restaurant and Bakeshop": {
+      "FIELD2": "Name",
+      "FIELD3": "Description",
+      "FIELD4": "Price"
+   },
+   "item1": {
+      "FIELD2": "Baby Back Ribs",
+      "FIELD3": "A slab of lock tender pork ribs in barbeque sauce, served with ranch dressing and herbed vegetables",
+      "FIELD4": "430.00"
+   },
+   "item2": {
+      "FIELD2": "Salisbury Steak",
+      "FIELD3": "100% pure beef patty in mushroom sauce served with herbed vegetables",
+      "FIELD4": "248.00"
+   },
+   "item3": {
+      "FIELD2": "Italian Beef Stew",
+      "FIELD3": "Tender beef short ribs simmered with red wine and sauteed with olives, mushrooms, onions, bell pepper and fresh tuna in olive oil",
+      "FIELD4": "180.00"
+   },
+   "item4": {
+      "FIELD2": "Beef Tenderloin in Mushroom Sauce",
+      "FIELD3": "Tender beef sliced in mushroom sauce served with herbed vegetables",
+      "FIELD4": "225.00"
+   },
+   "item5": {
+      "FIELD2": "Spanish Beef Salpicao",
+      "FIELD3": "Marinated beef tenderloin cubes sauteed with garlic in olive oil topped on garlic rice",
+      "FIELD4": "225.00"
+   },
+   "item6": {
+      "FIELD2": "Grilled U.S. Beef Shortplate (200g)",
+      "FIELD3": "Grilled juicy beef served with gravy and herbed vegetables",
+      "FIELD4": "245.00"
+   },
+   "item7": {
+      "FIELD2": "Grilled U.S. Beef Chuck Roll (200g)",
+      "FIELD3": "Grilled of beef served with gravy and tested vegetables",
+      "FIELD4": "335.00"
+   },
+   "item8": {
+      "FIELD2": "Honey Mustard Chicken",
+      "FIELD3": "Fried Chicken glazed with honey mustard sauce, served with Caesar's salad",
+      "FIELD4": "195.00"
+   },
+   "item9": {
+      "FIELD2": "Tangy Fried Chicken",
+      "FIELD3": "Fried chicken glazed with tangy barbeque sauce, served with ranch dressing and Caesar's salad",
+      "FIELD4": "195.00"
+   },
+   "item10": {
+      "FIELD2": "Braised Chicken in Olive Oil",
+      "FIELD3": "Quarter braised with red wine, olives and fresh tomatoes in olive oil",
+      "FIELD4": "155.00"
+   },
+   "item11": {
+      "FIELD2": "Fish Fillet in Sauce Bercy",
+      "FIELD3": "Pan fried Creme Dori in cream sauce, flavored with lemon and chopped parsley, onions and white wine, served with herbed vegetables",
+      "FIELD4": "248.00"
+   },
+   "item12": {
+      "FIELD2": "Parmesan Crusted Fish Fillet",
+      "FIELD3": "Pan Fried filet of Creme Dory coated with parmesan cheese, served with garlic mayonnaise, vinaigrette salad and roasted pesto tomatoes",
+      "FIELD4": "298.00"
+   },
+   "item13": {
+      "FIELD2": "Italian Gambazaette",
+      "FIELD3": "Shrimp sauteed with garlic, mushroom, bell pepper, and fresh basil in olive oil, flavored with lemon juice and red wine, topped with parmesan cheese",
+      "FIELD4": "225.00"
+   },
+   "item14": {
+      "FIELD2": "Salmon Fillet in Saffron Cream or Lemon Butter Sauce",
+      "FIELD3": "Pan fried Salmon fillet served with herbed vegetabes",
+      "FIELD4": "510.00"
+   },
+   "item15": {
+      "FIELD2": "Snack Combo",
+      "FIELD3": "Pomodoro pasta topped with fried chicken strips, served with Caesar's salad",
+      "FIELD4": "110.00"
+   },
+   "item16": {
+      "FIELD2": "Super Combo A",
+      "FIELD3": "Fried Chicken with half and Half pasta and fries/ onions rings/ cheese nachos",
+      "FIELD4": "165.00"
+   },
+   "item17": {
+      "FIELD2": "Super Combo B",
+      "FIELD3": "Fried chicken with two Hawaiian pizza and fries/ onion rings/ cheese nachos",
+      "FIELD4": "155.00"
+   },
+   "item18": {
+      "FIELD2": "Super Combo C",
+      "FIELD3": "Fried chicken with half and half pasta, two slices of Hawaiian pizza and fries/ onion rings/ cheese nachos",
+      "FIELD4": "210.00"
+   },
+   "item19": {
+      "FIELD2": "Garlic & Cheese",
+      "FIELD3": "The perfect pizza for garlic lovers",
+      "FIELD4": "465.00"
+   },
+   "item20": {
+      "FIELD2": "Margherita",
+      "FIELD3": "A classic pizza combination of fresh basil, tomatoes and mozzarella",
+      "FIELD4": "510.00"
+   }
+}

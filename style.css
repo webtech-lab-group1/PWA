@@ -1,22 +1,20 @@
 /*############ default ################*/
-nav {
-  display: block;
-}
-
-body {
-  margin: 0;
-}
-
-html, body {
+html, body, nav {
   height: 100%;
+  display: block;
+  padding: 0;
+  margin: 0;
 }
 
 
 /*#############  navbar  ##############*/
 
 nav {
-  width: 100%;
+  width: 250px;
   margin: 0;
+  height: 100%;
+  position: fixed;
+  background-color: #eee;
 }
 
 nav ul {
@@ -31,13 +29,11 @@ div.container {
   width: 10%;
 }
 
-div#map {
-  height: 100%;
-}
-
 ul.topnav li {
   list-style: none;
   float: left;
+  display: block;
+  width: 100%;
 }
 
 ul.topnav li.topnav-right {
@@ -61,7 +57,7 @@ ul.topnav li.topnav-right div.search-bar {
 }
 
 .search-bar a {
-  float: left;
+  float: right;
 }
 
 .search-bar form {
@@ -81,6 +77,20 @@ ul.topnav li.dropdownIcon {
 /*############ responsive ##########*/
 
 @media screen and (max-width: 680px) {
+  nav {
+    height: auto;
+    width: 100%;
+    position: absolute;
+  }
+
+  form {
+    float: right;
+  }
+
+  ul.topnav li {
+    width: auto;
+  }
+
   ul.topnav li:not(:nth-child(2)) {
     display: none;
   }

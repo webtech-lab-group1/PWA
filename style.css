@@ -1,11 +1,13 @@
 /*############ default ################*/
-html, body, nav {
-  height: 100%;
+html, body, nav, canvas {
   display: block;
   padding: 0;
   margin: 0;
 }
 
+body {
+  overflow: hidden;
+}
 
 /*#############  navbar  ##############*/
 
@@ -26,7 +28,8 @@ nav ul {
 
 div.container {
   display: block;
-  width: 10%;
+  margin-left: 250px;
+  overflow: hidden;
 }
 
 ul.topnav li {
@@ -56,11 +59,11 @@ ul.topnav li.topnav-right div.search-bar {
   min-height: 16px;
 }
 
-.search-bar a {
+div.search-bar a {
   float: right;
 }
 
-.search-bar form {
+div.search-bar form {
   float: left;
   padding: 12px;
 }
@@ -74,9 +77,23 @@ ul.topnav li.dropdownIcon {
   display: none;
 }
 
+canvas#map {
+  height: 100%;
+  width: auto;
+}
+
 /*############ responsive ##########*/
 
 @media screen and (max-width: 680px) {
+  div.container {
+    margin: 0;
+  }
+
+  canvas#map {
+    height: 100%;
+    width: auto;
+  }
+
   nav {
     height: auto;
     width: 100%;

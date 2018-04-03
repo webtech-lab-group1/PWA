@@ -4,10 +4,9 @@
     <meta name="viewport" content="initial-scale=1.0">
     <meta charset="utf-8">
     <link rel="stylesheet" type="text/css" href="style.css">
-    <script src="script.js" type="text/javascript"></script>
     <title>WebTech lab Midterms</title>
   </head>
-  <body>
+  <body class="dragscroll">
     <nav>
       <ul class="topnav" id="dropdownClick">
         <li class="dropdownIcon"><a href="javascript:void(0);" onclick="dropdownMenu()">&#9776;</a></li>
@@ -26,6 +25,10 @@
         <li><a href="#">Italian</a></li>
         </ul>
     </nav>
+    <div class="container dragscroll">
+      <canvas id="map"></canvas>
+    </div>
+    <script src="script.js" type="text/javascript"></script>
+    <script src="dragscroll.js" type="text/javascript"></script>
   </body>
-
 </html>

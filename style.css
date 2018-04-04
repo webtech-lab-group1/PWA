@@ -1,14 +1,21 @@
 /*############ default ################*/
 html, body, nav, canvas {
+<<<<<<< HEAD
+=======
+  height: 100%;
+>>>>>>> 6197101b65017034d2522088bc4e152f9cd74568
   display: block;
   padding: 0;
   margin: 0;
 }
 
+<<<<<<< HEAD
 body {
   overflow: hidden;
 }
 
+=======
+>>>>>>> 6197101b65017034d2522088bc4e152f9cd74568
 /*#############  navbar  ##############*/
 
 nav {
@@ -29,7 +36,11 @@ nav ul {
 div.container {
   display: block;
   margin-left: 250px;
+<<<<<<< HEAD
   overflow: hidden;
+=======
+  overflow: auto;
+>>>>>>> 6197101b65017034d2522088bc4e152f9cd74568
 }
 
 ul.topnav li {
@@ -78,8 +89,13 @@ ul.topnav li.dropdownIcon {
 }
 
 canvas#map {
+<<<<<<< HEAD
   height: 100%;
   width: auto;
+=======
+  height: auto;
+  width: 100%;
+>>>>>>> 6197101b65017034d2522088bc4e152f9cd74568
 }
 
 /*############ responsive ##########*/
@@ -88,12 +104,15 @@ canvas#map {
   div.container {
     margin: 0;
   }
+<<<<<<< HEAD
 
   canvas#map {
     height: 100%;
     width: auto;
   }
 
+=======
+>>>>>>> 6197101b65017034d2522088bc4e152f9cd74568
   nav {
     height: auto;
     width: 100%;

@@ -3,6 +3,7 @@ var context = area.getContext('2d');
 
 make_base();
 
+
 function make_base() {
 	var base_image = new Image();
 	base_image.src = 'map/zoom15.bmp';
@@ -23,3 +24,11 @@ function dropdownMenu() {
     dropdown.className = "topnav";
   }
 }
+
+function draw_circle() {
+	context.beginPath();
+	context.arc(1280,840,50,0,2*Math.PI);
+	context.stroke();
+}
+
+var korean = document.getElementById('korean');

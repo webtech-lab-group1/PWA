@@ -13,6 +13,7 @@ function make_base() {
 		context.canvas.width = imgwid;
 		context.canvas.height = imghgt;
 		context.drawImage(base_image, 0, 0, imgwid, imghgt);
+		draw_circle();
 	}
 }
 

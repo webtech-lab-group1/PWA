@@ -6,7 +6,7 @@ html, body, nav, canvas {
 }
 
 body {
-  overflow: hidden;
+  height: 100%;
 }
 
 /*#############  navbar  ##############*/
@@ -29,7 +29,6 @@ nav ul {
 div.container {
   display: block;
   margin-left: 250px;
-  overflow: hidden;
 }
 
 ul.topnav li {
@@ -80,6 +79,7 @@ ul.topnav li.dropdownIcon {
 canvas#map {
   height: 100%;
   width: auto;
+  overflow: hidden;
 }
 
 /*############ responsive ##########*/
@@ -97,7 +97,7 @@ canvas#map {
   nav {
     height: auto;
     width: 100%;
-    position: absolute;
+    position: fixed;
   }
 
   form {

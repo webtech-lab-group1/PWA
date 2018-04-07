@@ -3,8 +3,8 @@
    "name": "50's Diner",
    "category": "American",
    "location": "4/F Porta Vaga Mall, Session Road, Baguio City",
-   "longitude": "120.59855560000005",
-   "latitude": "16.4119417",
+   "longitude": "1306",
+   "latitude": "825",
    "menu": [
    	 {
       "name": "Chicken Spears",
@@ -112,8 +112,8 @@
    "name": "Amare La Cucina",
    "category": "Italian",
    "location": "EGI Albergo Hotel, 1 Villamor Dr, Lualhati, Baguio City",
-   "longitude": "120.61740800000007",
-   "latitude": "16.413665",
+   "longitude": "1758",
+   "latitude": "799",
   "menu": [
     {
       "name": "Insalata Verde",
@@ -221,8 +221,8 @@
    "name": "Arca's Yard",
    "category": "International",
    "location": "777 Tiptop, Ambuklao Rd, Baguio City",
-   "longitude": "120.62308400000006",
-   "latitude": "16.4289289",
+   "longitude": "1892",
+   "latitude": "427",
   "menu": [
     {
       "name": "Benguet Coffee",
@@ -330,8 +330,8 @@
    "name": "Beggang Resto Grill",
    "category": "Filipino",
    "location": "Skating Rink, Burnham Park, Baguio City",
-   "longitude": "none",
-   "latitude": "none",
+   "longitude": "1266",
+   "latitude": "910",
   "menu": [
     {
       "name": "Tapang Taal",
@@ -439,8 +439,8 @@
    "name": "Baguio Craft Brewery",
    "category": "International",
    "location": "Ben Palispis Highway, Baguio City",
-   "longitude": "120.58062940000002",
-   "latitude": "16.3952485",
+   "longitude": "897",
+   "latitude": "1248",
   "menu": [
     {
       "name": "Fish and Chips",
@@ -538,8 +538,8 @@
    "name": "Cafe Adriana by Hill Station",
    "category": "Spanish",
    "location": "Outlook Ridge Residences, V. De los Reyes Street, DMCI, Outlook Drive, Baguio City",
-   "longitude": "120.62475960000006",
-   "latitude": "16.4128084",
+   "longitude": "1928",
+   "latitude": "818",
   "menu":[
     {
       "name": "English Muffin",
@@ -647,8 +647,8 @@
    "name": "Cafe in the sky",
    "category": "Filipino",
    "location": "Mt Sto Tomas, Poblacion Kabuyao, Tuba, Baguio City",
-   "longitude": "120.56072169999993",
-   "latitude": "16.3622564",
+   "longitude": "wala sa map",
+   "latitude": "wala",
   "menu": [
      {
       "name": "Crispy Sky Rolls",
@@ -756,8 +756,8 @@
    "name": "Cafe Will",
    "category": "International",
    "location": "MH Del Pilar Legarda Rd, Baguio City",
-   "longitude": "120.59241129999998",
-   "latitude": "16.4083373",
+   "longitude": "1176",
+   "latitude": "930",
   "menu": [
     {
       "name": "Grilled Black Jack Ribs",
@@ -865,8 +865,8 @@
    "name": "Camping Date",
    "category": "Korean",
    "location": "363 Legarda Road, in front of Prince Plaza Hotel, Baguio",
-   "longitude": "120.59137129999999",
-   "latitude": "16.4097267",
+   "longitude": "1146",
+   "latitude": "895",
   "menu": [
     {
       "name": "Cheese Pizza",
@@ -934,8 +934,8 @@
    "name": "Classic Savory",
    "category": "Filipino",
    "location": "132 Upper Ground Floor, Sm City Baguio, Luneta Hill Drive,",
-   "longitude": "none",
-   "latitude": "none",
+   "longitude": "1344",
+   "latitude": "927",
   "menu": [
     {
       "name": "Shanghai Rolls",
@@ -1043,8 +1043,8 @@
    "name": "Chef's Home",
    "category": "Asian",
    "location": "13 Outlook Dr cor Romulo Drive, Baguio City",
-   "longitude": "120.58410200000003",
-   "latitude": "16.399434",
+   "longitude": "977",
+   "latitude": "1144",
   "menu": [
     {
       "name": "Pickles Tester",
@@ -1152,8 +1152,8 @@
    "name": "David's Tea house",
    "category": "Chinese",
    "location": "3/F SM City Baguio, Baguio City",
-   "longitude": "120.59970799999996",
-   "latitude": "16.4091379",
+   "longitude": "1340",
+   "latitude": "928",
   "menu": [
     {
       "name": "Polonchay w/ Seafood Soup",
@@ -1261,8 +1261,8 @@
    "name": "Dencio's Bar and Grill",
    "category": "Filipino",
    "location": "Mile-Hi Center, Camp John Hay, Baguio City, Camp John Hay, Baguio, Benguet",
-   "longitude": "120.61660000000006",
-   "latitude": "16.401797",
+   "longitude": "1742",
+   "latitude": "1080",
   "menu": [
     {
       "name": "Krunchy Kwek Kwek",
@@ -1370,8 +1370,8 @@
    "name": "Don Henrico's",
    "category": "Italian",
    "location": "Lower G/F SM City Baguio, Baguio City",
-   "longitude": "120.59939899999995",
-   "latitude": "16.409354",
+   "longitude": "1337",
+   "latitude": "904",
   "menu": [
     {
       "name": "Homestyle Onion Rings",
@@ -1479,8 +1479,8 @@
    "name": "Ebai's Cafe & Pastry",
    "category": "International",
    "location": "Narda Bldg., 151 Upper Session Rd, Baguio City",
-   "longitude": "120.6015476",
-   "latitude": "16.4059152",
+   "longitude": "1388",
+   "latitude": "985",
   "menu": [
     {
       "name": "Filipino Breakfast",
@@ -1588,8 +1588,8 @@
    "name": "Foggy Mountain Cookhouse",
    "category": "Mediterranean",
    "location": "172 St Joseph Street, San Carlos Heights, Baguio City",
-   "longitude": "120.56710320000002",
-   "latitude": "16.4104011",
+   "longitude": "588",
+   "latitude": "877",
   "menu": [
     {
       "name": "Oven Roasted Whole Chicken",
@@ -1662,8 +1662,8 @@
    "name": "Forest House Bistro & Cafe",
    "category": "International",
    "location": "16 Loakan Rd, Camp John Hay, Baguio City",
-   "longitude": "120.60724470000002",
-   "latitude": "16.4025562",
+   "longitude": "1521",
+   "latitude": "1070",
   "menu": [
     {
       "name": "Forest House Home Made Bagnet",
@@ -1771,8 +1771,8 @@
    "name": "Giligan's Island",
    "category": "Filipino",
    "location": "7 Legarda Rd cor G Del Pilar St, Baguio City",
-   "longitude": "120.59094030000006",
-   "latitude": "16.4111052",
+   "longitude": "1141",
+   "latitude": "864",
   "menu": [
     {
       "name": "Gilligan's Grilled Platter",
@@ -1880,8 +1880,8 @@
    "name": "Health 100",
    "category": "Filipino",
    "location": "350 Magsaysay Ave cor Private Rd, Baguio City",
-   "longitude": "none",
-   "latitude": "none",
+   "longitude": "1203",
+   "latitude": "571",
   "menu": [
     {
       "name": "Pancake & Waffles",
@@ -1949,8 +1949,8 @@
    "name": "Kubong sawali",
    "category": "Filipino",
    "location": "Military Cut-Off Road, Baguio City",
-   "longitude": "120.59941720000006",
-   "latitude": "16.4030681",
+   "longitude": "1336",
+   "latitude": "1056",
   "menu": [
     {
       "name": "Boneless Dilis at Bakang Maanghang",

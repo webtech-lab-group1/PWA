@@ -2058,8 +2058,8 @@
    "name": "La Comida de Antonio Ristorante",
    "category": "Spanish",
    "location": "501 La Azotea Bldg, Session Rd, Baguio City",
-   "longitude": "none",
-   "latitude": "none",
+   "longitude": "1224",
+   "latitude": "1124",
   "menu": [
     {
       "name": "Penera",
@@ -2167,8 +2167,8 @@
    "name": "Little John's",
    "category": "American",
    "location": "Camp John Hay, Baguio City",
-   "longitude": "none",
-   "latitude": "none",
+   "longitude": "1741",
+   "latitude": "1085",
   "menu": [
     {
       "name": "Baby Back Ribs",
@@ -2216,8 +2216,8 @@
    "name": "Lemon and Olives Greek Taverna",
    "category": "Mediterranean",
    "location": "#26 Outlook Drive, Baguio City",
-   "longitude": "120.62315650000005",
-   "latitude": "16.4108855",
+   "longitude": "1891",
+   "latitude": "859",
   "menu": [
     {
       "name": "Saganaki",
@@ -2325,8 +2325,8 @@
    "name": "Max's Restaurant",
    "category": "Filipino",
    "location": "G/F Porta Vaga Mall, Session Road, Baguio City",
-   "longitude": "120.59814460000007",
-   "latitude": "16.4123712",
+   "longitude": "1322",
+   "latitude": "832",
   "menu": [
     {
       "name": "Adobo Flakes Meal Sunny Side Up",
@@ -2434,8 +2434,8 @@
    "name": "Mini Shabu-Shabu",
    "category": "Chinese",
    "location": "3/F SM City Baguio, Baguio City",
-   "longitude": "none",
-   "latitude": "none",
+   "longitude": "1333",
+   "latitude": "904",
   "menu": [
     {
       "name": "Agedashi Tofu",
@@ -2543,8 +2543,8 @@
    "name": "O' Mai Khan",
    "category": "Mongolian",
    "location": "Upper Session Road, Baguio City",
-   "longitude": "120.60118720000003",
-   "latitude": "16.4065005",
+   "longitude": "1378",
+   "latitude": "968",
   "menu": [
     {
       "name": "Mongolian Hot Pot",
@@ -2627,8 +2627,8 @@
    "name": "Oh My Gulay",
    "category": "Filipino",
    "location": "La Azotea Building, 108 Session Road, Baguio City",
-   "longitude": "120.59810670000002",
-   "latitude": "16.411751",
+   "longitude": "1307",
+   "latitude": "841",
   "menu": [
     {
       "name": "Bulaklak Tempura",
@@ -2736,8 +2736,8 @@
    "name": "Ozark Diner",
    "category": "American",
    "location": "2 Bear's Trail cor Bareng Drive, Baguio City",
-   "longitude": "120.59385599999996",
-   "latitude": "16.383273",
+   "longitude": "1212",
+   "latitude": "1516",
   "menu": [
     {
       "name": "French Toast",
@@ -2845,8 +2845,8 @@
    "name": "Patch Cafe",
    "category": "International",
    "location": "G/F Bloomfield Hotel along Leonard Wood Rd, Baguio City",
-   "longitude": "120.60010720000002",
-   "latitude": "16.4103738",
+   "longitude": "1349",
+   "latitude": "869",
   "menu": [
     {
       "name": "Fruits and Oats",
@@ -2954,8 +2954,8 @@
    "name": "Pizza Volante",
    "category": "Italian",
    "location": "Session Road, Baguio City",
-   "longitude": "none",
-   "latitude": "none",
+   "longitude": "1296",
+   "latitude": "832",
   "menu": [
     {
       "name": "Minestone",
@@ -3063,8 +3063,8 @@
    "name": "Rufo's Famous Tapa",
    "category": "Filipino",
    "location": "Gov. Pack Road, near bus station, Baguio City",
-   "longitude": "none",
-   "latitude": "none",
+   "longitude": "1332",
+   "latitude": "869",
   "menu": [
     {
       "name": "Longaniza",
@@ -3172,8 +3172,8 @@
    "name": "Route 55 by Hernan's Kitchen",
    "category": "American",
    "location": "#55 Legarda Road, Baguio City",
-   "longitude": "none",
-   "latitude": "none",
+   "longitude": "1186",
+   "latitude": "982",
   "menu": [
     {
       "name": "Route 55 Tapa",
@@ -3281,8 +3281,8 @@
    "name": "Seafood Island Restaurant",
    "category": "Filipino",
    "location": "Baguio Technohub Retail Plaza, Camp John Hay, Baguio City",
-   "longitude": "120.60885159999998",
-   "latitude": "16.3986476",
+   "longitude": "1590",
+   "latitude": "1163",
   "menu": [
     {
       "name": "Magellan's Landing",
@@ -3370,8 +3370,8 @@
    "name": "Secret Garden",
    "category": "Italian",
    "location": "34 Paterno Street, South Drive Rd, Baguio City",
-   "longitude": "120.61125760000004",
-   "latitude": "16.4108154",
+   "longitude": "1778",
+   "latitude": "1174",
   "menu": [
     {
       "name": "Seafood Tomato Chowder",
@@ -3479,8 +3479,8 @@
    "name": "Sage Restaurant",
    "category": "American",
    "location": "95 Military Cut-off Road, Baguio City",
-   "longitude": "none",
-   "latitude": "none",
+   "longitude": "1455",
+   "latitude": "1060",
   "menu": [
     {
       "name": "Classic Chicken-Pork Adobo",
@@ -3588,8 +3588,8 @@
    "name": "Shakey's",
    "category": "American",
    "location": "3/F SM City Baguio, Luneta Hill Drive, Baguio City",
-   "longitude": "none",
-   "latitude": "none",
+   "longitude": "1340",
+   "latitude": "905",
   "menu": [
     {
       "name": "Calamari Crrrunch",
@@ -3697,8 +3697,8 @@
    "name": "Starbucks Coffee",
    "category": "International",
    "location": "G/F SM City Baguio, Baguio City",
-   "longitude": "none",
-   "latitude": "none",
+   "longitude": "1339",
+   "latitude": "909",
   "menu": [
     {
       "name": "Espresso",
@@ -3806,8 +3806,8 @@
    "name": "Teriyaki Boy",
    "category": "Japanese",
    "location": "2/F SM City Baguio, Luneta Hill Drive, Baguio City",
-   "longitude": "120.59940200000005",
-   "latitude": "16.409341",
+   "longitude": "1338",
+   "latitude": "904",
   "menu": [
     {
       "name": "Gyoza",
@@ -3915,8 +3915,8 @@
    "name": "The Kitchen",
    "category": "Filipino",
    "location": "80 Upper Gen. Luna Road, Baguio City",
-   "longitude": "120.6026369",
-   "latitude": "16.4118626",
+   "longitude": "1418",
+   "latitude": "831",
   "menu": [
     {
       "name": "Solomon's Bistek Supreme",
@@ -4024,8 +4024,8 @@
    "name": "Vizco's Restaurant and Bakeshop",
    "category": "International",
    "location": "G/F Baguio AyalaLand TechnoHub, Camp John Hay, Baguio City",
-   "longitude": "120.60835810000003",
-   "latitude": "16.3984469",
+   "longitude": "1300",
+   "latitude": "826",
   "menu": [
     {
       "name": "Baby Back Ribs",
@@ -4133,8 +4133,8 @@
    "name": "Wood Nymph",
    "category": "Korean",
    "location": "36 Military Cut-Off Road, Baguio City",
-   "longitude": "",
-   "latitude": "",
+   "longitude": "1415",
+   "latitude": "1062",
   "menu": [
     {
       "name": "go-dung-uh gui / Grilled Mackerel",

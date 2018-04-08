@@ -1,6 +1,6 @@
 var area = document.getElementById('map');
-var elemLeft = area.offsetLeft
-var elemTop = area.offsetTop
+var elemLeft = area.offsetLeft;
+var elemTop = area.offsetTop;
 var context = area.getContext('2d');
 var restaurants = [];
 var resto;
@@ -93,3 +93,22 @@ function dropdownMenu() {
 		dropdown.className = "topnav";
   }
 };
+
+
+
+function searchNow() {
+    resto = request.response;
+	var elem = document.getElementById("inputForm");
+	
+	for (i = 0; i < resto.length; i++) { 
+		if(resto[i].name === elem.elements[0].value){
+			for ( j = 0; j < 20; j++ ){
+				var menuName = resto[i].menu[j].name;
+				var menuDesc = resto[i].menu[j].description;
+				var menuPrice = resto[i].menu[j].price;
+				alert(menuName + "   " + menuDesc + "   " + menuPrice);
+			}
+		}
+	}
+
+}

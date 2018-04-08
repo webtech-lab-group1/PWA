@@ -13,9 +13,8 @@ request.open('GET', requestUrl);
 request.responseType = 'json';
 request.send();
 
-window.onload = function() {
+request.onload = function() {
 	resto = request.response;
-	initWidth = document.documentElement.clientWidth;
 	// Add element.
 	resto.forEach(function(restaurant) {
 		restaurants.push({
@@ -29,12 +28,19 @@ window.onload = function() {
 	// Render elements.
 	restaurants.forEach(function(restaurant) {
 		context.fillStyle = restaurant.colour;
+		context.fill();
 		context.beginPath();
 		context.arc(restaurant.left, restaurant.top, restaurant.radius, 0, 2 * Math.PI);
 		context.stroke();
 	});
-	make_all_location();
+}
+
+window.onload = function() {
+	initWidth = document.documentElement.clientWidth;
 };
+
+
+make_all_location();
 //loading of map
 function make_base() {
 	var base_image = new Image();
@@ -75,7 +81,6 @@ area.addEventListener('click', function(event) {
 		if (y < restaurant.top + restaurant.radius && y > restaurant.top - restaurant.radius
 			&& x < restaurant.left + restaurant.radius && x > restaurant.left - restaurant.radius) {
 			alert(restaurant.name);
-			console.log((restaurant.top + restaurant.radius),(restaurant.top - restaurant.radius));
 		}
 	});
 }, false);

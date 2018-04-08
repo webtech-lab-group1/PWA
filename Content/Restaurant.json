@@ -3,14 +3,14 @@
    "name": "50's Diner",
    "category": "American",
    "location": "4/F Porta Vaga Mall, Session Road, Baguio City",
-   "longitude": "1306",
-   "latitude": "825",
+   "left": "1306",
+   "top": "825",
    "menu": [
-   	 {
+    	 {
       "name": "Chicken Spears",
       "description": "Spicy loin of chicken deep fried with hot spicy breading nuggets style",
       "price": "100.00"
-    },
+      },
      {
       "name": "White Chicken",
       "description": "Pcs of chicken marinated with herbs then steam to perfection. Serve with rice",
@@ -40,7 +40,7 @@
       "name": "She",
       "description": "Her legs, her chop, her breaded fish, her minute steak, her hotdog, her fries and vegetable. Most especially her dessert",
       "price": "185.00"
-   },
+    },
     {
       "name": "Guys On The Hood",
       "description": "A combination of pork chop, slice pizza, chicken, spaghetti and garlic bread, serve w/ fries and vegetable",
@@ -101,7 +101,7 @@
       "description": "Diners catch of the day. And deep fried until golden brown, served w/ rice",
       "price": "130.00"
     },
-     {
+    {
       "name": "Gangsta Gangsta",
       "description": "Scarface warriors favorite, grilled porkchop, fried chicken, veg in oyster sauce, chicken roll, rice and egg",
       "price": "140.00"
@@ -112,8 +112,8 @@
    "name": "Amare La Cucina",
    "category": "Italian",
    "location": "EGI Albergo Hotel, 1 Villamor Dr, Lualhati, Baguio City",
-   "longitude": "1758",
-   "latitude": "799",
+   "left": "1758",
+   "top": "799",
   "menu": [
     {
       "name": "Insalata Verde",
@@ -221,8 +221,8 @@
    "name": "Arca's Yard",
    "category": "International",
    "location": "777 Tiptop, Ambuklao Rd, Baguio City",
-   "longitude": "1892",
-   "latitude": "427",
+   "left": "1892",
+   "top": "427",
   "menu": [
     {
       "name": "Benguet Coffee",
@@ -330,8 +330,8 @@
    "name": "Beggang Resto Grill",
    "category": "Filipino",
    "location": "Skating Rink, Burnham Park, Baguio City",
-   "longitude": "1266",
-   "latitude": "910",
+   "left": "1266",
+   "top": "910",
   "menu": [
     {
       "name": "Tapang Taal",
@@ -439,8 +439,8 @@
    "name": "Baguio Craft Brewery",
    "category": "International",
    "location": "Ben Palispis Highway, Baguio City",
-   "longitude": "897",
-   "latitude": "1248",
+   "left": "897",
+   "top": "1248",
   "menu": [
     {
       "name": "Fish and Chips",
@@ -538,8 +538,8 @@
    "name": "Cafe Adriana by Hill Station",
    "category": "Spanish",
    "location": "Outlook Ridge Residences, V. De los Reyes Street, DMCI, Outlook Drive, Baguio City",
-   "longitude": "1928",
-   "latitude": "818",
+   "left": "1928",
+   "top": "818",
   "menu":[
     {
       "name": "English Muffin",
@@ -644,120 +644,11 @@
   ]
  },
  {
-   "name": "Cafe in the sky",
-   "category": "Filipino",
-   "location": "Mt Sto Tomas, Poblacion Kabuyao, Tuba, Baguio City",
-   "longitude": "wala sa map",
-   "latitude": "wala",
-  "menu": [
-     {
-      "name": "Crispy Sky Rolls",
-      "description": "Starters",
-      "price": "130.00"
-   },
-    {
-      "name": "Fried Pork with Tofu",
-      "description": "Savory pork stir fried in oyster and soy sauce over warm, silky soft tofu",
-      "price": "130.00"
-   },
-    {
-      "name": "French Fries",
-      "description": "served with special sauce",
-      "price": "110.00"
-   },
-    {
-      "name": "Nachos with Cheese",
-      "description": "nachos served with creamy cheese sauce",
-      "price": "110.00"
-   },
-    {
-      "name": "Nachos with Salsa",
-      "description": "nachos served with spring onion, tomato, capsicum, parsley, olive oil and lime juice. Season with salt and pepper.",
-      "price": "110.00"
-   },
-    {
-      "name": "Beef with Oyster Sauce",
-      "description": "Stir fried beef with oyster sauce",
-      "price": "160.00"
-   },
-    {
-      "name": "Fried Chicken Rice",
-      "description": "Chicken with a house speacialty of cafe in the sky",
-      "price": "140.00"
-   },
-    {
-      "name": "Sky Rice",
-      "description": "homemade authentic rice by sky cafe",
-      "price": "165.00"
-   },
-    {
-      "name": "Beef with Broccoli or Cauliflower",
-      "description": "Stir fried beef with oyster sauce mixed with fresh cauliflower",
-      "price": "225.00"
-   },
-    {
-      "name": "Crispy Lechon Kawali",
-      "description": "a popular Filipino dish made with pork belly simmered until tender and then deep-fried until golden and crisp",
-      "price": "250.00"
-   },
-    {
-      "name": "Fried Lemon Chicken",
-      "description": "chicken pieces coated in batter, then rolled in almond slivers and deep-fried, and served with the lemon-glaze sauce.",
-      "price": "215.00"
-   },
-    {
-      "name": "Kung Fu Chicken",
-      "description": "House Specialties",
-      "price": "215.00"
-   },
-    {
-      "name": "Sweet & Sour Boneless Bangus",
-      "description": "Fried Boneless bangus mixed with sweet and sour sauce",
-      "price": "200.00"
-   },
-    {
-      "name": "Sizzling Chili Hotdogs with Onions",
-      "description": "Stir fried hotdogs with chili sauce topped with onions",
-      "price": "175.00"
-   },
-    {
-      "name": "Bangus (Milkfish) Sisig",
-      "description": "Hot plates with egg",
-      "price": "210.00"
-   },
-    {
-      "name": "Pork Sisig",
-      "description": "shredded pork with onions, chili peppers and lemon extract",
-      "price": "210.00"
-   },
-    {
-      "name": "Sky Burger",
-      "description": "Topped with bacon & deep fried onion rings in BBQ sauce",
-      "price": "255.00"
-   },
-    {
-      "name": "Ultimate Cheese Burger",
-      "description": "Topped with caramelized onions",
-      "price": "225.00"
-   },
-    {
-      "name": "Club Sandwich",
-      "description": "sliced cooked poultry, fried bacon, lettuce, tomato, and mayonnaise",
-      "price": "240.00"
-   },
-    {
-      "name": "Grilled Cheese Sandwich",
-      "description": "Grill until lightly browned and flip over; continue grilling until cheese is melted",
-      "price": "130.00"
-   }
-  ]
- },
- {
    "name": "Cafe Will",
    "category": "International",
    "location": "MH Del Pilar Legarda Rd, Baguio City",
-   "longitude": "1176",
-   "latitude": "930",
+   "left": "1176",
+   "top": "930",
   "menu": [
     {
       "name": "Grilled Black Jack Ribs",
@@ -865,8 +756,8 @@
    "name": "Camping Date",
    "category": "Korean",
    "location": "363 Legarda Road, in front of Prince Plaza Hotel, Baguio",
-   "longitude": "1146",
-   "latitude": "895",
+   "left": "1146",
+   "top": "895",
   "menu": [
     {
       "name": "Cheese Pizza",
@@ -934,8 +825,8 @@
    "name": "Classic Savory",
    "category": "Filipino",
    "location": "132 Upper Ground Floor, Sm City Baguio, Luneta Hill Drive,",
-   "longitude": "1344",
-   "latitude": "927",
+   "left": "1344",
+   "top": "927",
   "menu": [
     {
       "name": "Shanghai Rolls",
@@ -1043,8 +934,8 @@
    "name": "Chef's Home",
    "category": "Asian",
    "location": "13 Outlook Dr cor Romulo Drive, Baguio City",
-   "longitude": "977",
-   "latitude": "1144",
+   "left": "977",
+   "top": "1144",
   "menu": [
     {
       "name": "Pickles Tester",
@@ -1152,8 +1043,8 @@
    "name": "David's Tea house",
    "category": "Chinese",
    "location": "3/F SM City Baguio, Baguio City",
-   "longitude": "1340",
-   "latitude": "928",
+   "left": "1340",
+   "top": "928",
   "menu": [
     {
       "name": "Polonchay w/ Seafood Soup",
@@ -1261,8 +1152,8 @@
    "name": "Dencio's Bar and Grill",
    "category": "Filipino",
    "location": "Mile-Hi Center, Camp John Hay, Baguio City, Camp John Hay, Baguio, Benguet",
-   "longitude": "1742",
-   "latitude": "1080",
+   "left": "1742",
+   "top": "1080",
   "menu": [
     {
       "name": "Krunchy Kwek Kwek",
@@ -1370,8 +1261,8 @@
    "name": "Don Henrico's",
    "category": "Italian",
    "location": "Lower G/F SM City Baguio, Baguio City",
-   "longitude": "1337",
-   "latitude": "904",
+   "left": "1337",
+   "top": "904",
   "menu": [
     {
       "name": "Homestyle Onion Rings",
@@ -1479,8 +1370,8 @@
    "name": "Ebai's Cafe & Pastry",
    "category": "International",
    "location": "Narda Bldg., 151 Upper Session Rd, Baguio City",
-   "longitude": "1388",
-   "latitude": "985",
+   "left": "1388",
+   "top": "985",
   "menu": [
     {
       "name": "Filipino Breakfast",
@@ -1588,8 +1479,8 @@
    "name": "Foggy Mountain Cookhouse",
    "category": "Mediterranean",
    "location": "172 St Joseph Street, San Carlos Heights, Baguio City",
-   "longitude": "588",
-   "latitude": "877",
+   "left": "588",
+   "top": "877",
   "menu": [
     {
       "name": "Oven Roasted Whole Chicken",
@@ -1662,8 +1553,8 @@
    "name": "Forest House Bistro & Cafe",
    "category": "International",
    "location": "16 Loakan Rd, Camp John Hay, Baguio City",
-   "longitude": "1521",
-   "latitude": "1070",
+   "left": "1521",
+   "top": "1070",
   "menu": [
     {
       "name": "Forest House Home Made Bagnet",
@@ -1771,8 +1662,8 @@
    "name": "Giligan's Island",
    "category": "Filipino",
    "location": "7 Legarda Rd cor G Del Pilar St, Baguio City",
-   "longitude": "1141",
-   "latitude": "864",
+   "left": "1141",
+   "top": "864",
   "menu": [
     {
       "name": "Gilligan's Grilled Platter",
@@ -1880,8 +1771,8 @@
    "name": "Health 100",
    "category": "Filipino",
    "location": "350 Magsaysay Ave cor Private Rd, Baguio City",
-   "longitude": "1203",
-   "latitude": "571",
+   "left": "1203",
+   "top": "571",
   "menu": [
     {
       "name": "Pancake & Waffles",
@@ -1949,8 +1840,8 @@
    "name": "Kubong sawali",
    "category": "Filipino",
    "location": "Military Cut-Off Road, Baguio City",
-   "longitude": "1336",
-   "latitude": "1056",
+   "left": "1336",
+   "top": "1056",
   "menu": [
     {
       "name": "Boneless Dilis at Bakang Maanghang",
@@ -2058,8 +1949,8 @@
    "name": "La Comida de Antonio Ristorante",
    "category": "Spanish",
    "location": "501 La Azotea Bldg, Session Rd, Baguio City",
-   "longitude": "1224",
-   "latitude": "1124",
+   "left": "1224",
+   "top": "1124",
   "menu": [
     {
       "name": "Penera",
@@ -2167,8 +2058,8 @@
    "name": "Little John's",
    "category": "American",
    "location": "Camp John Hay, Baguio City",
-   "longitude": "1741",
-   "latitude": "1085",
+   "left": "1741",
+   "top": "1085",
   "menu": [
     {
       "name": "Baby Back Ribs",
@@ -2216,8 +2107,8 @@
    "name": "Lemon and Olives Greek Taverna",
    "category": "Mediterranean",
    "location": "#26 Outlook Drive, Baguio City",
-   "longitude": "1891",
-   "latitude": "859",
+   "left": "1891",
+   "top": "859",
   "menu": [
     {
       "name": "Saganaki",
@@ -2325,8 +2216,8 @@
    "name": "Max's Restaurant",
    "category": "Filipino",
    "location": "G/F Porta Vaga Mall, Session Road, Baguio City",
-   "longitude": "1322",
-   "latitude": "832",
+   "left": "1322",
+   "top": "832",
   "menu": [
     {
       "name": "Adobo Flakes Meal Sunny Side Up",
@@ -2434,8 +2325,8 @@
    "name": "Mini Shabu-Shabu",
    "category": "Chinese",
    "location": "3/F SM City Baguio, Baguio City",
-   "longitude": "1333",
-   "latitude": "904",
+   "left": "1333",
+   "top": "904",
   "menu": [
     {
       "name": "Agedashi Tofu",
@@ -2543,8 +2434,8 @@
    "name": "O' Mai Khan",
    "category": "Mongolian",
    "location": "Upper Session Road, Baguio City",
-   "longitude": "1378",
-   "latitude": "968",
+   "left": "1378",
+   "top": "968",
   "menu": [
     {
       "name": "Mongolian Hot Pot",
@@ -2627,8 +2518,8 @@
    "name": "Oh My Gulay",
    "category": "Filipino",
    "location": "La Azotea Building, 108 Session Road, Baguio City",
-   "longitude": "1307",
-   "latitude": "841",
+   "left": "1307",
+   "top": "841",
   "menu": [
     {
       "name": "Bulaklak Tempura",
@@ -2736,8 +2627,8 @@
    "name": "Ozark Diner",
    "category": "American",
    "location": "2 Bear's Trail cor Bareng Drive, Baguio City",
-   "longitude": "1212",
-   "latitude": "1516",
+   "left": "1212",
+   "top": "1516",
   "menu": [
     {
       "name": "French Toast",
@@ -2845,8 +2736,8 @@
    "name": "Patch Cafe",
    "category": "International",
    "location": "G/F Bloomfield Hotel along Leonard Wood Rd, Baguio City",
-   "longitude": "1349",
-   "latitude": "869",
+   "left": "1349",
+   "top": "869",
   "menu": [
     {
       "name": "Fruits and Oats",
@@ -2954,8 +2845,8 @@
    "name": "Pizza Volante",
    "category": "Italian",
    "location": "Session Road, Baguio City",
-   "longitude": "1296",
-   "latitude": "832",
+   "left": "1296",
+   "top": "832",
   "menu": [
     {
       "name": "Minestone",
@@ -3063,8 +2954,8 @@
    "name": "Rufo's Famous Tapa",
    "category": "Filipino",
    "location": "Gov. Pack Road, near bus station, Baguio City",
-   "longitude": "1332",
-   "latitude": "869",
+   "left": "1332",
+   "top": "869",
   "menu": [
     {
       "name": "Longaniza",
@@ -3172,8 +3063,8 @@
    "name": "Route 55 by Hernan's Kitchen",
    "category": "American",
    "location": "#55 Legarda Road, Baguio City",
-   "longitude": "1186",
-   "latitude": "982",
+   "left": "1186",
+   "top": "982",
   "menu": [
     {
       "name": "Route 55 Tapa",
@@ -3281,8 +3172,8 @@
    "name": "Seafood Island Restaurant",
    "category": "Filipino",
    "location": "Baguio Technohub Retail Plaza, Camp John Hay, Baguio City",
-   "longitude": "1590",
-   "latitude": "1163",
+   "left": "1590",
+   "top": "1163",
   "menu": [
     {
       "name": "Magellan's Landing",
@@ -3370,8 +3261,8 @@
    "name": "Secret Garden",
    "category": "Italian",
    "location": "34 Paterno Street, South Drive Rd, Baguio City",
-   "longitude": "1778",
-   "latitude": "1174",
+   "left": "1778",
+   "top": "1174",
   "menu": [
     {
       "name": "Seafood Tomato Chowder",
@@ -3479,8 +3370,8 @@
    "name": "Sage Restaurant",
    "category": "American",
    "location": "95 Military Cut-off Road, Baguio City",
-   "longitude": "1455",
-   "latitude": "1060",
+   "left": "1455",
+   "top": "1060",
   "menu": [
     {
       "name": "Classic Chicken-Pork Adobo",
@@ -3588,8 +3479,8 @@
    "name": "Shakey's",
    "category": "American",
    "location": "3/F SM City Baguio, Luneta Hill Drive, Baguio City",
-   "longitude": "1340",
-   "latitude": "905",
+   "left": "1340",
+   "top": "905",
   "menu": [
     {
       "name": "Calamari Crrrunch",
@@ -3697,8 +3588,8 @@
    "name": "Starbucks Coffee",
    "category": "International",
    "location": "G/F SM City Baguio, Baguio City",
-   "longitude": "1339",
-   "latitude": "909",
+   "left": "1339",
+   "top": "909",
   "menu": [
     {
       "name": "Espresso",
@@ -3806,8 +3697,8 @@
    "name": "Teriyaki Boy",
    "category": "Japanese",
    "location": "2/F SM City Baguio, Luneta Hill Drive, Baguio City",
-   "longitude": "1338",
-   "latitude": "904",
+   "left": "1338",
+   "top": "904",
   "menu": [
     {
       "name": "Gyoza",
@@ -3915,8 +3806,8 @@
    "name": "The Kitchen",
    "category": "Filipino",
    "location": "80 Upper Gen. Luna Road, Baguio City",
-   "longitude": "1418",
-   "latitude": "831",
+   "left": "1418",
+   "top": "831",
   "menu": [
     {
       "name": "Solomon's Bistek Supreme",
@@ -4024,8 +3915,8 @@
    "name": "Vizco's Restaurant and Bakeshop",
    "category": "International",
    "location": "G/F Baguio AyalaLand TechnoHub, Camp John Hay, Baguio City",
-   "longitude": "1300",
-   "latitude": "826",
+   "left": "1300",
+   "top": "826",
   "menu": [
     {
       "name": "Baby Back Ribs",
@@ -4133,8 +4024,8 @@
    "name": "Wood Nymph",
    "category": "Korean",
    "location": "36 Military Cut-Off Road, Baguio City",
-   "longitude": "1415",
-   "latitude": "1062",
+   "left": "1415",
+   "top": "1062",
   "menu": [
     {
       "name": "go-dung-uh gui / Grilled Mackerel",

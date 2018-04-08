@@ -80,6 +80,7 @@ canvas#map {
   height: 100%;
   width: auto;
   overflow: hidden;
+  background-image: url("map/zoom15.bmp");
 }
 
 /*############ responsive ##########*/

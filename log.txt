@@ -1,0 +1,305 @@
+commit 49b02a9c418d4e479b823a0396b36ba58e22c8fe
+Author: Ivan Torcuato <2137332@slu.edu.ph>
+Date:   Tue Apr 10 10:14:29 2018 +0800
+
+    changes
+
+commit 7d4de31189d780d5929858020c79dd03722387dd
+Author: Ivan Torcuato <2137332@slu.edu.ph>
+Date:   Tue Apr 10 10:01:56 2018 +0800
+
+    cange
+
+commit e592d70a8d611343abc3e2372255f44a14eacf6d
+Author: Ivan Torcuato <2137332@slu.edu.ph>
+Date:   Tue Apr 10 09:55:21 2018 +0800
+
+    another change
+
+commit c65040c9fdd0150d186bc45c55e64b681efc0c66
+Author: Ivan Torcuato <2137332@slu.edu.ph>
+Date:   Tue Apr 10 09:52:05 2018 +0800
+
+    minor change
+
+commit 1a5c41a752ad2698f9be92f304bf0b78350d1579
+Author: Ivan Torcuato <2137332@slu.edu.ph>
+Date:   Tue Apr 10 09:44:47 2018 +0800
+
+    minor change
+
+commit f18693306acc0093a750dc807c6483a05246a739
+Author: Ivan Torcuato <2137332@slu.edu.ph>
+Date:   Tue Apr 10 09:42:13 2018 +0800
+
+    changes
+
+commit d64a308b59a98fd42c94453132bff9f7c4d185f3
+Merge: cc83877 916267b
+Author: Ivan Torcuato <2137332@slu.edu.ph>
+Date:   Tue Apr 10 09:33:29 2018 +0800
+
+    Merge branch 'master' of https://github.com/webtech-lab-group1/PWA
+
+commit cc83877902c89f791e344154e86134d4774d4011
+Author: Ivan Torcuato <2137332@slu.edu.ph>
+Date:   Tue Apr 10 09:27:21 2018 +0800
+
+    adding of other files
+
+commit 916267b9764562080699087fcb7cb7ad8b81a0a5
+Author: raoulmadayag <2103929@slu.edu.ph>
+Date:   Tue Apr 10 00:27:49 2018 +0800
+
+    adding of changes in javascript
+
+commit d9b57146be42f251e532ac5be9fa5688dd76c7a6
+Author: justine <2166247@slu.edu.ph>
+Date:   Sun Apr 8 17:53:17 2018 +0800
+
+    added search function
+
+commit 331045f6917f136b102a04dc8c887bf4dc23f22d
+Author: Ivan Torcuato <2137332@slu.edu.ph>
+Date:   Sun Apr 8 17:28:16 2018 +0800
+
+    change for the initial load of json file
+
+commit 01f3e7219b50825d81fcb007d4f04eebe21aabdf
+Author: Ivan Torcuato <2137332@slu.edu.ph>
+Date:   Sun Apr 8 17:01:40 2018 +0800
+
+    major change
+
+commit f131f82b4d83973874f3c82bd4fb1053845ab905
+Merge: 31573e8 2205d9d
+Author: Cj ayon-ayon <2162354@slu.edu.ph>
+Date:   Sun Apr 8 00:13:18 2018 +0800
+
+    Merge branch 'master' of https://github.com/webtech-lab-group1/PWA
+
+commit 31573e8276027151eed84dfe15668dfb50fb5a6c
+Author: Cj ayon-ayon <2162354@slu.edu.ph>
+Date:   Sun Apr 8 00:12:16 2018 +0800
+
+    updated longitude and latitude 1-21
+
+commit 2205d9d1dbc3da5bc0205b713be83702b4194090
+Author: Jacqyy <35624812+Jacqyy@users.noreply.github.com>
+Date:   Sun Apr 8 00:11:23 2018 +0800
+
+    Update Restaurant.json
+
+commit 71e888a70488b2c7f9337b629bdec489114331a1
+Author: Ivan Torcuato <2137332@slu.edu.ph>
+Date:   Sat Apr 7 17:30:21 2018 +0800
+
+    some changes
+
+commit bc58ed5035886123be89dc1a80ae9b9a58954506
+Author: Ivan Torcuato <2137332@slu.edu.ph>
+Date:   Sat Apr 7 16:47:57 2018 +0800
+
+    adding of add circle to js
+
+commit 3fb88a6a716875dc45b9d9d7da38acb287710ae9
+Author: Ivan Torcuato <2137332@slu.edu.ph>
+Date:   Wed Apr 4 21:16:09 2018 +0800
+
+    change
+
+commit 456cbedeab6c920d56bbbbfa188e21856b4c8034
+Merge: 2ba8b58 c3de779
+Author: Ivan Torcuato <2137332@slu.edu.ph>
+Date:   Wed Apr 4 21:13:47 2018 +0800
+
+    Merge branch 'master' of https://github.com/webtech-lab-group1/PWA
+
+commit 2ba8b58a02ccc83509179be0e3be2c7e7ddd2fb6
+Merge: 2477648 6197101
+Author: Ivan Torcuato <2137332@slu.edu.ph>
+Date:   Wed Apr 4 21:08:56 2018 +0800
+
+    Merge branch 'master' of https://github.com/webtech-lab-group1/PWA
+
+commit c3de7795d05c28545d7e3f36500e4962adec39fd
+Merge: 2477648 6197101
+Author: Ivan Torcuato <2137332@slu.edu.ph>
+Date:   Wed Apr 4 21:08:56 2018 +0800
+
+    Merge branch 'master' of https://github.com/webtech-lab-group1/PWA
+
+commit 2477648ffa9cbcd1a78b0a664443165a8a5f7e7d
+Author: Ivan Torcuato <2137332@slu.edu.ph>
+Date:   Tue Apr 3 22:31:00 2018 +0800
+
+    some changes
+
+commit 6197101b65017034d2522088bc4e152f9cd74568
+Author: Jacqyy <35624812+Jacqyy@users.noreply.github.com>
+Date:   Wed Apr 4 17:12:51 2018 +0800
+
+    Add files via upload
+
+commit a905b9f6c2466f3813458b9d29c85b42adb706ce
+Author: Jacqyy <35624812+Jacqyy@users.noreply.github.com>
+Date:   Wed Apr 4 17:11:53 2018 +0800
+
+    Delete restuarant.json
+
+commit 182221276f9afa31227492678d6800fd13df9f2e
+Author: Jacqyy <35624812+Jacqyy@users.noreply.github.com>
+Date:   Wed Apr 4 17:05:40 2018 +0800
+
+    Add files via upload
+
+commit ca0164ea96c664433e4e6f2b074e77712efc0f0a
+Author: Jacqyy <35624812+Jacqyy@users.noreply.github.com>
+Date:   Wed Apr 4 17:05:07 2018 +0800
+
+    Delete restuarant.json
+
+commit 17f3c970dbad7dea714705d523fb3024bfe0e645
+Author: Ivan Torcuato <2137332@slu.edu.ph>
+Date:   Tue Apr 3 22:31:00 2018 +0800
+
+    adding of map img and change in html/css/js
+
+commit e598fc55e98f01d8d5f3ea5b38016356641b4eaf
+Merge: ec39c84 e1530ac
+Author: Ivan Torcuato <2137332@slu.edu.ph>
+Date:   Sun Apr 1 14:34:31 2018 +0800
+
+    Merge branch 'master' of https://github.com/webtech-lab-group1/PWA
+
+commit ec39c84fcec8f6843b0b419a7acb921c6cad8a10
+Author: Ivan Torcuato <2137332@slu.edu.ph>
+Date:   Sun Apr 1 14:33:18 2018 +0800
+
+    some changes
+
+commit e1530ac3386b14763ff7751063267814cbca9503
+Author: Jacqyy <35624812+Jacqyy@users.noreply.github.com>
+Date:   Mon Mar 26 14:57:08 2018 +0800
+
+    Update restuarant.json
+
+commit c0d03d4e12f775892fecddb766aa06ea946b4f5d
+Author: Jacqyy <35624812+Jacqyy@users.noreply.github.com>
+Date:   Mon Mar 26 14:45:08 2018 +0800
+
+    Update restuarant.json
+
+commit c02e2d35461aab8f5b2168e2f95685ba4f103996
+Author: Cj ayon-ayon <2162354@slu.edu.ph>
+Date:   Mon Mar 26 14:24:20 2018 +0800
+
+    edit
+
+commit 2795ba28ae9a60fe63d7de8307ec86a304a26df0
+Author: Jacqyy <35624812+Jacqyy@users.noreply.github.com>
+Date:   Mon Mar 26 14:22:40 2018 +0800
+
+    Update restuarant.json
+
+commit eefcb76e5ec75382adf769661833a30e0478726b
+Author: Jacqyy <35624812+Jacqyy@users.noreply.github.com>
+Date:   Mon Mar 26 14:08:51 2018 +0800
+
+    Update restuarant.json
+
+commit c7dc9cf4679c8be050828c9210fc8ba2b4dd3326
+Author: Cj ayon-ayon <2162354@slu.edu.ph>
+Date:   Mon Mar 26 13:49:53 2018 +0800
+
+    all menu
+
+commit 505512596c76539c5fb0fde72c4b9ea12e9a579f
+Author: Cj ayon-ayon <2162354@slu.edu.ph>
+Date:   Mon Mar 26 12:53:23 2018 +0800
+
+    sample
+
+commit b799ae8e01dd120973361c20d058cc9ee97b0cfb
+Author: Jacqyy <35624812+Jacqyy@users.noreply.github.com>
+Date:   Mon Mar 26 12:38:51 2018 +0800
+
+    Add files via upload
+
+commit 5f3969645c4726ea320f0bdc9dc9031ed2b5e6d1
+Author: Cj ayon-ayon <2162354@slu.edu.ph>
+Date:   Mon Mar 26 11:55:40 2018 +0800
+
+    replace
+
+commit 9dd1ed4b599ba22820c2d9acd6176402ea900202
+Author: Ivan Torcuato <2137332@slu.edu.ph>
+Date:   Wed Mar 21 16:19:20 2018 +0800
+
+    other things
+
+commit 78c7681d9ac52bdf2867a2dfdf0035490e5395f8
+Author: blank-2 <34050368+blank-2@users.noreply.github.com>
+Date:   Tue Mar 20 22:56:07 2018 +0800
+
+    Delete readme
+
+commit ad7747fcc4cb1f224050602a0857529bf54b6f19
+Author: blank-2 <34050368+blank-2@users.noreply.github.com>
+Date:   Tue Mar 20 22:55:37 2018 +0800
+
+    designs in png format added
+
+commit 49a8d175613dfd43ecc31daad848ac225018d8bc
+Author: blank-2 <34050368+blank-2@users.noreply.github.com>
+Date:   Tue Mar 20 22:54:47 2018 +0800
+
+    Create readme
+
+commit 3797c38797ab3ac1c20a44fb965e5611eba4fb0b
+Author: blank-2 <34050368+blank-2@users.noreply.github.com>
+Date:   Tue Mar 20 22:54:17 2018 +0800
+
+    Delete design
+
+commit c7b970f4201b05ef87b616b9b9b74208ea3f7a5c
+Author: blank-2 <34050368+blank-2@users.noreply.github.com>
+Date:   Tue Mar 20 22:52:21 2018 +0800
+
+    Create design
+
+commit 5d44a2f50374c3b57f0d5b42d6e75d6def30d3fc
+Author: Cj ayon-ayon <2162354@slu.edu.ph>
+Date:   Tue Mar 20 02:13:20 2018 +0800
+
+    initial restuarant json file
+
+commit 25227f412d7ff21cc29df7c78eb6ce14211b26fc
+Author: Jacqyy <35624812+Jacqyy@users.noreply.github.com>
+Date:   Tue Mar 20 02:09:12 2018 +0800
+
+    Add files via upload
+
+commit 1ab07f56c63333ea8cf21e06575efe46352b6f61
+Author: Cj ayon-ayon <2162354@slu.edu.ph>
+Date:   Tue Mar 20 02:06:35 2018 +0800
+
+    added initial menu
+
+commit 1d8596ea08c36746adcdc534e92d861b36bd6b00
+Author: Ivan Torcuato <2137332@slu.edu.ph>
+Date:   Sat Mar 17 17:28:48 2018 +0800
+
+    adding of map in index
+
+commit c9709638d2a7f32d2657d85245333f356a8319ef
+Author: Biyenaaa <aikaviend@gmail.com>
+Date:   Thu Mar 15 23:26:34 2018 +0800
+
+    adding of first html, css, javascript and responsive na
+
+commit 608accdb904bc517677ce80870d94f1da44ff46f
+Author: Sightless01 <Sightless01@users.noreply.github.com>
+Date:   Sat Mar 10 16:36:57 2018 +0800
+
+    Initial commit

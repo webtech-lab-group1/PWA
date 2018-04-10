@@ -200,7 +200,7 @@ var icon = document.getElementById('search');
 icon.onclick = function() {
 	var form = document.getElementById('inputForm');
 	resto.forEach(function(restaurant) {
-		if(form.elements[0].value.toLowerCase() === restaurant.name.toLowerCase()) {
+		if(restaurant.name.toLowerCase().includes(form.elements[0].value.toLowerCase())) {
 			removeClickEvent();
 			removeSomeClickEvent(list);
 			context.clearRect(0, 0, imgwid, imghgt);

@@ -12,21 +12,31 @@
         <li class="dropdownIcon"><a href="javascript:void(0);" onclick="dropdownMenu()">&#9776;</a></li>
         <li class="topnav-right">
           <div class="search-bar">
-            <form>
+            <form id="inputForm">
               <input class="inputbar" name="searchbar" type="text" placeholder="search...">
             </form>
-            <a href="search">&#x1F50D;</a>
+            <a id="search">&#x1F50D;</a>
           </div>
         </li>
-        <li id="korean"><a href="#">Korean</a></li>
-        <li><a href="#">Japanese</a></li>
-        <li><a href="#">American</a></li>
-        <li><a href="#">Filipino</a></li>
-        <li><a href="#">Italian</a></li>
-        </ul>
+        <li id="American" class="categ"><a href="javascript:void(0);">American</a></li>
+        <li id="Asian" class="categ"><a href="javascript:void(0);">Asian</a></li>
+        <li id="Chinese" class="categ"><a href="javascript:void(0);">Chinese</a></li>
+        <li id="Filipino" class="categ"><a href="javascript:void(0);">Filipino</a></li>
+        <li id="International" class="categ"><a href="javascript:void(0);">International</a></li>
+        <li id="Italian" class="categ"><a href="javascript:void(0);">Italian</a></li>
+        <li id="Japanese" class="categ"><a href="javascript:void(0);">Japanese</a></li>
+        <li id="Korean" class="categ"><a href="javascript:void(0);">Korean</a></li>
+        <li id="Mediterranean" class="categ"><a href="javascript:void(0);">Mediterranean</a></li>
+        <li id="Mongolian" class="categ"><a href="javascript:void(0);">Mongolian</a></li>
+        <li id="Spanish" class="categ"><a href="javascript:void(0);">Spanish</a></li>
+      </ul>
     </nav>
     <div class="container">
-      <canvas id="map"></canvas>
+      <div id="rest-container">
+      </div>
+      <div class="map">
+        <canvas id="map"></canvas>
+      </div>
     </div>
     <script src="script.js" type="text/javascript"></script>
     <script src="dragscroll.js" type="text/javascript"></script>

@@ -27,8 +27,8 @@ nav ul {
 }
 
 div.container {
-  display: block;
   margin-left: 250px;
+  width: 100%;
 }
 
 ul.topnav li {
@@ -42,6 +42,16 @@ ul.topnav li.topnav-right {
   float: right;
 }
 
+ul.topnav li.topnav-right div.search-bar {
+  display: block;
+  text-align: center;
+  min-height: 16px;
+}
+
+ul.topnav li.topnav-right div.search-bar a {
+  float: right;
+}
+
 ul.topnav li a {
   display: block;
   text-decoration: none;
@@ -50,16 +60,6 @@ ul.topnav li a {
   padding: 14px;
   text-transform: uppercase;
   color: #666;
-}
-
-ul.topnav li.topnav-right div.search-bar {
-  display: block;
-  text-align: center;
-  min-height: 16px;
-}
-
-div.search-bar a {
-  float: right;
 }
 
 div.search-bar form {
@@ -138,4 +138,66 @@ canvas#map {
     right: 0;
     padding: 0;
   }
+}
+
+/*############# HIDDEN CONTENT ###############*/
+div.container div#rest-container {
+  margin-left: 10%;
+  margin-right: 80%;
+  margin-top: 100px;
+  width: 300px;
+  height: auto;
+  background-color: #eee;
+  overflow: hidden;
+  position: fixed;
+  display: none;
+}
+
+div.container div#rest-container.show {
+  display: block;
+}
+
+div.somebox {
+  padding: auto;
+}
+
+div.somebox h1 {
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+div.somebox h3 {
+  padding-left: 10px;
+}
+
+div.somebox p {
+  padding-left: 10px;
+}
+
+div.somebox div.divBot {
+  margin: auto;
+  text-align: center;
+}
+
+div.somebox div.divBot button.menuButton {
+  font-size: 20px;
+  padding: 10px;
+}
+
+div.somebox div#menu {
+  overflow-y: scroll;
+  height: 160px;
+}
+
+.menuItem {
+  padding-left: 10px;
+}
+
+.menuItem p {
+  padding-left: 15px;
+}
+
+.menuItem h4 {
+  padding-left: 10px;
 }

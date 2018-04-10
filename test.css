@@ -1,0 +1,54 @@
+body, html, div {
+  margin: 0;
+  padding: 0;
+  display: block;
+}
+
+div.somebox {
+  margin: auto;
+  margin-top: 100px;
+  border: 3px solid;
+  width: 300px;
+  height: 400px;
+  background-color: #eee;
+  overflow: hidden;
+}
+
+div.somebox h1 {
+  text-align: center;
+}
+
+div.somebox h3 {
+  padding-left: 10px;
+}
+
+div.somebox p {
+  padding-left: 10px;
+}
+
+div.somebox div.divBot {
+  margin: auto;
+  text-align: center;
+}
+
+div.somebox div.divBot button.menuButton {
+  font-size: 20px;
+  padding: 10px;
+}
+
+div.somebox div#menu {
+  overflow-y: scroll;
+  height: 160px;
+}
+
+.menuItem {
+  padding-left: 10px;
+}
+
+.menuItem p {
+  padding-left: 15px;
+}
+
+.menuItem h4 {
+  padding-left: 10px;
+}

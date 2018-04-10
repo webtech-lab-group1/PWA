@@ -18,6 +18,33 @@ self.addEventListener('install', e => {
   );
 });
 
+let CACHE = 'cache';
+
+self.addEventListener('install', function(evt) {
+    console.log('The service worker is being installed.');
+    evt.waitUntil(precache());
+});
+
+self.addEventListener('fetch', function(evt) {
+    console.log('The service worker is serving the asset.');
+    evt.respondWith(fromCache(evt.request));
+});
+function precache() {
+    return caches.open(CACHE).then(function (cache) {
+        return cache.addAll([
+          `/`,
+          `/index.html`,
+          `/style.css`,
+          `/script.js`,
+          `/map/zoom15.bmp`,
+          `/dragscroll.js`,
+          `/Content/Restaurant.json`,
+          `/manifest.json`,
+          `images/icons/icon-144x144.png`
+        ]);
+    });
+}
+
 self.addEventListener('activate', event => {
   event.waitUntil(self.clients.claim());
 });
